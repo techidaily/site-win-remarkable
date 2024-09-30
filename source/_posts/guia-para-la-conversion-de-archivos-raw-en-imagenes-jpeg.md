@@ -1,7 +1,7 @@
 ---
 title: Guía Para La Conversión De Archivos RAW en Imágenes JPEG
-date: 2024-09-21T17:32:55.358Z
-updated: 2024-09-26T02:12:19.422Z
+date: 2024-09-29T16:06:47.177Z
+updated: 2024-09-30T16:35:54.081Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd881c03ccdd13266e6df3b21d0.jpg
@@ -152,6 +152,19 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
@@ -163,16 +176,10 @@ Afficher plus
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
@@ -190,10 +197,10 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -230,6 +237,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -243,10 +257,10 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -293,13 +307,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -320,6 +327,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -396,13 +410,6 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -461,16 +468,16 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -503,16 +510,16 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -557,13 +564,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -607,24 +607,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-boosting-video-playback-speed-on-instagram/"><u>[New] In 2024, Boosting Video Playback Speed on Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-precision-in-capturing-androids-best-techniques-for-2024/"><u>[New] Precision in Capturing Android's Best Techniques for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-maximize-communication-video-conferencing-tips-for-android/"><u>[Updated] Maximize Communication Video Conferencing Tips for Android</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-quest-for-perfection-topiary-angles-in-mobile-photography/"><u>[Updated] The Quest for Perfection Topiary Angles in Mobile Photography</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/movavionline-arwtiff/"><u>「Movaviで簡単に無料Online ARWからTIFFへのファイル変換」</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-prime-fb-downloader-pack-for-ff-browsing-enthusiasts/"><u>2024 Approved Prime FB Downloader Pack for FF Browsing Enthusiasts</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/convertisseur-video-sans-frais-convertissez-votre-fichier-ogm-en-format-mkv-en-lignes-directes-avec-movavi/"><u>Convertisseur Vidéo Sans Frais - Convertissez Votre Fichier OGM en Format MKV en Lignes Directes Avec Movavi</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/correct-iosandroid-video-failures-on-fb/"><u>Correct iOS/Android Video Failures on FB</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/descubre-la-tecnica-para-incluir-musica-gratuita-en-tu-videografia-digital/"><u>Descubre La Técnica Para Incluir Música Gratuita en Tu Videografía Digital</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722961314504-free-windows-8-amd-radeon-hd-video-card-driver-software-downloads-available-now/"><u>FREE Windows 8 AMD Radeon HD Video Card Driver Software Downloads Available Now!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/geautomatiseerde-mkv-naar-avi-converter-behaalpbare-efficient-soluties-van-movavi/"><u>Geautomatiseerde MKV Naar AVI Converter: Behaalpbare, Efficiënt Soluties Van Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-brand-trust-through-video-praise/"><u>In 2024, Brand Trust Through Video Praise</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-safe-to-get-your-iphone-13-wet-or-should-you-avoid-it/"><u>Is It Safe to Get Your iPhone 13 Wet or Should You Avoid It?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/lol-meme-creator-tool/"><u>LOL Meme Creator Tool</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/movavi-neftiff/"><u>Movaviで対応 - NEFからTIFFへの自由なオンラインファイルコンバート</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/online-omzettingen-loodsen-m4b-files-gratis-korting-bei-movavi/"><u>Online Omzettingen Loodsen M4B Files Gratis - Korting Bei Movavi</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/os-melhores-substitutos-do-imovie-para-android-em-2024-uma-comparacao-completa/"><u>Os Melhores Substitutos Do iMovie Para Android Em 2024: Uma Comparação Completa</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/transforma-tus-audios-wma-en-versiones-de-alta-calidad-en-formato-wav-usando-la-herramienta-movavi-completamente-gratis/"><u>Transforma Tus Audios WMA en Versiones De Alta Calidad en Formato WAV Usando La Herramienta Movavi, Completamente Gratis</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/trasformare-i-file-wmv-in-formato-mov-online-e-gratuiti-con-convertitore-di-movavi/"><u>Trasformare I File WMV in Formato MOV OnLine E Gratuiti Con Convertitore Di Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-photo-tips-for-exquisite-iphone-close-ups-and-macros-for-2024/"><u>[New] Innovative Photo Tips for Exquisite iPhone Close-Ups & Macros for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-listening-in-text-out-no-fee-required/"><u>[Updated] Listening In, Text Out – No Fee Required</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-complete-checklist-for-youtube-video-resolution-and-size/"><u>[Updated] The Complete Checklist for YouTube Video Resolution and Size</u></a></li>
+<li><a href="https://tools.techidaily.com/5kplayer/products/"><u>5kplayer's Products</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comment-transformer-votre-fichier-swf-en-multiprecedes-guide-complet-avec-movavi/"><u>Comment Transformer Votre Fichier SWF en Multiprécédés : Guide Complet Avec Movavi</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/converti-file-mpeg-a-formato-wmv-online-e-gratuitamente-con-movavi/"><u>Converti File MPEG a Formato WMV OnLine E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/easy-and-fast-mp3-to-m4a-file-conversion-download-movavis-free-online-audio-transcoding-software/"><u>Easy and Fast MP3 to M4A File Conversion: Download Movavi’s Free Online Audio Transcoding Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-moto-g14-by-drfone-android/"><u>How to Bypass FRP on Motorola Moto G14?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-stereo-mix-functionality-on-your-device/"><u>How to Restore Stereo Mix Functionality on Your Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-online-capture-for-tech-enthusiasts/"><u>In 2024, Essential Online Capture for Tech Enthusiasts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/online-3gp-to-swf-transformation-no-cost-with-movavi-video-editor/"><u>Online 3GP to SWF Transformation - No Cost with Movavi Video Editor</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/online-gratuite-conversie-van-movavicom-from-asf-to-avi-bestandstypes/"><u>Online Gratuite Conversie Van movavi.com - From .asf to .avi Bestandstypes</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/quick-and-easy-methods-to-transform-any-video-into-iphone-compatible-formats/"><u>Quick & Easy Methods to Transform Any Video Into iPhone-Compatible Formats</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015779749-steelseries-arctis-e-headset-mic-issues-heres-how-to-get-it-working-again/"><u>SteelSeries Arctis E Headset Mic Issues? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/streamlined-file-transformation-convert-your-qt-videos-to-high-quality-mp4-without-cost-using-our-tools/"><u>Streamlined File Transformation: Convert Your QT Videos to High-Quality MP4 Without Cost Using Our Tools</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/vrijwillige-omzetting-van-wav-bestandjes-online-gratistamfbeelding-movavi/"><u>Vrijwillige Omzetting Van WAV-Bestandjes Online - Gratistamfbeelding Movavi</u></a></li>
 </ul></div>
 
