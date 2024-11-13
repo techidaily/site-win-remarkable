@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Fixes for Critical Failure Message: 0XC1900205 in Windows"
-date: 2024-10-29T23:15:58.733Z
-updated: 2024-11-04T01:58:09.287Z
+date: 2024-11-05T21:16:21.459Z
+updated: 2024-11-13T02:52:52.620Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4e3e4e20f2e0bcfb8f432b00.jpg
@@ -60,6 +60,13 @@ In a word, if you want to make an image back for your computer or want to clone 
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Image Your Computer with Norton Ghost
 
 1\. Install Norton Ghost and open it. It will run a step-by-step wizard the first time you open it. At last, you will see the **Easy Setup** interface where you can create a backup at once. You can also click the **Cancel** option and set the backup task later.
@@ -74,6 +81,13 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -90,10 +104,10 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
@@ -104,21 +118,7 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -168,23 +168,16 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 👉 **Notes:**
 
 * In case your computer cannot start normally, you can **[create a bootable media](https://tools.techidaily.com/ubackup/products/)** using CD/DVD or USB flash drive in advance to help boot your computer. When your computer goes wrong, you can boot the computer using the bootable media and perform a system restore to get everything back to normal.
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Restore Disk & Files
 
@@ -199,6 +192,13 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
@@ -209,6 +209,13 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -249,10 +256,10 @@ Was the provided information useful? Your vote is important to us!
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -276,10 +283,10 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
@@ -289,13 +296,6 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -314,24 +314,19 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-boost-viewership-cost-effectively-with-subscriber-purchase/"><u>[New] 2024 Approved Boost Viewership Cost-Effectively with Subscriber Purchase</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-ascending-audio-the-ultimate-budget-friendly-asmr-kit-selection/"><u>[New] In 2024, Ascending Audio - The Ultimate Budget-Friendly ASMR Kit Selection</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-lost-video-steps-to-fix-sony-a6400-problem/"><u>[New] Lost Video Steps to Fix Sony A6400 Problem</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-seamless-scenes-integrating-fade-inout-effects/"><u>[Updated] In 2024, Seamless Scenes Integrating Fade In/Out Effects</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-olympic-sprint-spotlight-year-2022/"><u>2024 Approved Olympic Sprint Spotlight Year 2022</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-10-editors-seamless-image-transformation-pro/"><u>2024 Approved Prime 10 Editors Seamless Image Transformation Pro</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/aomei-backupper-free-alternatives-for-time-machine-on-windows-version-10-8-and-7-unlock-seamless-data-recovery/"><u>AOMEI Backupper: Free Alternatives for Time Machine on Windows (Version 10, 8, and 7) - Unlock Seamless Data Recovery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-collaboration-how-bz-joins-forces-with-ms-to-revolutionize-game-design-and-ai-language-tech-talk/"><u>Cutting-Edge Collaboration: How BZ Joins Forces with MS to Revolutionize Game Design and AI Language [Tech Talk]</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/diy-system-recovery-learn-the-ins-and-outs-of-creating-your-own-control-panel-restore-points-for-free/"><u>DIY System Recovery: Learn the Ins and Outs of Creating Your Own Control Panel Restore Points for Free</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guide-complet-pour-reinitialiser-votre-pc-avec-windows-11-une-methode-par-etape/"><u>Guide Complet Pour Réinitialiser Votre PC Avec Windows 11 : Une Méthode Par Étape</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-s21-a-step-down-from-predecessors/"><u>In-Depth Analysis of the Samsung Galaxy S21: A Step Down From Predecessors?</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/le-due-tecniche-migliori-per-spostare-il-sistema-operativo-sul-tuo-ultimo-ssd-samsung-una-guida-completa/"><u>Le Due Tecniche Migliori per Spostare Il Sistema Operativo Sul Tuo Ultimo SSD Samsung: Una Guida Completa</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-instagram-the-ultimate-guide-to-viral-popularity-for-2024/"><u>Mastering Instagram The Ultimate Guide to Viral Popularity for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/metodos-simples-para-restaurar-dados-perdidos-no-windows-11-ou-10-sem-backup-previo/"><u>Métodos Simples Para Restaurar Dados Perdidos No Windows 11 Ou 10 Sem Backup Prévio</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/move-data-seamlessly-across-pcs-using-windows-os-versions-111087/"><u>Move Data Seamlessly Across PCs Using Windows OS (Versions 11/10/8/7)</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/mover-instalacion-del-fabricante-oem-de-windows-11-a-un-disco-duro-actualizado/"><u>Mover Instalación Del Fabricante (OEM) De Windows 11 a Un Disco Duro Actualizado</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/wiederherstellung-von-abgesturzten-powerpoint-dateien-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Abgestürzten PowerPoint-Dateien: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/wiederherstellung-von-nicht-gespeicherten-office-dateien-unter-libreoffice-professionelle-tipps-und-tricks/"><u>Wiederherstellung Von Nicht Gespeicherten Office-Dateien Unter LibreOffice - Professionelle Tipps Und Tricks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-acquiring-free-music-youtube-video-edition/"><u>[New] 2024 Approved Acquiring Free Music YouTube Video Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-attenuating-audio-gradually-in-fl-projects/"><u>[New] Attenuating Audio Gradually in FL Projects</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-create-successful-tiktok-videos-on-desktopandroidiphone/"><u>[New] In 2024, How to Create Successful Tiktok Videos on Desktop/Android/iPhone?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-breaking-free-from-virtual-reality-discomfort/"><u>[Updated] In 2024, Breaking Free From Virtual Reality Discomfort</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unlock-your-potential-youtube-thumbnail-creation-on-macos/"><u>[Updated] In 2024, Unlock Your Potential YouTube Thumbnail Creation on macOS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-caption-implementation-essentials/"><u>[Updated] YouTube Caption Implementation Essentials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-the-pros-and-cons-of-a-career-in-devops-engineering/"><u>A Comprehensive Guide to the Pros and Cons of a Career in DevOps Engineering</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-non-responsive-multiplayer-mode-of-elden-ring-a-guide/"><u>Fixing the Non-Responsive Multiplayer Mode of Elden Ring: A Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guida-facile-alla-copia-di-un-album-disco-su-nuovo-hard-drive-scopri-come/"><u>Guida Facile Alla Copia Di Un Album Disco Su Nuovo Hard Drive - Scopri Come!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-instructions-for-retrieving-lost-drone-videos-from-the-dji-go-platform/"><u>Step-by-Step Instructions for Retrieving Lost Drone Videos From the DJI GO Platform</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/top-3-free-methods-for-generating-a-disk-imaging-file-on-windows-11-a-step-by-step-guide/"><u>Top 3 FREE Methods for Generating a Disk Imaging File on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/two-methods-for-moving-images-from-your-pc-to-a-flash-drive-on-windows-11/"><u>Two Methods for Moving Images From Your PC to a Flash Drive on Windows 11</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728488568593-windows-11-8/"><u>Windows 11上文件夹丢失后措施重建 | 8种有效方式</u></a></li>
 </ul></div>
 
