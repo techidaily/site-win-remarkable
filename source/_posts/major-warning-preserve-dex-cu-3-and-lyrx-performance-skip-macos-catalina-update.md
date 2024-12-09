@@ -1,7 +1,7 @@
 ---
 title: "MAJOR WARNING: Preserve DEX Cu 3 & LYRX Performance, Skip macOS Catalina Update!"
-date: 2024-11-27T23:59:04.653Z
-updated: 2024-11-30T17:35:35.676Z
+date: 2024-12-07T04:34:04.417Z
+updated: 2024-12-08T23:15:55.729Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,20 +48,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-srt-postings-a-guide-for-platform-specific-strategies/"><u>[New] Mastering the Art of SRT Postings A Guide for Platform-Specific Strategies</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comprendre-et-resoudre-lopen-random-de-powershell-windows-foires-et-remedes/"><u>Comprendre Et Résoudre L'Open Random De PowerShell Windows: Foires Et Remèdes</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ensename-como-habilitar-windows-11-23h2-con-optimizacion-seo-tutorial-completo-sobre-instalacion-e-informes-de-respaldo/"><u>Enséñame Cómo Habilitar Windows 11 23H2 Con Optimización SEO: Tutorial Completo Sobre Instalación E Informes De Respaldo</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-indispensable-gaming-accessory-traits/"><u>Exploring Indispensable Gaming Accessory Traits</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guia-paso-a-paso-para-transferir-informacion-entre-dos-tabletas-microsoft-surface/"><u>Guía Paso a Paso Para Transferir Información Entre Dos Tabletas Microsoft Surface</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-eyeem-pro-your-ultimate-guide-to-freepaid-substitutes/"><u>In 2024, EyeEm Pro Your Ultimate Guide to Free/Paid Substitutes</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-framefixer-editor/"><u>In 2024, FrameFixer Editor</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/leveraging-tech-for-efficient-facebook-to-whatsapp-video-sharing-for-2024/"><u>Leveraging Tech for Efficient Facebook to WhatsApp Video Sharing for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/optimal-file-removal-suite-for-windows-users-introducing-stellar-wipe-tool-with-scheduler-setup/"><u>Optimal File Removal Suite for Windows Users: Introducing Stellar Wipe Tool with Scheduler Setup</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/spotting-and-purging-redundant-photographs-in-external-memory-drives-a-step-by-step-guide/"><u>Spotting & Purging Redundant Photographs in External Memory Drives: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/tecnicas-optimas-para-restaurar-particiones-en-ssd-una-guia-definitiva/"><u>Técnicas Óptimas Para Restaurar Particiones en SSD: Una Guía Definitiva</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-for-when-shadowplay-wont-capture-on-a-pc-setup/"><u>The Ultimate Fix for When ShadowPlay Won’t Capture on a PC Setup</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/voortgang-tot-afwerking-databankgebruik-met-windows-11-nog-aan-het-begin/"><u>Voortgang Tot Afwerking Databankgebruik Met Windows 11 - Nog Aan Het Begin</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/44oh44kj44k544kv56m644gn44ks56k65lplusd44gz44kl44gf44kb44gr44k744kk44ky44o844oi44oa44od44k344ol44oc44o844oj5lik44gn44oq44od44kv44ki44od44ox44ov44kh44kk44or516/"><u>ディスク空きを確保するためにセイゲートダッシュボード上でバックアップファイル削除方法</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles/"><u>[Updated] Unveiling the Immersive Era VR's Progress & Upcoming Struggles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-found-solving-total-war-warhammer-iii-pc-game-crash-issues/"><u>Fixes Found! Solving TOTAL WAR: WARHAMMER III PC Game Crash Issues</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-prevent-and-troubleshoot-pc-overheating-expert-advice-from-yl-software/"><u>How to Prevent and Troubleshoot PC Overheating: Expert Advice From YL Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ranked-10-best-low-cost-user-friendly-passport-photo-services/"><u>In 2024, Ranked 10 Best Low-Cost, User-Friendly Passport Photo Services</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sharpen-your-snaps-the-elite-eight-of-grids-and-frames/"><u>In 2024, Sharpen Your Snaps The Elite Eight of Grids and Frames</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-mouse-configuration-tips-and-tricks-from-yl-software-experts/"><u>Mastering Mouse Configuration: Tips and Tricks From YL Software Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quantum-leap-the-most-astonishing-sci-fi-films-of-metaverses/"><u>Quantum Leap The Most Astonishing Sci-Fi Films of Metaverses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reclaim-lost-content-a-user-friendly-guide-to-accessing-saved-instagram-reels-again/"><u>Reclaim Lost Content: A User-Friendly Guide to Accessing Saved Instagram Reels Again</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/resolving-gpu-malfunction-alerts-expert-tips-from-yl-computing/"><u>Resolving GPU Malfunction Alerts: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-your-pcs-hardware-issues-under-windows-with-expert-tips-from-yl-software/"><u>Solving Your PC's Hardware Issues Under Windows with Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/understanding-the-causes-behind-your-pcs-sudden-crashes-insights-from-yl-computing/"><u>Understanding the Causes Behind Your PC's Sudden Crashes - Insights From YL Computing</u></a></li>
 </ul></div>
 

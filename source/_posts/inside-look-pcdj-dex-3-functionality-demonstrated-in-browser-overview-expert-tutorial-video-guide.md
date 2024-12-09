@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: PCDJ Dex 3 Functionality Demonstrated in Browser Overview - Expert Tutorial Video Guide"
-date: 2024-11-26T02:38:01.390Z
-updated: 2024-11-30T20:31:49.150Z
+date: 2024-12-07T21:09:18.144Z
+updated: 2024-12-08T23:59:15.998Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 3 is in the final stages of beta testing, and the excitement is building here at PCDJ HQ.
@@ -29,7 +29,7 @@ For the majority of the last 10 months our development team has basically lived 
 We collectively agree that DEX 3 will be PCDJ’s **best DJ software** for mixing _everything_ (**audio, music videos and karaoke**). As outlined in [**this**](https://tools.techidaily.com/pcdj/products/) previous DEX 3 browser blog post, the new browser has been a major focal point; it’s been completely redesigned to be more robust, responsive and cross-platform ready. One of our beta team members has been testing with 300,000+ tracks (audio, karaoke and video) and search and navigation remain just as fast as having only 3 tracks in the library. This can be attested to the new browser being a true database, unlike in previous PCDJ products. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **In this DEX 3 browser overview video I showcase a few of the new browser capabilities, including setting folders as favorites (nested groups), navigating using keyboard commands, what the new browser icons mean and sorting within the library:**
@@ -39,7 +39,7 @@ We collectively agree that DEX 3 will be PCDJ’s **best DJ software** for mixin
 #### **If you’d like to demo the existing PCDJ DEX 2 version (free upgrades will be included to DEX 3 for all DEX 2 owners!), you can download it [_HERE_](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,18 +61,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/browserpreviewvideo3.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-copyright-quest-for-content-creators-tiktok-edition/"><u>[New] 2024 Approved Copyright Quest for Content Creators (TikTok Edition)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-11-auditory-capture-devices-reviewed-here/"><u>[New] 2024 Approved Top 11 Auditory Capture Devices Reviewed Here</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-easy-steps-to-install-windows-movie-maker-6/"><u>[New] Easy Steps to Install Windows Movie Maker 6</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-optimizing-visual-engagement-in-google-meet-sessions/"><u>[New] Optimizing Visual Engagement in Google Meet Sessions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-7-enhancements-for-an-optimal-stardew-farming-experience/"><u>[Updated] Top 7 Enhancements for an Optimal Stardew Farming Experience</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1728461717215-windows/"><u>修复技巧：适用于Windows操作系统的三星数据转移软件安装瓶颈</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/complete-step-by-step-instructions-boosting-your-hp-victus-15l-with-an-ssd/"><u>Complete Step-by-Step Instructions: Boosting Your HP Victus 15L with an SSD</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/esegui-il-salvataggio-di-tutti-i-tuoi-contatti-gmail-strategie-superiori-per-una-protezione-affidabile/"><u>Esegui Il Salvataggio Di Tutti I Tuoi Contatti Gmail: Strategie Superiori per Una Protezione Affidabile</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-graphics-card-drivers-on-windows-11-fast-and-simple-download/"><u>Get the Latest NVIDIA Graphics Card Drivers on Windows 11: Fast and Simple Download</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/hpssd/"><u>HPストリームミニにおけるSSDのアップグレード方法完全ガイド - 詳しく見て</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/restoring-your-deleted-youtube-history-and-video-archive/"><u>Restoring Your Deleted YouTube History and Video Archive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-watchos-11-rollout-eligible-and-ineligible-apple-watch-models-revealed-by-techexpertzdnet/"><u>Upcoming WatchOS 11 Rollout: Eligible & Ineligible Apple Watch Models Revealed by TechExpertZDNet</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/windows-adk/"><u>Windows ADK取得手順：ステップバイステップガイド</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-above-and-beyond-perfecting-your-drone-video-craft/"><u>[New] Above and Beyond Perfecting Your Drone Video Craft</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-synergy-of-enterprises-and-immersive-virtual-worlds-for-2024/"><u>[New] Synergy of Enterprises and Immersive Virtual Worlds for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-examining-the-strengths-and-weaknesses-in-free2x-tools/"><u>[Updated] 2024 Approved Examining the Strengths and Weaknesses in Free2X Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-discovering-the-best-in-webcam-videography-tech/"><u>[Updated] In 2024, Discovering the Best in WebCam Videography Tech</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comprehensive-collection-of-hip-hop-visual-assets-backgrounds-photo-and-image-library-yl-computings-digital-media/"><u>Comprehensive Collection of Hip-Hop Visual Assets: Backgrounds, Photo & Image Library - YL Computing's Digital Media</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/dazzling-billie-eilish-visuals-for-your-pc-images-and-backdrops-from-yl-softwares-creation/"><u>Dazzling Billie Eilish Visuals for Your PC: Images and Backdrops From YL Software's Creation</u></a></li>
+<li><a href="https://tools.techidaily.com/dwgfastview/products/"><u>Dwgfastview's Products</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ensuring-security-how-to-refresh-windows-defender-with-yls-expert-advice/"><u>Ensuring Security: How to Refresh Windows Defender with YL's Expert Advice</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/high-definition-minimal-design-wallpaper-gallery-innovative-and-modern-backdrops-by-yl-tech-solutions/"><u>High-Definition Minimal Design Wallpaper Gallery - Innovative & Modern Backdrops by YL Tech Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12r-bootloader-easily-by-drfone-android/"><u>How to Unlock OnePlus 12R Bootloader Easily</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-challenges-restoring-functionality-to-a-broken-iphone-tethering-feature/"><u>Overcoming Challenges: Restoring Functionality to a Broken iPhone Tethering Feature</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/principles-of-filming-inspirational-daily-living-documentaries/"><u>Principles of Filming Inspirational Daily Living Documentaries</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/recognizing-signs-how-to-identify-if-your-sound-card-is-malfunctioning-insights-from-yl-computing/"><u>Recognizing Signs: How to Identify If Your Sound Card Is Malfunctioning - Insights From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-boot-failures-expert-tips-and-strategies-from-yl-computing/"><u>Solving Boot Failures: Expert Tips and Strategies From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-removing-files-in-windows-os-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Removing Files in Windows OS - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unlimited-sing-along-fun-dive-into-the-latest-from-party-time-karaoke-join-now-before-april-18th/"><u>Unlimited Sing-Along Fun: Dive Into the Latest From Party Time Karaoke - Join Now Before April 18Th!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/weekly-fresh-track-update-add-5-new-karaoke-hits-on-karaoke-cloud-pro-with-pcdj-technology/"><u>Weekly Fresh Track Update - Add 5 New Karaoke Hits on Karaoke Cloud Pro with PCDJ Technology</u></a></li>
 </ul></div>
 

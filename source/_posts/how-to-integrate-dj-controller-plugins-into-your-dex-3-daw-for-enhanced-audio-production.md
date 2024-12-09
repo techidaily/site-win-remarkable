@@ -1,7 +1,7 @@
 ---
 title: How to Integrate DJ Controller Plugins Into Your DEX 3 DAW for Enhanced Audio Production
-date: 2024-11-23T18:36:44.219Z
-updated: 2024-12-01T08:59:39.287Z
+date: 2024-12-02T04:38:23.082Z
+updated: 2024-12-09T11:53:08.683Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We’ll continue to add support as new DJ controllers hit the streets, but as pr
 ##### Video: This Is How To Configure Your DJ Controller Audio Interface With PCDJ DEX 3.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,20 +49,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/audioconfiguration-blog.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-pro-editor-picks-craft-the-perfect-instagram-reel-masterpiece/"><u>[New] 2024 Approved Pro Editor Picks - Craft the Perfect Instagram Reel Masterpiece</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-masters-choice-10-leading-photo-backdrop-swap-tools-for-2024/"><u>[New] Master's Choice 10 Leading Photo Backdrop Swap Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-leading-rogue-adventures-10-game-compilation-for-2024/"><u>[Updated] Leading Rogue Adventures #10 Game Compilation for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-smooth-sync-add-youtube-soundtracks-to-imovie-easily-for-2024/"><u>[Updated] Smooth Sync Add YouTube Soundtracks to iMovie Easily for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-poco-c50-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/5yaz55yf/"><u>写真</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/build-your-own-mythical-landscape-leveraging-chatgpt-for-world-creation/"><u>Build Your Own Mythical Landscape - Leveraging ChatGPT for World Creation</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-xr-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone XR Lock Screen</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comprehensive-tutorial-steps-to-successfully-add-an-extra-ssd-drive-in-windows-11/"><u>Comprehensive Tutorial: Steps to Successfully Add an Extra SSD Drive in Windows 11</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/data-resurrection-techniques-how-to-salvage-files-from-defective-hard-disk-drives/"><u>Data Resurrection Techniques: How to Salvage Files From Defective Hard Disk Drives</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/effective-strategies-for-safely-saving-your-data-prior-to-a-system-format-on-windows-operating-systems/"><u>Effective Strategies for Safely Saving Your Data Prior to a System Format on Windows Operating Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-11-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 11</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/resumos-automatizados/"><u>Resumos Automatizados</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ultimate-step-by-step-tutorial-setting-up-an-sql-database-from-scratch/"><u>Ultimate Step-by-Step Tutorial: Setting up an SQL Database From Scratch</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-becoming-a-star-spectator-on-the-social-stage-for-2024/"><u>[Updated] Becoming a Star Spectator on the Social Stage for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/can-you-rely-on-windows-defender-to-spot-and-block-harmful-software-insights-by-yl-computing/"><u>Can You Rely on Windows Defender to Spot and Block Harmful Software? - Insights by YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/diagnosing-and-fixing-non-detected-network-adapters-at-windows-startup-with-help-from-microsoft-certified-expert-yl-software/"><u>Diagnosing and Fixing Non-Detected Network Adapters at Windows Startup with Help From Microsoft Certified Expert YL Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exciting-quests-selecting-the-top-10-adventure-gaming-treasures-for-2024/"><u>Exciting Quests Selecting the Top 10 Adventure Gaming Treasures for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-connect-rca-with-a-coaxial-cable-for-extended-dj-setups-expert-advice-from-pcdj/"><u>How to Connect RCA with a Coaxial Cable for Extended DJ Setups: Expert Advice From PCDJ</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-modify-startup-settings-in-the-configuration-window/"><u>How to Modify Startup Settings in the Configuration Window</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-itunesfinder-unable-to-detect-iphone-issue-simple-steps-inside/"><u>How to Resolve iTunes/Finder Unable to Detect iPhone Issue: Simple Steps Inside</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/identifying-unresponsiveness-signs-someone-has-blocked-on-snapchat-for-2024/"><u>Identifying Unresponsiveness Signs Someone Has Blocked on Snapchat for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/impacts-of-han-dynastys-demise-on-china-political-changes-and-social-transformations-insights-by-yl-computing/"><u>Impacts of Han Dynasty's Demise on China: Political Changes & Social Transformations - Insights by YL Computing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-s18e-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo S18e FRP</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-game-capture-faceoff-evaluate-obs-and-shadowplay/"><u>In 2024, Game Capture Faceoff Evaluate OBS & ShadowPlay</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/major-warning-preserve-dex-cu-3-and-lyrx-performance-skip-macos-catalina-update/"><u>MAJOR WARNING: Preserve DEX Cu 3 & LYRX Performance, Skip macOS Catalina Update!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/speeding-up-system-initialization-expert-advice-by-yl-computing-and-yl-software/"><u>Speeding Up System Initialization: Expert Advice by YL Computing & YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tackling-sync-issues-between-your-phone-and-chromecast-audio-with-easy-fixes/"><u>Tackling Sync Issues Between Your Phone and Chromecast Audio with Easy Fixes</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-softwares-ultimate-fix-for-scanner-software-mismatch-issues/"><u>YL Software's Ultimate Fix for Scanner-Software Mismatch Issues</u></a></li>
 </ul></div>
 

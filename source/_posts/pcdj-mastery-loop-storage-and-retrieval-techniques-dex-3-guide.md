@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Mastery: Loop Storage & Retrieval Techniques - DEX 3 Guide"
-date: 2024-11-26T21:23:33.992Z
-updated: 2024-11-30T23:48:25.330Z
+date: 2024-12-06T22:38:52.053Z
+updated: 2024-12-08T18:15:26.750Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,18 +61,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebooks-essential-steps-smoothly-uploading-videos-via-pc-iosandroid-for-2024/"><u>[New] Facebook's Essential Steps Smoothly Uploading Videos via PC, iOS/Android for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/it-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques-for-2024/"><u>[New] Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques) for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-uncovering-all-shared-visuals-in-a-message-thread-for-2024/"><u>[Updated] Uncovering All Shared Visuals in a Message Thread for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ushering-bliss-into-your-unboxing-experience/"><u>[Updated] Ushering Bliss Into Your Unboxing Experience</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/best-practices-secure-your-communications-with-the-top-3-methods-of-synology-server-email-archiving/"><u>Best Practices: Secure Your Communications with the Top 3 Methods of Synology Server Email Archiving</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-edge-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Edge 2023 has native HEVC support?</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/fehlerbehebung-von-fehlercode-0x80070643-wahrend-des-kb5034441-updates-auf-windows-10/"><u>Fehlerbehebung Von Fehlercode 0X80070643 Während Des KB5034441 Updates Auf Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-handle-missing-classes-on-your-windows-11-system-solution/"><u>How to Handle Missing Classes on Your Windows 11 System [Solution]</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/soaring-above-limits-hubsans-new-h501s-x4-examined/"><u>Soaring Above Limits Hubsan's New H501S X4 Examined</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-cloning-your-hard-drive-onto-a-sandisk-ssd-using-windows-10-or-11/"><u>Step-by-Step Guide: Cloning Your Hard Drive Onto a SanDisk SSD Using Windows 10 or 11</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/vss-yses-and/"><u>VSS 儲存夥伴體析​​yses & 如何建立？ - 教程視頻</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/where-to-buy-gopro-cameras-best-cheap-gopro-deals-for-2024/"><u>Where to Buy GoPro Cameras Best Cheap GoPro Deals for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/your-pathway-to-youtube-live-success-stories-for-2024/"><u>Your Pathway to YouTube Live Success Stories for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-exploring-the-updated-sony-bdp-s6700-features/"><u>[New] In 2024, Exploring the Updated Sony BDP-S6700 Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-know-your-rights-sharing-videos-with-friends-on-fb-for-2024/"><u>[New] Know Your Rights Sharing Videos with Friends on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-optimal-mp4-to-fb-video-solution-for-2024/"><u>[New] Optimal MP4-to-FB Video Solution for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nleash-more-views-on-youtube-with-pro-tag-optimization/"><u>[New] Unleash More Views on YouTube with Pro Tag Optimization</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728483616822-windows-11/"><u>两种高效的安全措施：在Windows 11中加密文件夹</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/efficiently-renaming-files-on-your-pc-a-step-by-step-guide-with-windows-os/"><u>Efficiently Renaming Files on Your PC: A Step-by-Step Guide with Windows OS</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/enhancements-in-the-bitcoin-network-understanding-svnode-and-its-impact-on-blockchain-technology-insights-by-yl-computing/"><u>Enhancements in the Bitcoin Network: Understanding SVNode & Its Impact on Blockchain Technology - Insights by YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/free-dj-pro-sb-169-dex-3-skin-download-update-your-equipments-look/"><u>Free DJ Pro SB 16:9 DEX 3 Skin Download - Update Your Equipment's Look</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-can-i-personalize-my-desktop-wallpaper-with-yl-software-tips-from-yl-computing/"><u>How Can I Personalize My Desktop Wallpaper with YL Software - Tips From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-the-art-of-dj-business-insights-on-contractual-terms-with-michael-from-dj-news-network/"><u>Mastering the Art of DJ Business: Insights on Contractual Terms with Michael From DJ News Network</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mirabel-encanto-wallpaper-and-image-collections-background-inspiration-as-well-as-the-creators-name-yl-computing/"><u>Mirabel Encanto, Wallpaper & Image Collections, Background Inspiration, as Well as the Creator's Name YL Computing.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/quick-guide-to-overcoming-instagram-video-hiccups-for-2024/"><u>Quick Guide to Overcoming Instagram Video Hiccups for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-and-quick-gtx-760-drivers-rollouts/"><u>Smooth & Quick GTX 760 Drivers Rollouts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-low-quality-scans-a-step-by-step-guide-with-yl-computings-expertise/"><u>Solving Low-Quality Scans: A Step-by-Step Guide with YL Computing's Expertise</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/taking-flight-with-excellence-an-in-depth-review-of-microsofts-best-selling-aeronautical-masterpiece-flight-simulator-x-gold-edition/"><u>Taking Flight with Excellence: An In-Depth Review of Microsoft's Best Selling Aeronautical Masterpiece, Flight Simulator X Gold Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-iphone-camera-roll-8-tips-and-fixes-for-common-issues/"><u>The iPhone Camera Roll: 8 Tips and Fixes for Common Issues</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unveiling-your-pcs-network-details-navigating-to-the-control-panel-for-connection-views-tips-from-yl-software-experts/"><u>Unveiling Your PC's Network Details: Navigating to the Control Panel for Connection Views – Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/verifying-gpu-compatibility-with-your-video-games-insights-from-yl-computing/"><u>Verifying GPU Compatibility with Your Video Games - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726224329700-movavimpeg/"><u>オンラインでも簡単!MovaviのMPEGファイルを変換してください</u></a></li>
 </ul></div>
 

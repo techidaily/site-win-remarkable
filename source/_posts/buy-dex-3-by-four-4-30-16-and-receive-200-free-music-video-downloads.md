@@ -1,7 +1,7 @@
 ---
 title: Buy DEX 3 By Four (4-30-16) & Receive 200 FREE Music Video Downloads!
-date: 2024-11-29T22:05:28.000Z
-updated: 2024-12-01T09:36:22.837Z
+date: 2024-12-04T23:14:39.937Z
+updated: 2024-12-09T11:00:57.267Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ After your successful online [purchase and download of DEX 3](https://shop.pcdj.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## _WHY THE VIDEO POOL?_
@@ -52,7 +52,7 @@ After your successful online [purchase and download of DEX 3](https://shop.pcdj.
  _**\*NOTE:** Offer valid for online orders at PCDJ.com only through 4/30/16 (not applicable on upgrade purchases)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,22 +74,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/dex3plus200videos-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-ultimate-free-mp3-skype-call-logger/"><u>[New] Ultimate Free MP3 Skype Call Logger</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-broadcasting-to-the-big-screen-watching-fb-videos-on-tv-for-2024/"><u>[Updated] Broadcasting to the Big Screen Watching FB Videos on TV for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-dissecting-drama-introducing-chapters-to-video-content-for-2024/"><u>[Updated] Dissecting Drama Introducing Chapters to Video Content for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-hidden-gems-on-youtube-understanding-unlisted-videos/"><u>[Updated] Hidden Gems on YouTube Understanding 'Unlisted' Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterfulaiimageeditor-the-best-of-both-worlds/"><u>[Updated] MasterfulAiImageEditor The Best of Both Worlds</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comprehensive-tutorial-on-crafting-temporary-tables-using-sqls-create-table-as-understanding-its-syntax/"><u>Comprehensive Tutorial on Crafting Temporary Tables Using SQL's 'CREATE TABLE AS': Understanding Its Syntax</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/effizientes-betriebssystem-migrationsprogramm-fur-ssds-und-hdds-die-toplosung/"><u>Effizientes Betriebssystem-Migrationsprogramm Für SSDs Und HDDs: Die Toplösung</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guide-complet-construire-votre-proprio-disque-dur-externe-bootable-en-une-heure-de-classe/"><u>Guide Complet : Construire Votre Proprio Disque Dur Externe Bootable en Une Heure De Classe!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guide-facile-capturer-extraire-and-recadrer-des-images-multiplateformes-pcsmartphone/"><u>Guide Facile : Capturer, Extraire & Recadrer Des Images Multiplateformes (PC/Smartphone)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721445536785-iphone-home-button-not-working-try-these-5-easy-repairs-first/"><u>IPhone Home Button Not Working? Try These 5 Easy Repairs First!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/jpeg-konvertierung-von-icloud-fotografien-auf-einem-pc-unter-windows/"><u>JPEG Konvertierung Von iCloud Fotografien Auf Einem PC Unter Windows</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/mercury-release-from-dental-amalgam-has-been-extensively-studied-and-deemed-safe-within-clinical-limits-when-properly-used/"><u>Mercury Release From Dental Amalgam Has Been Extensively Studied and Deemed Safe Within Clinical Limits when Properly Used.</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/swift-iphone-data-retrieval-program-get-peace-of-mind/"><u>Swift iPhone Data Retrieval Program: Get Peace of Mind</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-a-missing-dark-theme-on-facebook-with-simple-fixes/"><u>Troubleshooting a Missing Dark Theme on Facebook with Simple Fixes</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/universal-compatible-substitute-for-time-machine-on-windows-11-10-8-7/"><u>Universal Compatible Substitute for Time Machine on Windows (11, 10, 8, 7)</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/vhdvhdx4/"><u>VHD/VHDXデータバックアップ：最も効果的な上位4手法</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-honor-100-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor 100 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-easy-guide-to-start-product-review-channel/"><u>[Updated] Easy Guide to Start Product Review Channel</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-youtubes-no-ad-feature/"><u>2024 Approved Mastering YouTube's No Ad Feature</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/a-detailed-review-and-alternatives-of-vocaloid6-voice-generator-for-2024/"><u>A Detailed Review & Alternatives of VOCALOID6 Voice Generator for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/boost-your-systems-velocity-expert-tips-for-enhancing-computer-efficiency-by-yl-software/"><u>Boost Your System's Velocity: Expert Tips for Enhancing Computer Efficiency by YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-unfreeze-a-macbook-air/"><u>How to Unfreeze a MacBook Air</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-versus-multimeva-defining-their-differences-clearly/"><u>In 2024, Metaverse Versus Multimeva Defining Their Differences Clearly</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/optimize-hard-drive-speed-and-reliability-with-expert-tips-by-yl-software/"><u>Optimize Hard Drive Speed & Reliability with Expert Tips by YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-service-errors-between-chatgpt-and-plugins/"><u>Overcoming Service Errors Between ChatGPT and Plugins</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-updating-your-windows-defender-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Windows Defender - Tips From YL Computing</u></a></li>
+<li><a href="https://solve-help.techidaily.com/top-7-professional-video-editing-platforms-for-creating-stunning-youtube-content-from-any-device/"><u>Top 7 Professional Video Editing Platforms for Creating Stunning YouTube Content From Any Device</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unveiling-lyrx-the-ultimate-mac-exclusive-karaoke-programming-tool/"><u>Unveiling Lyrx: The Ultimate Mac-Exclusive Karaoke Programming Tool</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LYRX 1.7 Beta Sneak Peek: Discover & Trial the Innovative Web-Based Song Library!"
-date: 2024-11-25T04:09:12.754Z
-updated: 2024-12-01T07:55:01.815Z
+date: 2024-12-07T01:43:41.602Z
+updated: 2024-12-08T23:34:10.779Z
 tags:
   - product
 categories:
@@ -39,21 +39,17 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Overview of how to use the new KSR System in LYRX 1.7 RC:
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/lyrx1.jpg?fit=1030%2C579&ssl=1 "lyrx1")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/lyrx1.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1) Open LYRX 1.7 and click the Options button. Under the “Karaoke” tab, click on the “Login to KSR” button. 
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX2.jpg?fit=1030%2C579&ssl=1 "LYRX2")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX2.jpg?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Click on the “Register / Sign Up” Option. 
 
@@ -72,7 +68,7 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX6.jpg?fit=1030%2C579&ssl=1 "LYRX6")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX6.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Restart LYRX. 
@@ -83,17 +79,25 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX8.jpg?fit=1030%2C579&ssl=1 "LYRX8")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX8.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8) Go into LYRX’s options and under the “Karaoke” tab click the “Update KSR Songbook” button to sync your list of karaoke music. You will be asked to add a venue/songbook name. Create a unique name and click “OK”. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX9.jpg?fit=1030%2C579&ssl=1 "LYRX9")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX9.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9) You will be assigned a unique venue ID. It’s this ID number you share with your singers. Singer will need to go to [ksr.pcdj.com](https://tools.techidaily.com/pcdj/products/) and create a free account. They will then be prompted for your venue ID. Once they apply the ID they can view, search, and make request from your online karaoke song book. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX10.jpg?fit=1030%2C579&ssl=1 "LYRX10")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX10.jpg?fit=1030%2C579&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10) When a singer submits a song request you will be notified in LYRX’s singer rotation list. Click “Accept” to accept the request and the singer/song will be submitted into rotation. That’s it! 
 
@@ -104,10 +108,6 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 The screenshots displayed above are of the ‘KSR web app’ that your karaoke singers will use to access your online karaoke songbook and submit song requests. They simply need to visit [ksr.pcdj.com](https://tools.techidaily.com/pcdj/products/) and create a free account, type in your songbook ID, and they’re ready to browse, search, and send in requests. They also add songs to their own personal ‘Favorites” folder within the web app. Why a web app? No need for your singers to install iOS or Android apps — any web enabled device will work!
 
 Please feel free to test the new KSR system with LYRX 1.7\. If you have issues or suggestions, post them in the [Official PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/) on Facebook (you will find a pinned thread regarding the new LYRX 1.7 Release Candidate – please post reports in that specific thread).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -128,22 +128,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/ksr-coverimage-lyrx.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-gentle-audio-dampening-on-lumafusion-platforms/"><u>[New] The Art of Gentle Audio Dampening on Lumafusion Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-a-youtube-video-to-google-slides/"><u>[Updated] 2024 Approved How to Add a YouTube Video to Google Slides</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-take-your-teamsnap-game-to-the-next-level-expert-tips/"><u>[Updated] In 2024, Take Your TeamSnap Game to the Next Level Expert Tips</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/complete-step-by-step-tutorial-on-transferring-your-hotmail-emails-to-a-windows-computer/"><u>Complete Step-by-Step Tutorial on Transferring Your Hotmail Emails to a Windows Computer</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ting-your-content-choosing-right-youtube-duosgroups-for-2024/"><u>Elevating Your Content Choosing Right YouTube Duos/Groups for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-downloads-of-premium-ulozto-content-secrets-to-speed-and-full-hd-retrievals-unveiled/"><u>Free Downloads of Premium Ulozto Content - Secrets to Speed and Full HD Retrievals Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-service-temporarily-unavailable-error-503-on-your-website/"><u>How to Resolve 'Service Temporarily Unavailable' (Error 503) on Your Website</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-upgrade-your-system-with-windows-11-moving-directly-from-hdd-to-ssd-without-os-reinstallation/"><u>How to Upgrade Your System with Windows 11, Moving Directly From HDD to SSD without OS Reinstallation</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-tips-for-altering-video-speed-on-netflix-devices/"><u>In 2024, Quick Tips for Altering Video Speed on Netflix Devices</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/re-create-the-boot-configuration-data-bcd-store/"><u>Re-Create the Boot Configuration Data (BCD) Store:</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-to-transform-dvd-video-into-avi-format-seamlessly/"><u>Simple Steps to Transform DVD Video Into AVI Format Seamlessly</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-restoring-lost-files-on-your-windows-7-hard-disk/"><u>Step-by-Step Guide: Restoring Lost Files on Your Windows 7 Hard Disk</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-safely-erasing-files-from-your-ssd-with-windows/"><u>Step-by-Step Guide: Safely Erasing Files From Your SSD with Windows</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-guide-how-to-fix-no-operating-system-detected-error-on-hyper-v/"><u>Troubleshooting Guide: How to Fix 'No Operating System Detected' Error on Hyper-V</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-windows-easy-transfer-solutions-when-unable-to-connect-to-users-domain/"><u>Troubleshooting Windows Easy Transfer: Solutions When Unable to Connect to User's Domain</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/tutorial-comment-sauvegardez-vos-fichiers-de-cle-usb-sur-windows-11-10-8-ou-7/"><u>Tutorial : Comment Sauvegardez Vos Fichiers De Clé USB Sur Windows 11, 10, 8 Ou 7</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-audio-clarity-commandments-choosing-from-the-best-6-livestreaming-mics/"><u>[New] 2024 Approved Audio Clarity Commandments Choosing From the Best 6 Livestreaming Mics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-tips-for-capturing-evening-portraits/"><u>[New] 2024 Approved Essential Tips for Capturing Evening Portraits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-audio-capturing-in-android-without-rooting-guide/"><u>[Updated] In 2024, Audio Capturing in Android - Without Rooting [Guide]</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-decibels-on-windows-integrated-bt-audio/"><u>Boosting Decibels on Windows-Integrated BT Audio</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/choosing-the-top-crypto-exchange-essential-tips-from-yl-computing-and-yl-software/"><u>Choosing the Top Crypto Exchange: Essential Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-free-wmv-video-editors-top-picks-for-web-and-desktop-use/"><u>Comprehensive Guide to FREE WMV Video Editors - Top Picks for Web and Desktop Use</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/diy-graphics-card-assessment-for-enhanced-gaming-and-visuals-expert-advice-by-yl-software/"><u>DIY Graphics Card Assessment for Enhanced Gaming and Visuals - Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/identifying-the-root-of-sluggish-computer-systems-insights-from-yl-computings-expertise/"><u>Identifying the Root of Sluggish Computer Systems: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-360-camera-buying-guide-how-to-choose-a-suitable-360-camera/"><u>In 2024, 360 Camera Buying Guide How to Choose a Suitable 360 Camera</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/introducing-karaoke-cloud-pro-v2-upgrade-from-sept-14-with-extra-tracks-the-ultimate-dj-experience/"><u>Introducing Karaoke Cloud Pro v2 Upgrade From Sept '14 with Extra Tracks: The Ultimate DJ Experience</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/is-extra-software-needed-for-windows-defender-functionality-exploring-with-yl-computing/"><u>Is Extra Software Needed for Windows Defender Functionality? - Exploring with YL Computing</u></a></li>
 </ul></div>
 

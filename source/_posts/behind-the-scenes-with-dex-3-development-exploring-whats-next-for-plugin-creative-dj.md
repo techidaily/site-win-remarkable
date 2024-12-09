@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes with DEX 3 Development - Exploring What's Next for Plugin Creative DJ
-date: 2024-11-26T05:21:35.609Z
-updated: 2024-12-01T03:26:06.240Z
+date: 2024-12-05T18:25:57.330Z
+updated: 2024-12-09T02:00:26.637Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,24 +74,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/50139702-new-jumpstart-your-channelstopwatch-seeking-viewers-with-these-youtube-seo-essentials/"><u>[New] Jumpstart Your Channel’stopwatch-Seeking Viewers with These YouTube SEO Essentials</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-beat-procrastination-with-instant-access-to-your-youtube-favorites-for-2024/"><u>[Updated] Beat Procrastination with Instant Access to Your Youtube Favorites for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-space-requirements-for-hd-video-on-64gb/"><u>2024 Approved Space Requirements for HD Video on 64GB?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-11-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 11 Pro Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/beheben-sie-das-ios-15-bluetooth-problem-mit-der-ultimativen-losung/"><u>Beheben Sie Das iOS 15 Bluetooth-Problem Mit Der Ultimativen Lösung</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ensename-como-habilitar-windows-11-23h2-con-optimizacion-seo-tutorial-completo-sobre-instalacion-e-informes-de-respaldo/"><u>Enséñame Cómo Habilitar Windows 11 23H2 Con Optimización SEO: Tutorial Completo Sobre Instalación E Informes De Respaldo</u></a></li>
-<li><a href="https://fox-links.techidaily.com/essential-guide-to-comparing-4k-youtube-converter-tools/"><u>Essential Guide to Comparing 4K YouTube Converter Tools</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/gratis-restorasi-file-gempalan-bersyarat-di-windows-gua-menjelajah-resmi-untuk-os-versi-7-11/"><u>Gratis Restorasi File Gempalan Bersyarat Di Windows - Gua Menjelajah Resmi Untuk OS Versi 7-11</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guida-completa-per-la-sincronizzazione-dei-file-da-pc-a-unita-di-memoria-esterna-in-modo-facile/"><u>Guida Completa per La Sincronizzazione Dei File: Da PC a Unità Di Memoria Esterna in Modo Facile</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/mastering-device-configuration-essential-system-preferences/"><u>Mastering Device Configuration: Essential System Preferences</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-puzzle-solved-error-avoided/"><u>Printer Puzzle Solved: Error Avoided</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/resolving-issues-with-saving-files-using-airdrop-technology/"><u>Resolving: Issues with Saving Files Using AirDrop Technology</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederinstallieren-von-backups-von-windows-7-auf-eine-neue-ssd/"><u>Schritt-Für-Schritt-Anleitung Zum Wiederinstallieren Von Backups Von Windows 지원 7 Auf Eine Neue SSD</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/seamless-file-transfer-moving-data-to-your-new-pc-with-an-external-hard-drive/"><u>Seamless File Transfer: Moving Data to Your New PC with an External Hard Drive</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/social-media-spotlight-top-twitters-for-2024/"><u>Social Media Spotlight Top Twitters for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/strategie-efficaci-per-lautomazione-backup-centralizzato-sui-servidori-windows-da-server-2008-a-server-2016/"><u>Strategie Efficaci per L'Automazione Backup Centralizzato Sui Servidori Windows: Da Server 2008 a Server 2016</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-case-for-investing-in-the-affordable-apple-m3-macbook-pro-by-experts-zdnet/"><u>The Ultimate Case for Investing in the Affordable Apple M3 MacBook Pro by Experts | ZDNet</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/wie-sie-ihre-daten-nahtlos-zwischen-zwei-ipads-ubertragen-konnen-die-top-5-methoden/"><u>Wie Sie Ihre Daten Nahtlos Zwischen Zwei iPads Übertragen Können – Die Top-5-Methoden</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-tips-save-skype-call-as-mp3-free/"><u>[Updated] 2024 Approved Expert Tips Save Skype Call as Mp3 (Free)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breaking-down-the-fastest-green-screen-methods/"><u>2024 Approved Breaking Down the Fastest Green Screen Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-hostgators-virtual-private-server-and-sharing-plans/"><u>Comprehensive Analysis: HostGator's Virtual Private Server & Sharing Plans</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/enabling-and-disabling-device-drivers-on-your-pc-a-comprehensive-guide-techmaster/"><u>Enabling & Disabling Device Drivers on Your PC: A Comprehensive Guide - TechMaster</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-innovate-in-fb-advertising-access-no-cost-video-tools/"><u>In 2024, Innovate in FB Advertising - Access No-Cost Video Tools</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/personalized-playlist-perks-join-the-premium-karaoke-cloud-pro-membership/"><u>Personalized Playlist Perks: Join the Premium Karaoke Cloud Pro Membership!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-evaluation-of-hdr-quality-with-luminance/"><u>The Evaluation of HDR Quality with Luminance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tint-tuning-toolkit/"><u>Tint Tuning Toolkit</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-a-loudly-buzzing-pc-cooling-fan-solutions-and-tips-yl-tech-support/"><u>Troubleshooting a Loudly Buzzing PC Cooling Fan: Solutions and Tips - YL Tech Support</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-solutions-for-fixing-unresponsive-scanners-after-connection-expert-advice-from-yl-computing/"><u>YL Solutions for Fixing Unresponsive Scanners After Connection - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

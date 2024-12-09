@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Retrospective: Recapping the Key Moments in PCDJ's 2017 Journey"
-date: 2024-11-26T04:22:34.576Z
-updated: 2024-12-01T03:39:14.521Z
+date: 2024-12-06T17:19:34.034Z
+updated: 2024-12-08T17:51:29.271Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2017 PCDJ Milestones
@@ -62,7 +62,7 @@ While it’s clear we haven’t exactly been resting on our laurels in 2017 we�
 As always visit the blog here often for the latest news and subscribe to the PCDJ newsletter below to stay in the loop!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,21 +84,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/pcdj2017-year-in-review.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elite-mac-video-editing-programs-sierra-edition/"><u>[New] 2024 Approved Elite Mac Video Editing Programs Sierra Edition</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-feature-music-on-instant-stories-for-2024/"><u>[New] How to Feature Music on Instant Stories for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comprehensive-tutorial-steps-to-successfully-add-an-extra-ssd-drive-in-windows-11/"><u>Comprehensive Tutorial: Steps to Successfully Add an Extra SSD Drive in Windows 11</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/einfache-schritte-zur-synchronisation-von-google-drive-auf-deinem-mac/"><u>Einfache Schritte Zur Synchronisation Von Google Drive Auf Deinem Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-tech-remote-jobs-with-virtual-reality-and-digital-twin-technology-insights-from-zdnet/"><u>Enhancing Tech Remote Jobs with Virtual Reality & Digital Twin Technology - Insights From ZDNet</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guide-detaille-installer-et-utiliser-le-disque-de-secours-asus-pour-la-recuperation-sous-windows-10-deux-approches-efficaces/"><u>Guide Détaillé : Installer Et Utiliser Le Disque De Secours ASUS Pour La Récupération Sous Windows 10 – Deux Approches Efficaces</u></a></li>
-<li><a href="https://fox-making.techidaily.com/malvertising-explained-insights-from-malwarefox-specialists/"><u>Malvertising Explained – Insights From MalwareFox Specialists</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/reliable-and-safe-samsung-870-evo-cloning-software-top-recommendations/"><u>Reliable & Safe Samsung 870 EVO Cloning Software – Top Recommendations</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/resumos-automatizados/"><u>Resumos Automatizados</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/roundup-of-ranch-games-top-10-for-friends-and-family/"><u>Roundup of Ranch Games Top 10 for Friends and Family</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-guide-free-steps-to-mastering-flv-extract-usage/"><u>Simple Guide: Free Steps to Mastering Flv Extract Usage</u></a></li>
-<li><a href="https://fox-access.techidaily.com/streamline-avi-to-gif-filmora-for-pc-and-mac-users/"><u>Streamline AVI to GIF Filmora for PC & Mac Users</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/troubleshooting-unsupported-eac3-sound-files-on-playit-media-player/"><u>Troubleshooting Unsupported EAC3 Sound Files on PlayIt Media Player</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ultimate-instruction-manual-for-seamless-transition-of-smsmms-between-generations-of-apple-phones/"><u>Ultimate Instruction Manual for Seamless Transition of SMS/MMS Between Generations of Apple Phones</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ultimate-step-by-step-tutorial-setting-up-an-sql-database-from-scratch/"><u>Ultimate Step-by-Step Tutorial: Setting up an SQL Database From Scratch</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-secrets-to-filmoras-fcc-status-for-2024/"><u>Unveiling the Secrets to Filmora’s FCC Status for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-masterful-bio-upgrade-merging-linktree-with-tiktoks-profiles/"><u>[New] 2024 Approved Masterful Bio Upgrade Merging Linktree with TikTok's Profiles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-visual-comedy-make-and-share-via-kapwing/"><u>[New] In 2024, Visual Comedy Make and Share via Kapwing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-perfected-podcasts-iphones-seamless-audio-download-routines-for-2024/"><u>[New] Perfected Podcasts IPhone's Seamless Audio Download Routines for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-charisma-strategies-to-skyrocket-your-youtube-visibility/"><u>[Updated] 2024 Approved Channel Charisma Strategies to Skyrocket Your YouTube Visibility</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mosaicmaker-elite-designing-with-digital-threads/"><u>[Updated] 2024 Approved MosaicMaker Elite Designing with Digital Threads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-logitechs-high-end-webcam-an-all-inclusive-review/"><u>[Updated] Logitech’s High-End Webcam An All-Inclusive Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-photomontages-a-comprehensive-guide/"><u>[Updated] Mastering PhotoMontages A Comprehensive Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1732516265419-yl/"><u>追溯元朝创建之地—YL软件深度解析</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ensuring-optimal-performance-from-your-fans-tips-and-tricks-from-yl-software-experts/"><u>Ensuring Optimal Performance From Your Fans - Tips and Tricks From YL Software Experts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-fix-an-undetected-hard-drive-expert-advice-from-yl-computings-guide/"><u>How to Fix an Undetected Hard Drive: Expert Advice From YL Computing's Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-2023s-fastest-route-to-convert-srt-to-txt-files/"><u>In 2024, 2023'S Fastest Route to Convert SRT to TXT Files</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/monitoring-your-pcs-ram-a-guide-on-assessing-windows-memory-status-with-yl-computing-tools/"><u>Monitoring Your PC's RAM: A Guide on Assessing Windows Memory Status with YL Computing Tools</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/resolving-colour-issues-with-your-scanner-expert-advice-by-yl-software/"><u>Resolving Colour Issues with Your Scanner - Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-scanner-connection-issues-a-step-by-step-guide-tips-from-yl-computing/"><u>Solving Scanner Connection Issues: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tcl-50s425-50-inch-roku-tv-2019-review/"><u>TCL 50S425 50-Inch Roku TV (2019) Review</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transform-your-word-docs-into-professional-pdfs-using-yl-software-solutions/"><u>Transform Your Word Docs Into Professional PDFs Using YL Software Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unveiling-crypto-currency-classes-a-deep-dive-with-yl-software-experts/"><u>Unveiling Crypto-Currency Classes: A Deep Dive with YL Software Experts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-software-presents-exclusive-bugatti-veyron-super-sport-desktop-backgrounds-free-downloads-available-now/"><u>YL Software Presents: Exclusive Bugatti Veyron Super Sport Desktop Backgrounds – Free Downloads Available Now!</u></a></li>
 </ul></div>
 
