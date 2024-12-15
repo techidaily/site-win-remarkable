@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Mastery: Loop Storage & Retrieval Techniques - DEX 3 Guide"
-date: 2024-12-06T22:38:52.053Z
-updated: 2024-12-08T18:15:26.750Z
+date: 2024-12-14T16:15:43.530Z
+updated: 2024-12-15T16:00:51.690Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,24 +61,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-exploring-the-updated-sony-bdp-s6700-features/"><u>[New] In 2024, Exploring the Updated Sony BDP-S6700 Features</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-know-your-rights-sharing-videos-with-friends-on-fb-for-2024/"><u>[New] Know Your Rights Sharing Videos with Friends on FB for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-optimal-mp4-to-fb-video-solution-for-2024/"><u>[New] Optimal MP4-to-FB Video Solution for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nleash-more-views-on-youtube-with-pro-tag-optimization/"><u>[New] Unleash More Views on YouTube with Pro Tag Optimization</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1728483616822-windows-11/"><u>两种高效的安全措施：在Windows 11中加密文件夹</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/efficiently-renaming-files-on-your-pc-a-step-by-step-guide-with-windows-os/"><u>Efficiently Renaming Files on Your PC: A Step-by-Step Guide with Windows OS</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/enhancements-in-the-bitcoin-network-understanding-svnode-and-its-impact-on-blockchain-technology-insights-by-yl-computing/"><u>Enhancements in the Bitcoin Network: Understanding SVNode & Its Impact on Blockchain Technology - Insights by YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/free-dj-pro-sb-169-dex-3-skin-download-update-your-equipments-look/"><u>Free DJ Pro SB 16:9 DEX 3 Skin Download - Update Your Equipment's Look</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-can-i-personalize-my-desktop-wallpaper-with-yl-software-tips-from-yl-computing/"><u>How Can I Personalize My Desktop Wallpaper with YL Software - Tips From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/mastering-the-art-of-dj-business-insights-on-contractual-terms-with-michael-from-dj-news-network/"><u>Mastering the Art of DJ Business: Insights on Contractual Terms with Michael From DJ News Network</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/mirabel-encanto-wallpaper-and-image-collections-background-inspiration-as-well-as-the-creators-name-yl-computing/"><u>Mirabel Encanto, Wallpaper & Image Collections, Background Inspiration, as Well as the Creator's Name YL Computing.</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/quick-guide-to-overcoming-instagram-video-hiccups-for-2024/"><u>Quick Guide to Overcoming Instagram Video Hiccups for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-and-quick-gtx-760-drivers-rollouts/"><u>Smooth & Quick GTX 760 Drivers Rollouts</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solving-low-quality-scans-a-step-by-step-guide-with-yl-computings-expertise/"><u>Solving Low-Quality Scans: A Step-by-Step Guide with YL Computing's Expertise</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/taking-flight-with-excellence-an-in-depth-review-of-microsofts-best-selling-aeronautical-masterpiece-flight-simulator-x-gold-edition/"><u>Taking Flight with Excellence: An In-Depth Review of Microsoft's Best Selling Aeronautical Masterpiece, Flight Simulator X Gold Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-iphone-camera-roll-8-tips-and-fixes-for-common-issues/"><u>The iPhone Camera Roll: 8 Tips and Fixes for Common Issues</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/unveiling-your-pcs-network-details-navigating-to-the-control-panel-for-connection-views-tips-from-yl-software-experts/"><u>Unveiling Your PC's Network Details: Navigating to the Control Panel for Connection Views – Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/verifying-gpu-compatibility-with-your-video-games-insights-from-yl-computing/"><u>Verifying GPU Compatibility with Your Video Games - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1726224329700-movavimpeg/"><u>オンラインでも簡単!MovaviのMPEGファイルを変換してください</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-guide-to-zoom-transcription-software-fee-based/"><u>[New] 2024 Approved Ultimate Guide to Zoom Transcription Software (Fee-Based)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-click-reward-spectrum/"><u>[New] The Ultimate Click Reward Spectrum</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-practices-in-confirming-your-youtube-access/"><u>[Updated] 2024 Approved Best Practices in Confirming Your YouTube Access</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifying-your-workflow-online-photo-cropping-made-simple/"><u>2024 Approved Simplifying Your Workflow Online Photo Cropping Made Simple</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/configuring-your-computers-display-settings-a-step-by-step-guide-through-control-panel-powered-by-yl-software/"><u>Configuring Your Computer's Display Settings: A Step-by-Step Guide Through Control Panel - Powered by YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/diagnosing-the-causes-of-your-erratic-network-speed-tips-from-yl-computing-solutions/"><u>Diagnosing the Causes of Your Erratic Network Speed - Tips From YL Computing Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/enhance-your-scans-with-yls-guide-to-fixing-blurry-outputs-yl-software-solutions/"><u>Enhance Your Scans with YL's Guide to Fixing Blurry Outputs - YL Software Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977541949-get-the-newest-msi-speakersheadphones-drivers-instantly/"><u>Get the Newest MSI Speakers/Headphones Drivers Instantly!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-recover-your-data-when-a-program-installation-causes-your-pc-to-freeze-expert-advice-from-yl-computing/"><u>How To Recover Your Data When A Program Installation Causes Your PC To Freeze: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-smart-7-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Smart 7 to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quintessential-20-anime-openers-sounds/"><u>In 2024, Quintessential 20 Anime Openers' Sounds</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/karaoke-programs-explore-the-best-bg-track-players-with-filler-mode-options/"><u>Karaoke Programs: Explore the Best BG Track Players with Filler Mode Options</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/planning-delivery-at-a-specialized-center-delivering-high-risk-babies-in-facilities-equipped-with-advanced-neonatal-care-resources-can-enhance-the-chances-o80/"><u>Planning Delivery at a Specialized Center: Delivering High-Risk Babies in Facilities Equipped with Advanced Neonatal Care Resources Can Enhance the Chances of Successful Outcomes for Both Mother and Baby.</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/protecting-your-digital-wealth-expert-tips-on-securely-storing-cryptocurrency-by-yl-computing-yl-software/"><u>Protecting Your Digital Wealth: Expert Tips on Securely Storing Cryptocurrency by YL Computing | YL Software</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/real-time-monitoring-of-abbyy-announcements-using-timelinepi/"><u>Real-Time Monitoring of ABBYY Announcements Using TimelinePI</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-review-how-well-does-the-zmi-powerpack-20000-meet-expectations/"><u>Top Review: How Well Does the ZMI PowerPack 20000 Meet Expectations?</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ultra-hd-audi-rs7-visuals-and-wallsavers-for-desktops-exclusive-images-from-yl-software-solutions/"><u>Ultra HD Audi RS7 Visuals & Wallsavers for Desktops - Exclusive Images From YL Software Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/updating-your-devices-hardware-drivers-a-comprehensive-guide-by-yl-computing/"><u>Updating Your Device's Hardware Drivers: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-xs-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone XS has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
 

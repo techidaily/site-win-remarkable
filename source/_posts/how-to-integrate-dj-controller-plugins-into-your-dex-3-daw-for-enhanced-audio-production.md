@@ -1,7 +1,7 @@
 ---
 title: How to Integrate DJ Controller Plugins Into Your DEX 3 DAW for Enhanced Audio Production
-date: 2024-12-02T04:38:23.082Z
-updated: 2024-12-09T11:53:08.683Z
+date: 2024-12-12T16:00:47.856Z
+updated: 2024-12-15T16:03:49.446Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We’ll continue to add support as new DJ controllers hit the streets, but as pr
 ##### Video: This Is How To Configure Your DJ Controller Audio Interface With PCDJ DEX 3.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,20 +49,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/audioconfiguration-blog.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-becoming-a-star-spectator-on-the-social-stage-for-2024/"><u>[Updated] Becoming a Star Spectator on the Social Stage for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/can-you-rely-on-windows-defender-to-spot-and-block-harmful-software-insights-by-yl-computing/"><u>Can You Rely on Windows Defender to Spot and Block Harmful Software? - Insights by YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/diagnosing-and-fixing-non-detected-network-adapters-at-windows-startup-with-help-from-microsoft-certified-expert-yl-software/"><u>Diagnosing and Fixing Non-Detected Network Adapters at Windows Startup with Help From Microsoft Certified Expert YL Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/exciting-quests-selecting-the-top-10-adventure-gaming-treasures-for-2024/"><u>Exciting Quests Selecting the Top 10 Adventure Gaming Treasures for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-connect-rca-with-a-coaxial-cable-for-extended-dj-setups-expert-advice-from-pcdj/"><u>How to Connect RCA with a Coaxial Cable for Extended DJ Setups: Expert Advice From PCDJ</u></a></li>
-<li><a href="https://fox-search.techidaily.com/how-to-modify-startup-settings-in-the-configuration-window/"><u>How to Modify Startup Settings in the Configuration Window</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-itunesfinder-unable-to-detect-iphone-issue-simple-steps-inside/"><u>How to Resolve iTunes/Finder Unable to Detect iPhone Issue: Simple Steps Inside</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/identifying-unresponsiveness-signs-someone-has-blocked-on-snapchat-for-2024/"><u>Identifying Unresponsiveness Signs Someone Has Blocked on Snapchat for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/impacts-of-han-dynastys-demise-on-china-political-changes-and-social-transformations-insights-by-yl-computing/"><u>Impacts of Han Dynasty's Demise on China: Political Changes & Social Transformations - Insights by YL Computing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-s18e-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo S18e FRP</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-game-capture-faceoff-evaluate-obs-and-shadowplay/"><u>In 2024, Game Capture Faceoff Evaluate OBS & ShadowPlay</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/major-warning-preserve-dex-cu-3-and-lyrx-performance-skip-macos-catalina-update/"><u>MAJOR WARNING: Preserve DEX Cu 3 & LYRX Performance, Skip macOS Catalina Update!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/speeding-up-system-initialization-expert-advice-by-yl-computing-and-yl-software/"><u>Speeding Up System Initialization: Expert Advice by YL Computing & YL Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tackling-sync-issues-between-your-phone-and-chromecast-audio-with-easy-fixes/"><u>Tackling Sync Issues Between Your Phone and Chromecast Audio with Easy Fixes</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/yl-softwares-ultimate-fix-for-scanner-software-mismatch-issues/"><u>YL Software's Ultimate Fix for Scanner-Software Mismatch Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unleash-creativity-personalizing-your-google-meet-interface/"><u>[New] Unleash Creativity Personalizing Your Google Meet Interface</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-detailed-video-capture-using-videoleap-tools/"><u>[Updated] Detailed Video Capture Using Videoleap Tools</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-easily-modify-display-luminosity-on-your-pc-a-step-by-step-guide-with-windows-settings-yl-computing/"><u>1. Easily Modify Display Luminosity on Your PC: A Step-by-Step Guide with Windows Settings - YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-friendly-frenemies-top-social-vr-games/"><u>2024 Approved Friendly Frenemies Top Social VR Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-quick-zoomers-guide-to-clearer-instagram-narratives/"><u>2024 Approved The Quick-Zoomer's Guide to Clearer Instagram Narratives</u></a></li>
+<li><a href="https://win11.techidaily.com/best-vmms-aligned-with-windows-11-system-requirements/"><u>Best VMMs Aligned with Windows 11 System Requirements</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/effective-strategies-for-diagnosing-and-fixing-issues-in-windows-apps-insights-from-yl-computing/"><u>Effective Strategies for Diagnosing and Fixing Issues in Windows Apps - Insights From YL Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-into-the-action-essential-fixes-for-starting-fallout-3/"><u>Get Back Into the Action: Essential Fixes for Starting Fallout 3</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/influential-revolutionary-events-in-chinese-history-igniting-political-change-and-social-disruption-a-comprehensive-study-by-yl-computing-and-software/"><u>Influential Revolutionary Events in Chinese History Igniting Political Change and Social Disruption: A Comprehensive Study by YL Computing & Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/inside-look-pcdj-dex-3-functionality-demonstrated-in-browser-overview-expert-tutorial-video-guide/"><u>Inside Look: PCDJ Dex 3 Functionality Demonstrated in Browser Overview - Expert Tutorial Video Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/setting-up-automatic-jobs-with-yl-software-a-comprehensive-guide/"><u>Setting Up Automatic Jobs with YL Software - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-instructions-for-replacing-your-computers-broken-optical-disk-reader-by-yl-software/"><u>Step-by-Step Instructions for Replacing Your Computer's Broken Optical Disk Reader by YL Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-art-of-capturing-with-iphones-micro-and-macro-lenses/"><u>The Art of Capturing with iPhone's Micro and Macro Lenses</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transition-to-professional-mixing-with-red-mobile-and-dex-kit-exclusive-99-deal-ends-jan-31-plus-an-extra-gift-bonus-for-budding-disc-jockeys/"><u>Transition to Professional Mixing with RED Mobile and DEX ³ Kit | Exclusive $99 Deal Ends Jan 31, Plus an Extra Gift Bonus for Budding Disc Jockeys</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unraveling-persistent-system-collapses-when-starting-video-games-expert-advice-by-yl-software-experts/"><u>Unraveling Persistent System Collapses When Starting Video Games: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-avs-video-editor-for-mac-video-editing-tool-for-mac/"><u>Updated AVS Video Editor for Mac Video Editing Tool for Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-gameplay-how-to-eliminate-pc-latency-problems-for-a-smooth-experience/"><u>Valorant Gameplay: How to Eliminate PC Latency Problems for a Smooth Experience</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/video-is-improv-skill-beneficial-for-djs-performances-exploring-the-link-between-comedy-training-and-music-mastery/"><u>Video: Is Improv Skill Beneficial for DJs' Performances? Exploring the Link Between Comedy Training and Music Mastery</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600578736-windows/"><u>ステラ・データレコヴァリー: Windowsで使用可能な無料のデータ回復ツール</u></a></li>
 </ul></div>
 

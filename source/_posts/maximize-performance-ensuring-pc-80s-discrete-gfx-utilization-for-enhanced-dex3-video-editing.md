@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Ensuring PC-80's DISCRETE GFX Utilization for Enhanced DEX3 Video Editing"
-date: 2024-12-06T09:39:58.980Z
-updated: 2024-12-09T02:22:39.589Z
+date: 2024-12-10T16:10:17.352Z
+updated: 2024-12-15T16:13:44.613Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How-To Make Sure DEX 3 Uses Your Dedicated Graphics Card (Windows 7, 8 and 10)
 
 **NOTE:** While these steps should work for the majority, sometimes they vary from computer manufacturer to computer manufacturer.
@@ -38,23 +34,27 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 
 [![Graphics Properties](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17181_article_big.png?fit=520%2C216&ssl=1 "Graphics Properties")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17181%5Farticle%5Fbig.png?fit=520%2C216&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Intel Graphics Media Control Panel](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17129_article_big.png?fit=520%2C389&ssl=1 "Intel Graphics Media Control Panel")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17129%5Farticle%5Fbig.png?fit=520%2C389&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2\. When the ‘Advanced Mode’ window opens click on the ‘3D tab’ and set your 3D preference to ‘Performance’.
 
 [![Intel Graphics 3D preferences](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17133_article_big.png?fit=426%2C394&ssl=1 "Intel Graphics 3D preferences")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17133%5Farticle%5Fbig.png?fit=426%2C394&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Now click on the ‘Power’ tab and set the ‘Power Plans’ to ‘Maximum Performance’.
 
 [![Power Plan Maximize Performance](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17137_article_big.png?fit=428%2C398&ssl=1 "Power Plan Maximize Performance")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17137%5Farticle%5Fbig.png?fit=428%2C398&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. Now close the ‘Intel Graphics Control Panel’. Once again right click on your desktop and select the control panel for your dedicated GPU. These will typically be NVIDIA or ATI/AMD Radeon – providing you are indeed using a computer equipped with a dedicated graphics card in addition to your build in card.
 
@@ -63,6 +63,10 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 5\. If your dedicated graphics card is NVIDIA, click on ‘Adjust Image Settings with Preview’, then select ‘Use my preference emphasizing: Performance’ and click ‘Apply’.
 
 [![Adjust Image Settings With Preview](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17145_article_big.png?fit=520%2C408&ssl=1 "Adjust Image Settings With Preview")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17145%5Farticle%5Fbig.png?fit=520%2C408&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6\. Next click on ‘Manage 3D Settings’ and select the drop down menu for ‘Global Settings’. Select the High-performance NVIDIA processor as your preferred graphics processor there and click ‘Apply’.
 
@@ -95,7 +99,7 @@ The location of the ‘dex3.exe’ is C:/Program Files(x86) / PCDJ / DEX3 /dex3.
 [![Switchable Graphics Application Settings for DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/Screen-Shot-2015-01-22-at-4.07.52-pm.png?fit=1030%2C924&ssl=1 "Switchable Graphics Application Settings for DEX 3")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/Screen-Shot-2015-01-22-at-4.07.52-pm.png?fit=1030%2C924&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 12\. Re-boot your DJ computer launch DEX 3 and mix music videos. If you experiance issues or other graphics related problems please visit www.amd.com and download the latest drivers for your specific ATI/AMD Graphics Card.
@@ -103,10 +107,6 @@ The location of the ‘dex3.exe’ is C:/Program Files(x86) / PCDJ / DEX3 /dex3.
 Now you are optimized for mixing music videos with your discrete (dedicated) graphics card and DEX 3!
 
 _Have questions about using a **dedicated graphics card** or **video mixing** with our [**DEX 3 VDJ software**](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -127,15 +127,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/dex3-dedicatedgraphics-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-rhythms-ally-finding-best-dj-content-online/"><u>[New] Rhythm's Ally Finding Best DJ Content Online</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g04-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G04 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/effective-strategies-for-diagnosing-and-fixing-issues-in-windows-apps-insights-from-yl-computing/"><u>Effective Strategies for Diagnosing and Fixing Issues in Windows Apps - Insights From YL Computing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/google-meetings-mastered-best-practices-4-for-2024/"><u>Google Meetings Mastered Best Practices #4 for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-m6-pro-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Poco M6 Pro 5G Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/influential-revolutionary-events-in-chinese-history-igniting-political-change-and-social-disruption-a-comprehensive-study-by-yl-computing-and-software/"><u>Influential Revolutionary Events in Chinese History Igniting Political Change and Social Disruption: A Comprehensive Study by YL Computing & Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-your-output-how-chatgpt-amplifies-productivity-in-onlyoffices-docspace-platform/"><u>Maximize Your Output: How ChatGPT Amplifies Productivity in ONLYOFFICE's DocSpace Platform</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/transition-to-professional-mixing-with-red-mobile-and-dex-kit-exclusive-99-deal-ends-jan-31-plus-an-extra-gift-bonus-for-budding-disc-jockeys/"><u>Transition to Professional Mixing with RED Mobile and DEX ³ Kit | Exclusive $99 Deal Ends Jan 31, Plus an Extra Gift Bonus for Budding Disc Jockeys</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlock-the-power-of-cutting-for-beginner-editors-for-2024/"><u>Unlock the Power of Cutting for Beginner Editors for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/unraveling-persistent-system-collapses-when-starting-video-games-expert-advice-by-yl-software-experts/"><u>Unraveling Persistent System Collapses When Starting Video Games: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expert-tips-for-clearer-zoomed-snapshots-on-snapchat/"><u>[Updated] 2024 Approved Expert Tips for Clearer Zoomed Snapshots on Snapchat</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-create-professional-movies-on-youtube-quickly/"><u>[Updated] Create Professional Movies on YouTube Quickly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-navigating-youtubes-algorithm-as-a-game-streamer/"><u>[Updated] In 2024, Navigating YouTube's Algorithm as a Game Streamer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-merging-yt-chorus-with-visual-storytelling/"><u>[Updated] Merging YT Chorus with Visual Storytelling</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/assessing-graphic-card-performance-a-guide-by-yl-software-professionals/"><u>Assessing Graphic Card Performance: A Guide by YL Software Professionals</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/high-definition-soccer-themes-and-desktop-backgrounds-by-yl-computing-professional-software-solutions/"><u>High-Definition Soccer Themes & Desktop Backgrounds by YL Computing - Professional Software Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-fix-a-malfunctioning-keyboard-expert-advice-from-yl-computing-and-the-power-of-yl-software/"><u>How to Fix a Malfunctioning Keyboard: Expert Advice From YL Computing and the Power of YL Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-12-pro-4g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 12 Pro 4G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/is-asmr-good-for-you-learn-the-benefits-here/"><u>Is ASMR Good for You? Learn the Benefits Here</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone XS to Android | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/pick-your-song-daily-with-party-tyme-enjoy-our-newest-karaoke-selection-now/"><u>Pick Your Song Daily with Party Tyme - Enjoy Our Newest Karaoke Selection Now!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/preheating-aggregates-before-mixing-is-a-common-practice-in-cold-weather-concreting-but-must-be-done-carefully/"><u>Preheating Aggregates Before Mixing Is a Common Practice in Cold Weather Concreting but Must Be Done Carefully.</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/secure-your-digital-wealth-expert-tips-on-storing-cryptocurrencies-by-yl-computing/"><u>Secure Your Digital Wealth: Expert Tips on Storing Cryptocurrencies by YL Computing</u></a></li>
 </ul></div>
 

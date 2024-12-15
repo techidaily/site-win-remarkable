@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes with DEX 3 Development - Exploring What's Next for Plugin Creative DJ
-date: 2024-12-05T18:25:57.330Z
-updated: 2024-12-09T02:00:26.637Z
+date: 2024-12-10T16:13:06.879Z
+updated: 2024-12-15T16:14:24.777Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,16 +74,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-tips-save-skype-call-as-mp3-free/"><u>[Updated] 2024 Approved Expert Tips Save Skype Call as Mp3 (Free)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-breaking-down-the-fastest-green-screen-methods/"><u>2024 Approved Breaking Down the Fastest Green Screen Methods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-hostgators-virtual-private-server-and-sharing-plans/"><u>Comprehensive Analysis: HostGator's Virtual Private Server & Sharing Plans</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/enabling-and-disabling-device-drivers-on-your-pc-a-comprehensive-guide-techmaster/"><u>Enabling & Disabling Device Drivers on Your PC: A Comprehensive Guide - TechMaster</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-innovate-in-fb-advertising-access-no-cost-video-tools/"><u>In 2024, Innovate in FB Advertising - Access No-Cost Video Tools</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/personalized-playlist-perks-join-the-premium-karaoke-cloud-pro-membership/"><u>Personalized Playlist Perks: Join the Premium Karaoke Cloud Pro Membership!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-evaluation-of-hdr-quality-with-luminance/"><u>The Evaluation of HDR Quality with Luminance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tint-tuning-toolkit/"><u>Tint Tuning Toolkit</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-a-loudly-buzzing-pc-cooling-fan-solutions-and-tips-yl-tech-support/"><u>Troubleshooting a Loudly Buzzing PC Cooling Fan: Solutions and Tips - YL Tech Support</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/yl-solutions-for-fixing-unresponsive-scanners-after-connection-expert-advice-from-yl-computing/"><u>YL Solutions for Fixing Unresponsive Scanners After Connection - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-understanding-telegram-advertising-for-new-marketing-entrants/"><u>[New] In 2024, Understanding Telegram Advertising For New Marketing Entrants</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-visual-virtuosity-suite-for-windowsmac-users/"><u>[New] Visual Virtuosity Suite for Windows/Mac Users</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-resolving-graphics-driver-setup-issues-expert-tips-from-yl-computings-software-solutions/"><u>1. Resolving Graphics Driver Setup Issues: Expert Tips From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/st-see-investment-channels-online/"><u>15 Must-See Investment Channels Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-viewfinder-verdicts-summary/"><u>2024 Approved Viewfinder Verdicts Summary</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/dazzling-billie-eilish-visuals-for-your-pc-images-and-backdrops-from-yl-softwares-creation/"><u>Dazzling Billie Eilish Visuals for Your PC: Images and Backdrops From YL Software's Creation</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ensuring-legitimacy-a-guide-to-confirm-your-cryptocurrencys-authenticity-yl-software-solutions/"><u>Ensuring Legitimacy: A Guide to Confirm Your Cryptocurrency's Authenticity - YL Software Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-fix-a-missing-hard-drive-on-file-explorer-with-tips-from-yl-computings-expertise-in-hardware-solutions/"><u>How to Fix a Missing Hard Drive on File Explorer with Tips From YL Computing's Expertise in Hardware Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/identifying-cpu-health-issues-expert-tips-by-yl-software/"><u>Identifying CPU Health Issues: Expert Tips by YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-elevate-your-channels-standing-with-these-tactics/"><u>In 2024, Elevate Your Channel's Standing with These Tactics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-from-camera-roll-to-feed-adding-photos-on-instagram/"><u>In 2024, From Camera Roll to Feed Adding Photos on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ideal-5-add-ons-to-enhance-sea-footage/"><u>In 2024, Ideal 5 Add-Ons to Enhance Sea Footage</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-c51-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco C51 Device</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/lyrx-celebrates-second-anniversary-final-call-on-discounted-rate/"><u>LYRX Celebrates Second Anniversary: Final Call on Discounted Rate!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/maximize-performance-ensuring-pc-80s-discrete-gfx-utilization-for-enhanced-dex3-video-editing/"><u>Maximize Performance: Ensuring PC-80's DISCRETE GFX Utilization for Enhanced DEX3 Video Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/snap-edit-and-assemble-a-rapid-google-collage-how-to-for-2024/"><u>Snap, Edit & Assemble A Rapid Google Collage How-To for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-guide-how-to-fix-an-improperly-functioning-pc-monitor-expert-advice-from-yl-software/"><u>Troubleshooting Guide: How to Fix an Improperly Functioning PC Monitor - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unveiling-the-red-flags-for-damaged-graphics-cards-with-yl-software-tips/"><u>Unveiling the Red Flags for Damaged Graphics Cards with YL Software Tips</u></a></li>
 </ul></div>
 

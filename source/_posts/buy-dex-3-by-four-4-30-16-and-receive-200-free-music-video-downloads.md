@@ -1,7 +1,7 @@
 ---
 title: Buy DEX 3 By Four (4-30-16) & Receive 200 FREE Music Video Downloads!
-date: 2024-12-04T23:14:39.937Z
-updated: 2024-12-09T11:00:57.267Z
+date: 2024-12-14T16:03:29.438Z
+updated: 2024-12-15T16:06:08.731Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ After your successful online [purchase and download of DEX 3](https://shop.pcdj.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## _WHY THE VIDEO POOL?_
@@ -52,7 +52,7 @@ After your successful online [purchase and download of DEX 3](https://shop.pcdj.
  _**\*NOTE:** Offer valid for online orders at PCDJ.com only through 4/30/16 (not applicable on upgrade purchases)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,16 +74,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/dex3plus200videos-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-easy-guide-to-start-product-review-channel/"><u>[Updated] Easy Guide to Start Product Review Channel</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-youtubes-no-ad-feature/"><u>2024 Approved Mastering YouTube's No Ad Feature</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/a-detailed-review-and-alternatives-of-vocaloid6-voice-generator-for-2024/"><u>A Detailed Review & Alternatives of VOCALOID6 Voice Generator for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/boost-your-systems-velocity-expert-tips-for-enhancing-computer-efficiency-by-yl-software/"><u>Boost Your System's Velocity: Expert Tips for Enhancing Computer Efficiency by YL Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-unfreeze-a-macbook-air/"><u>How to Unfreeze a MacBook Air</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-versus-multimeva-defining-their-differences-clearly/"><u>In 2024, Metaverse Versus Multimeva Defining Their Differences Clearly</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/optimize-hard-drive-speed-and-reliability-with-expert-tips-by-yl-software/"><u>Optimize Hard Drive Speed & Reliability with Expert Tips by YL Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-service-errors-between-chatgpt-and-plugins/"><u>Overcoming Service Errors Between ChatGPT and Plugins</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-updating-your-windows-defender-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Windows Defender - Tips From YL Computing</u></a></li>
-<li><a href="https://solve-help.techidaily.com/top-7-professional-video-editing-platforms-for-creating-stunning-youtube-content-from-any-device/"><u>Top 7 Professional Video Editing Platforms for Creating Stunning YouTube Content From Any Device</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/unveiling-lyrx-the-ultimate-mac-exclusive-karaoke-programming-tool/"><u>Unveiling Lyrx: The Ultimate Mac-Exclusive Karaoke Programming Tool</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-uninterrupted-video-with-proper-obs-settings/"><u>[New] Uninterrupted Video with Proper OBS Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-developers-guide-top-10-chatgpt-enhancements-in-vs-code/"><u>A Developer's Guide: Top 10 ChatGPT Enhancements in VS Code</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/erito-movie-downloads-available-in-various-file-types-mp4-mov-avi-flv-watch-and-enjoy/"><u>Erito Movie Downloads Available in Various File Types (MP4, MOV, AVI, FLV) - Watch & Enjoy</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/exploring-cryptos-charm-essential-characteristics-that-captivate-users-presented-by-yl-software-solutions/"><u>Exploring Crypto's Charm: Essential Characteristics that Captivate Users - Presented by YL Software Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-for-disabling-governmental-alert-systems-on-iphones-effectively/"><u>Guide for Disabling Governmental Alert Systems on iPhones Effectively</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/identifying-and-troubleshooting-pc-hardware-issues-expert-guide-by-yl-computing/"><u>Identifying and Troubleshooting PC Hardware Issues: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/navigating-from-console-to-control-panel-tips-and-tricks-yl-software-solutions/"><u>Navigating From Console to Control Panel: Tips & Tricks - YL Software Solutions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlocking-the-power-of-in-stream-ads-on-facebook-a-comprehensive-handbook/"><u>Unlocking the Power of In-Stream Ads on Facebook A Comprehensive Handbook</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-computing-spawn-violator-visuals-high-quality-banners-and-desktop-pictures/"><u>YL Computing Spawn Violator Visuals: High-Quality Banners & Desktop Pictures</u></a></li>
 </ul></div>
 
