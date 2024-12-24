@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Mastery: Loop Storage & Retrieval Techniques - DEX 3 Guide"
-date: 2024-12-14T16:15:43.530Z
-updated: 2024-12-15T16:00:51.690Z
+date: 2024-12-20T08:41:13.952Z
+updated: 2024-12-24T03:51:40.485Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,24 +61,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-guide-to-zoom-transcription-software-fee-based/"><u>[New] 2024 Approved Ultimate Guide to Zoom Transcription Software (Fee-Based)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-click-reward-spectrum/"><u>[New] The Ultimate Click Reward Spectrum</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-practices-in-confirming-your-youtube-access/"><u>[Updated] 2024 Approved Best Practices in Confirming Your YouTube Access</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifying-your-workflow-online-photo-cropping-made-simple/"><u>2024 Approved Simplifying Your Workflow Online Photo Cropping Made Simple</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/configuring-your-computers-display-settings-a-step-by-step-guide-through-control-panel-powered-by-yl-software/"><u>Configuring Your Computer's Display Settings: A Step-by-Step Guide Through Control Panel - Powered by YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/diagnosing-the-causes-of-your-erratic-network-speed-tips-from-yl-computing-solutions/"><u>Diagnosing the Causes of Your Erratic Network Speed - Tips From YL Computing Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/enhance-your-scans-with-yls-guide-to-fixing-blurry-outputs-yl-software-solutions/"><u>Enhance Your Scans with YL's Guide to Fixing Blurry Outputs - YL Software Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977541949-get-the-newest-msi-speakersheadphones-drivers-instantly/"><u>Get the Newest MSI Speakers/Headphones Drivers Instantly!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-recover-your-data-when-a-program-installation-causes-your-pc-to-freeze-expert-advice-from-yl-computing/"><u>How To Recover Your Data When A Program Installation Causes Your PC To Freeze: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-smart-7-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Smart 7 to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quintessential-20-anime-openers-sounds/"><u>In 2024, Quintessential 20 Anime Openers' Sounds</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/karaoke-programs-explore-the-best-bg-track-players-with-filler-mode-options/"><u>Karaoke Programs: Explore the Best BG Track Players with Filler Mode Options</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/planning-delivery-at-a-specialized-center-delivering-high-risk-babies-in-facilities-equipped-with-advanced-neonatal-care-resources-can-enhance-the-chances-o80/"><u>Planning Delivery at a Specialized Center: Delivering High-Risk Babies in Facilities Equipped with Advanced Neonatal Care Resources Can Enhance the Chances of Successful Outcomes for Both Mother and Baby.</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/protecting-your-digital-wealth-expert-tips-on-securely-storing-cryptocurrency-by-yl-computing-yl-software/"><u>Protecting Your Digital Wealth: Expert Tips on Securely Storing Cryptocurrency by YL Computing | YL Software</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/real-time-monitoring-of-abbyy-announcements-using-timelinepi/"><u>Real-Time Monitoring of ABBYY Announcements Using TimelinePI</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-review-how-well-does-the-zmi-powerpack-20000-meet-expectations/"><u>Top Review: How Well Does the ZMI PowerPack 20000 Meet Expectations?</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ultra-hd-audi-rs7-visuals-and-wallsavers-for-desktops-exclusive-images-from-yl-software-solutions/"><u>Ultra HD Audi RS7 Visuals & Wallsavers for Desktops - Exclusive Images From YL Software Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/updating-your-devices-hardware-drivers-a-comprehensive-guide-by-yl-computing/"><u>Updating Your Device's Hardware Drivers: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-xs-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone XS has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-direct-sharing-twitch-live-links-for-facebook-friends-for-2024/"><u>[New] Direct Sharing Twitch Live Links for Facebook Friends for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-revel-in-photo-excellence-with-this-guide-to-mastering-the-background-erase-tool/"><u>[New] In 2024, Revel in Photo Excellence with This Guide to Mastering the Background Erase Tool</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitglimpse-peek-into-viral-video-landscape/"><u>2024 Approved TwitGlimpse Peek Into Viral Video Landscape</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/boost-your-laptops-performance-essential-advice-by-yl-tech-experts-on-overcoming-slow-speed-issues/"><u>Boost Your Laptop's Performance: Essential Advice by YL Tech Experts on Overcoming Slow Speed Issues</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/cloudpros-june-2014-update-unveils-exclusive-eclectic-mix-in-your-dj-kit-feature-packed-enhancements/"><u>CloudPro's June 2014 Update Unveils Exclusive Eclectic Mix in Your DJ Kit - Feature-Packed Enhancements!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/detecting-failures-in-your-sound-hardware-tips-by-yl-software-professionals/"><u>Detecting Failures in Your Sound Hardware: Tips by YL Software Professionals</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-system-bus-control-on-windows-11/"><u>Enhancing System Bus Control on Windows 11</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/explore-the-new-horizons-with-pcdj-dex-eb-version-3-the-final-pre-release-unveiled/"><u>Explore the New Horizons with PCDJ Dex Eb Version 3 - The Final Pre-Release Unveiled!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-installuninstall-software-using-windows-control-panel-tutorial-by-yl-software/"><u>How To Install/Uninstall Software Using Windows' Control Panel - Tutorial by YL Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-doc-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .doc file</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/maximizing-your-pcs-potential-key-tips-and-tricks-from-yl-computing-and-yl-software/"><u>Maximizing Your PC's Potential: Key Tips & Tricks From YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/simple-ways-to-back-up-your-account-settings-on-windows-11-discover-three-effective-methods/"><u>Simple Ways to Back Up Your Account Settings on Windows 11: Discover Three Effective Methods</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-common-issues-a-comprehensive-guide-to-fixing-your-pcs-mouse-and-keyboard-expert-tips-from-yl-computing/"><u>Solving Common Issues: A Comprehensive Guide to Fixing Your PC's Mouse & Keyboard - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-wi-fi-issues-on-iphone-post-ios-17-upgrade-causes-and-solutions/"><u>Troubleshooting Wi-Fi Issues on iPhone Post-iOS 17 Upgrade: Causes and Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On OnePlus Ace 3? | Dr.fone</u></a></li>
 </ul></div>
 
