@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: PCDJ Dex 3 Functionality Demonstrated in Browser Overview - Expert Tutorial Video Guide"
-date: 2024-12-21T09:03:22.889Z
-updated: 2024-12-24T06:04:40.450Z
+date: 2024-12-24T17:22:01.144Z
+updated: 2024-12-29T22:35:17.926Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 3 is in the final stages of beta testing, and the excitement is building here at PCDJ HQ.
@@ -29,7 +29,7 @@ For the majority of the last 10 months our development team has basically lived 
 We collectively agree that DEX 3 will be PCDJ’s **best DJ software** for mixing _everything_ (**audio, music videos and karaoke**). As outlined in [**this**](https://tools.techidaily.com/pcdj/products/) previous DEX 3 browser blog post, the new browser has been a major focal point; it’s been completely redesigned to be more robust, responsive and cross-platform ready. One of our beta team members has been testing with 300,000+ tracks (audio, karaoke and video) and search and navigation remain just as fast as having only 3 tracks in the library. This can be attested to the new browser being a true database, unlike in previous PCDJ products. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **In this DEX 3 browser overview video I showcase a few of the new browser capabilities, including setting folders as favorites (nested groups), navigating using keyboard commands, what the new browser icons mean and sorting within the library:**
@@ -39,7 +39,7 @@ We collectively agree that DEX 3 will be PCDJ’s **best DJ software** for mixin
 #### **If you’d like to demo the existing PCDJ DEX 2 version (free upgrades will be included to DEX 3 for all DEX 2 owners!), you can download it [_HERE_](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,17 +61,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/browserpreviewvideo3.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-explore-the-best-in-class-pc-vr-headsets/"><u>[New] 2024 Approved Explore the Best-In-Class PC VR Headsets</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-years-predictions-rendered-in-infographics/"><u>[New] The Year's Predictions Rendered in Infographics</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1-comprehensive-crackdown-chinese-anti-corruption-commission-uncovers-over-36k-cases-of-misconduct-in-public-welfare-nearly-52k-individuals-held-accountable57/"><u>1. Comprehensive Crackdown: Chinese Anti-Corruption Commission Uncovers Over 36K Cases of Misconduct in Public Welfare; Nearly 52K Individuals Held Accountable - Insights From YL Computing | YL Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-diverging-paths-youtube-licensing-and-creative-commons-for-2024/"><u>[Updated] Diverging Paths YouTube Licensing & Creative Commons for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/budget-friendly-pro-gamers-essentials-keyboards/"><u>Budget-Friendly Pro Gamers' Essentials Keyboards</u></a></li>
 <li><a href="https://win-remarkable.techidaily.com/easy-to-use-digital-decor-customizable-wallpaper-designs-by-yl-computing/"><u>Easy-to-Use Digital Décor - Customizable Wallpaper Designs by YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/expert-tips-for-fixing-your-devices-sound-malfunctions-with-yl-software-solutions/"><u>Expert Tips for Fixing Your Device’s Sound Malfunctions with YL Software Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foundations-of-easing-volume-control-in-audition-for-2024/"><u>Foundations of Easing Volume Control in Audition for 2024</u></a></li>
 <li><a href="https://win-remarkable.techidaily.com/high-definition-aishwarya-rai-collections-premium-wallpaper-and-image-downloads-by-yl-computing/"><u>High Definition Aishwarya Rai Collections - Premium Wallpaper & Image Downloads by YL Computing</u></a></li>
 <li><a href="https://win-remarkable.techidaily.com/how-to-fix-a-non-functional-wi-fi-network-expert-advice-from-yl-computing/"><u>How to Fix a Non-Functional Wi-Fi Network: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-seamlessly-update-your-microsoft-device-drivers-for-windows-11-8-or-7-users/"><u>How to Seamlessly Update Your Microsoft Device Drivers for Windows 11, 8, or 7 Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-gionee-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Gionee</u></a></li>
-<li><a href="https://article-posts.techidaily.com/streaming-supremacy-pick-the-best-tool-for-your-vlogs-and-streams-for-2024/"><u>Streaming Supremacy Pick the Best Tool for Your Vlogs & Streams for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/visual-voyages-free-thematic-tools-for-youtube/"><u>Visual Voyages Free Thematic Tools for YouTube</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-motorola-moto-g23-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Motorola Moto G23 Devices | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-max-360-vs-hero-11-which-takes-the-lead/"><u>In 2024, GoPro Max 360 vs Hero 11 Which Takes the Lead?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-note-30-vip-racing-edition-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Note 30 VIP Racing Edition Screen | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-nokia-g42-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Nokia G42 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/therizinosaurus-inspired-wallpapers-and-graphics-enhance-your-digital-space-with-yl-computings-unique-collection/"><u>Therizinosaurus-Inspired Wallpapers & Graphics: Enhance Your Digital Space with YL Computing's Unique Collection</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/understanding-scanner-freezing-issues-over-extended-use-insights-from-yl-computing-solutions/"><u>Understanding Scanner Freezing Issues Over Extended Use - Insights From YL Computing Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-multi-tasking-power-a-how-to-manual-for-enabling-split-screen-on-macbook-air/"><u>Unlocking Multi-Tasking Power: A How-To Manual for Enabling Split Screen on MacBook Air</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/verifying-your-graphics-cards-performance-essential-guide-for-pc-enthusiasts-by-yl-software-experts/"><u>Verifying Your Graphics Card's Performance: Essential Guide for PC Enthusiasts - By YL Software Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Mastery: Loop Storage & Retrieval Techniques - DEX 3 Guide"
-date: 2024-12-20T08:41:13.952Z
-updated: 2024-12-24T03:51:40.485Z
+date: 2024-12-29T04:24:19.482Z
+updated: 2024-12-29T21:36:48.303Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,20 +61,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-direct-sharing-twitch-live-links-for-facebook-friends-for-2024/"><u>[New] Direct Sharing Twitch Live Links for Facebook Friends for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-revel-in-photo-excellence-with-this-guide-to-mastering-the-background-erase-tool/"><u>[New] In 2024, Revel in Photo Excellence with This Guide to Mastering the Background Erase Tool</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitglimpse-peek-into-viral-video-landscape/"><u>2024 Approved TwitGlimpse Peek Into Viral Video Landscape</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-decode-your-youtube-preferences-with-these-6-fan-favorite-questionnaires/"><u>[New] 2024 Approved Decode Your YouTube Preferences with These 6 Fan-Favorite Questionnaires</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-explore-8-inexpensive-virtual-gatherings-mac-and-windows-compatibility-for-2024/"><u>[Updated] Explore 8 Inexpensive Virtual Gatherings Mac & Windows Compatibility for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-mastering-sound-balance-two-methods-for-equalizing-audio-levels/"><u>1. Mastering Sound Balance: Two Methods for Equalizing Audio Levels</u></a></li>
 <li><a href="https://win-remarkable.techidaily.com/boost-your-laptops-performance-essential-advice-by-yl-tech-experts-on-overcoming-slow-speed-issues/"><u>Boost Your Laptop's Performance: Essential Advice by YL Tech Experts on Overcoming Slow Speed Issues</u></a></li>
 <li><a href="https://win-remarkable.techidaily.com/cloudpros-june-2014-update-unveils-exclusive-eclectic-mix-in-your-dj-kit-feature-packed-enhancements/"><u>CloudPro's June 2014 Update Unveils Exclusive Eclectic Mix in Your DJ Kit - Feature-Packed Enhancements!</u></a></li>
 <li><a href="https://win-remarkable.techidaily.com/detecting-failures-in-your-sound-hardware-tips-by-yl-software-professionals/"><u>Detecting Failures in Your Sound Hardware: Tips by YL Software Professionals</u></a></li>
-<li><a href="https://driver-error.techidaily.com/enhancing-system-bus-control-on-windows-11/"><u>Enhancing System Bus Control on Windows 11</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/exciting-news-karaoke-cloud-pro-enhances-experience-with-additional-music-trivia-game/"><u>Exciting News - Karaoke Cloud Pro Enhances Experience with Additional Music Trivia Game!</u></a></li>
 <li><a href="https://win-remarkable.techidaily.com/explore-the-new-horizons-with-pcdj-dex-eb-version-3-the-final-pre-release-unveiled/"><u>Explore the New Horizons with PCDJ Dex Eb Version 3 - The Final Pre-Release Unveiled!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/from-woodsman-to-wanderer-a-detailed-analysis-of-minecrafts-adventure-inspired-campfire-tales-skin-line/"><u>From Woodsman to Wanderer: A Detailed Analysis of Minecraft's Adventure-Inspired Campfire Tales Skin Line</u></a></li>
 <li><a href="https://win-remarkable.techidaily.com/how-to-installuninstall-software-using-windows-control-panel-tutorial-by-yl-software/"><u>How To Install/Uninstall Software Using Windows' Control Panel - Tutorial by YL Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/insert-signature-in-doc-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .doc file</u></a></li>
+<li><a href="https://games-able.techidaily.com/hp-victus-15-laptop-now-discounted-by-350-limited-time-offer-from-best-buy-for-labor-day-holiday-shopping/"><u>HP Victus 15 Laptop Now Discounted by $350 - Limited Time Offer From Best Buy for Labor Day Holiday Shopping</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/imessage-communication-simplified-a-step-by-step-tutorial-for-windows-operating-system/"><u>IMessage Communication Simplified: A Step-by-Step Tutorial for Windows Operating System</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-illusions-unveiled-discerning-genuine-supporters-in-digital-platforms/"><u>In 2024, Illusions Unveiled Discerning Genuine Supporters in Digital Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reimagining-the-role-of-titles-in-after-effects-media/"><u>In 2024, Reimagining the Role of Titles in After Effects Media</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/master-file-and-printer-sharing-in-windows-11-tips-and-tricks-from-experts-at-yl-software/"><u>Master File & Printer Sharing in Windows 11: Tips and Tricks From Experts at YL Software</u></a></li>
 <li><a href="https://win-remarkable.techidaily.com/maximizing-your-pcs-potential-key-tips-and-tricks-from-yl-computing-and-yl-software/"><u>Maximizing Your PC's Potential: Key Tips & Tricks From YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/simple-ways-to-back-up-your-account-settings-on-windows-11-discover-three-effective-methods/"><u>Simple Ways to Back Up Your Account Settings on Windows 11: Discover Three Effective Methods</u></a></li>
 <li><a href="https://win-remarkable.techidaily.com/solving-common-issues-a-comprehensive-guide-to-fixing-your-pcs-mouse-and-keyboard-expert-tips-from-yl-computing/"><u>Solving Common Issues: A Comprehensive Guide to Fixing Your PC's Mouse & Keyboard - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-wi-fi-issues-on-iphone-post-ios-17-upgrade-causes-and-solutions/"><u>Troubleshooting Wi-Fi Issues on iPhone Post-iOS 17 Upgrade: Causes and Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-to-address-missing-or-not-found-mapi3e-dll-errors/"><u>Troubleshooting Tips to Address 'Missing or Not Found' MAPI3e DLL Errors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/ultimate-ratio-breakdown-for-youtube-content-formats-for-2024/"><u>Ultimate Ratio Breakdown for YouTube Content Formats for 2024</u></a></li>
 </ul></div>
 

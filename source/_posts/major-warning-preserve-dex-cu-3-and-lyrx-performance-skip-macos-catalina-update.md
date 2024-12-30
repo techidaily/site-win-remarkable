@@ -1,7 +1,7 @@
 ---
 title: "MAJOR WARNING: Preserve DEX Cu 3 & LYRX Performance, Skip macOS Catalina Update!"
-date: 2024-12-07T04:34:04.417Z
-updated: 2024-12-08T23:15:55.729Z
+date: 2024-12-27T17:17:36.751Z
+updated: 2024-12-29T16:39:52.896Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,16 +48,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles/"><u>[Updated] Unveiling the Immersive Era VR's Progress & Upcoming Struggles</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-found-solving-total-war-warhammer-iii-pc-game-crash-issues/"><u>Fixes Found! Solving TOTAL WAR: WARHAMMER III PC Game Crash Issues</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-prevent-and-troubleshoot-pc-overheating-expert-advice-from-yl-software/"><u>How to Prevent and Troubleshoot PC Overheating: Expert Advice From YL Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ranked-10-best-low-cost-user-friendly-passport-photo-services/"><u>In 2024, Ranked 10 Best Low-Cost, User-Friendly Passport Photo Services</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sharpen-your-snaps-the-elite-eight-of-grids-and-frames/"><u>In 2024, Sharpen Your Snaps The Elite Eight of Grids and Frames</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/mastering-mouse-configuration-tips-and-tricks-from-yl-software-experts/"><u>Mastering Mouse Configuration: Tips and Tricks From YL Software Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quantum-leap-the-most-astonishing-sci-fi-films-of-metaverses/"><u>Quantum Leap The Most Astonishing Sci-Fi Films of Metaverses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reclaim-lost-content-a-user-friendly-guide-to-accessing-saved-instagram-reels-again/"><u>Reclaim Lost Content: A User-Friendly Guide to Accessing Saved Instagram Reels Again</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/resolving-gpu-malfunction-alerts-expert-tips-from-yl-computing/"><u>Resolving GPU Malfunction Alerts: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solving-your-pcs-hardware-issues-under-windows-with-expert-tips-from-yl-software/"><u>Solving Your PC's Hardware Issues Under Windows with Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/understanding-the-causes-behind-your-pcs-sudden-crashes-insights-from-yl-computing/"><u>Understanding the Causes Behind Your PC's Sudden Crashes - Insights From YL Computing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-uncovering-8-affordable-platform-agnostic-virtual-communication-tools/"><u>[New] 2024 Approved Uncovering 8 Affordable, Platform-Agnostic Virtual Communication Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-giggles-on-iphones/"><u>[New] Giggles on iPhones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-insiders-guide-to-vids-on-the-big-blue-network/"><u>[New] In 2024, The Insider's Guide to Vids on the Big Blue Network</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-youtubes-full-rotation-streaming-potential/"><u>[New] Unveiling YouTube’s Full-Rotation Streaming Potential</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-loom-studio-sync-screen-record-features-explained/"><u>[Updated] 2024 Approved Loom Studio Sync Screen Record Features Explained</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-viewability-of-fb-videos-hv-debate-for-2024/"><u>[Updated] Enhancing Viewability of FB Videos – H/V Debate for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-strategies-to-thrive-on-snapchat-as-a-business-entity/"><u>[Updated] Strategies to Thrive on Snapchat as a Business Entity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/green-canvas-essential-templates-to-enhance-your-cinematographic-journey-for-2024/"><u>Green Canvas Essential Templates to Enhance Your Cinematographic Journey for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphone-lens-magic-the-ultimate-10-composition-techniques/"><u>IPhone Lens Magic The Ultimate 10 Composition Techniques</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/keep-your-device-cool-proven-methods-to-stop-laptops-from-overheating-insights-by-yl-computing-and-yl-software/"><u>Keep Your Device Cool: Proven Methods to Stop Laptops From Overheating - Insights by YL Computing and YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/online-karaoke-revolutions-on-dex-3-a-how-to-for-real-time-music-purchasing-from-karaokenet-video/"><u>Online Karaoke Revolutions on Dex 3: A How-To for Real-Time Music Purchasing From karaoke.net (Video)</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/opening-compressed-archives-in-windows-operating-system-with-yl-software-solutions/"><u>Opening Compressed Archives in Windows Operating System with YL Software Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/optimizing-your-pcs-boot-process-a-comprehensive-guide-on-removing-winini-auto-start-programs-with-yl-computing-solutions/"><u>Optimizing Your PC's Boot Process: A Comprehensive Guide on Removing Win.INI Auto-Start Programs with YL Computing Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-your-pcs-ram-issues-expert-tips-and-strategies-from-yl-computing/"><u>Solving Your PC's RAM Issues: Expert Tips and Strategies From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-guide-identifying-issues-with-non-functional-graphics-cards-expert-advice-from-yl-software/"><u>Troubleshooting Guide: Identifying Issues with Non-Functional Graphics Cards - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-your-computers-hardware-on-windows-expert-tips-from-yl-computing-and-software-services/"><u>Troubleshooting Your Computer's Hardware on Windows: Expert Tips From YL Computing & Software Services</u></a></li>
 </ul></div>
 

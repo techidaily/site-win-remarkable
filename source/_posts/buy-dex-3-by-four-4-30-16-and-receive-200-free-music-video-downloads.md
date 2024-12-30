@@ -1,7 +1,7 @@
 ---
 title: Buy DEX 3 By Four (4-30-16) & Receive 200 FREE Music Video Downloads!
-date: 2024-12-17T01:08:09.037Z
-updated: 2024-12-23T22:39:05.101Z
+date: 2024-12-23T04:25:11.724Z
+updated: 2024-12-29T21:07:01.064Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ After your successful online [purchase and download of DEX 3](https://shop.pcdj.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## _WHY THE VIDEO POOL?_
@@ -52,7 +52,7 @@ After your successful online [purchase and download of DEX 3](https://shop.pcdj.
  _**\*NOTE:** Offer valid for online orders at PCDJ.com only through 4/30/16 (not applicable on upgrade purchases)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,24 +74,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/dex3plus200videos-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigate-through-group-sharing-options-on-messenger/"><u>[New] Navigate Through Group Sharing Options on Messenger</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-essential-tips-for-adapting-to-facebooks-algorithm-update/"><u>[Updated] Essential Tips for Adapting to Facebook's Algorithm Update</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-logic-pro-method-to-gradually-reduce-audio-levels/"><u>[Updated] Logic Pro Method to Gradually Reduce Audio Levels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-luts-to-amplify-your-photo-quality/"><u>[Updated] Understanding LUTs to Amplify Your Photo Quality</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-lol-recording-three-easy-techniques/"><u>2024 Approved Mastering LOL Recording Three Easy Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/a-comprehensive-guide-to-high-quality-live-streaming-with-logitech-camera-for-2024/"><u>A Comprehensive Guide to High-Quality Live Streaming with Logitech Camera for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/add-fresh-beats-to-your-repertoire-discover-the-latest-20plus-karaoke-songs-enhanced-in-karaoke-cloud-pro-as-of-12-28-16/"><u>Add Fresh Beats to Your Repertoire! Discover the Latest 20+ Karaoke Songs Enhanced in Karaoke Cloud Pro as of 12-28-16</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/download-dex-dj-mixer-v31101-enhanced-audio-quality-with-new-shader-features/"><u>Download DEX DJ Mixer v3.11.0.1: Enhanced Audio Quality with New Shader Features</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/forgot-your-password-for-windows-11-simple-reset-steps-with-yl-computing-solutions/"><u>Forgot Your Password for Windows 11? Simple Reset Steps with YL Computing Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-safe-are-your-data-and-systems-with-yl-software-solutions/"><u>How Safe Are Your Data and Systems with YL Software Solutions?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-k70e-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi K70E Phone FRP Lock</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterclass-in-digital-animation-the-art-of-creating-gifs-for-2024/"><u>Masterclass in Digital Animation The Art of Creating GIFs for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-gameplay-the-power-of-the-samsung-cf60-75uh-4ms-refresh-rate-monitor/"><u>Mastering Gameplay: The Power of the Samsung CF60 75UH 4Ms Refresh Rate Monitor</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/restoring-defaults-a-guide-to-reinitializing-your-nvidia-or-amd-gpu-on-windows-11-tutorial-by-yl-computing/"><u>Restoring Defaults: A Guide to Reinitializing Your NVIDIA or AMD GPU on Windows 11 - Tutorial by YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solutions-when-your-scanning-device-fails-to-locate-printer-drivers-expert-advice-from-yl-computing/"><u>Solutions When Your Scanning Device Fails To Locate Printer Drivers - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-updating-your-desktop-background-via-windows-settings-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Desktop Background via Windows Settings - Tips From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/the-grand-construction-legacy-of-emperor-qianlong-in-the-qing-era-expert-analysis-from-yl-computing-and-yl-software/"><u>The Grand Construction Legacy of Emperor Qianlong in the Qing Era – Expert Analysis From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/unveiling-the-perks-of-embracing-digital-currencies-with-guidance-from-yl-software-experts/"><u>Unveiling the Perks of Embracing Digital Currencies with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-manners-matter-for-ai-assistants-like-chatgpt-amazons-alexa-or-apples-siri/"><u>Do Manners Matter for AI Assistants Like ChatGPT, Amazon's Alexa or Apple's Siri?</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/hd-eagle-inspired-desktop-icons-and-wallpapers-for-pcs-and-macs-from-yl-software/"><u>HD Eagle-Inspired Desktop Icons & Wallpapers for PCs and Macs From YL Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-12-pro-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 12 Pro With or Without Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-reno-11f-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo Reno 11F 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/lyrx-celebrates-second-anniversary-final-call-on-discounted-rate/"><u>LYRX Celebrates Second Anniversary: Final Call on Discounted Rate!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-muted-fun-get-the-sound-back-in-roblox-while-gaming-on-windows-11-or-10/"><u>No More Muted Fun: Get the Sound Back in Roblox While Gaming on Windows 11 or 10</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-detection-of-razer-devices-by-synapse-software/"><u>Reinstating Detection of Razer Devices by Synapse Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/synthesizing-waterway-content-with-impact-for-2024/"><u>Synthesizing Waterway Content with Impact for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-essential-guide-to-populating-powerpoint-decks-with-youtube-videos-for-2024/"><u>The Essential Guide to Populating PowerPoint Decks With YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/the-role-of-crypto-currencies-in-modern-economics-understanding-their-functions-with-yl-software-insights/"><u>The Role of Crypto-Currencies in Modern Economics: Understanding Their Functions with YL Software Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-12-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi 12 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-guide-how-to-fix-an-improperly-functioning-pc-monitor-expert-advice-from-yl-software/"><u>Troubleshooting Guide: How to Fix an Improperly Functioning PC Monitor - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-your-gpu-malfunctions-expert-advice-by-yl-software/"><u>Troubleshooting Your GPU Malfunctions: Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unveiling-the-distinctions-blockchain-vs-distributed-ledger-technology-explained-by-yl-computing/"><u>Unveiling the Distinctions: Blockchain Vs. Distributed Ledger Technology Explained by YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unveiling-the-red-flags-for-damaged-graphics-cards-with-yl-software-tips/"><u>Unveiling the Red Flags for Damaged Graphics Cards with YL Software Tips</u></a></li>
 </ul></div>
 

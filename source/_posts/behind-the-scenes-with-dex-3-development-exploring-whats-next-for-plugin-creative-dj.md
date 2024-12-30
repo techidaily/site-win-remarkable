@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes with DEX 3 Development - Exploring What's Next for Plugin Creative DJ
-date: 2024-12-18T10:25:54.867Z
-updated: 2024-12-23T20:18:40.444Z
+date: 2024-12-22T19:06:05.095Z
+updated: 2024-12-30T02:11:05.947Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,20 +74,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-achieve-social-stardom-essential-tips-for-thriving-instagram-unboxings/"><u>[New] Achieve Social Stardom Essential Tips for Thriving Instagram Unboxings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-obs-studio-explained-capturing-ps4-playthroughs/"><u>[New] OBS Studio Explained Capturing PS4 Playthroughs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-pixart-video-editor/"><u>[Updated] Pixart Video Editor</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-unveiling-the-ultimate-selection-of-text-plugins-in-ae-for-2024/"><u>[Updated] Unveiling the Ultimate Selection of Text Plugins in AE for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-ways-to-record-video-without-sound/"><u>2024 Approved Best Ways to Record Video Without Sound</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/affordable-nokia-71-smartphone-with-stunning-display-and-high-quality-camera/"><u>Affordable Nokia 7.1 Smartphone with Stunning Display & High-Quality Camera</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/best-platforms-for-cryptocurrency-trading-insights-from-yl-computing/"><u>Best Platforms for Cryptocurrency Trading - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-video-codecs-in-depth-comparison-of-mp4-and-h2c64-technologies/"><u>Decoding Video Codecs: In-Depth Comparison of MP4 and H.2C64 Technologies</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/efficient-client-communication-and-techniques-with-pcdj-for-successful-mobile-djs/"><u>Efficient Client Communication and Techniques with PCDJ for Successful Mobile DJs</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-does-a-faulty-graphics-card-lead-to-system-issues-exploring-the-impact-by-yl-computing/"><u>How Does a Faulty Graphics Card Lead to System Issues? - Exploring the Impact by YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-fix-slow-or-frozen-program-installations-expert-advice-from-yl-computing/"><u>How to Fix Slow or Frozen Program Installations: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-culinary-carousel-swirling-up-top-food-network-names/"><u>In 2024, Culinary Carousel Swirling Up Top Food Network Names</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/mastering-taskbar-settings-on-windows-10-with-yl-softwares-expert-advice/"><u>Mastering Taskbar Settings on Windows 10 with YL Software's Expert Advice</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/professional-aston-martin-logo-wallpaper-downloads-for-your-pc-or-mac-curated-images-from-yl-design-studio/"><u>Professional Aston Martin Logo Wallpaper Downloads for Your PC or Mac - Curated Images From YL Design Studio</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-3-twitter-video-tools-for-easy-uploads/"><u>Top 3 Twitter Video Tools for Easy Uploads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ninja-legacy-continuation-game-roundup-like-the-japanese-samurai-epic-for-2024/"><u>[Updated] Ninja Legacy Continuation Game Roundup Like the Japanese Samurai Epic for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/from-novice-to-geometric-master-crafting-perfect-circular-and-spherical-objects-for-2024/"><u>From Novice to Geometric Master Crafting Perfect Circular & Spherical Objects for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/getting-started-with-iphone-speech-recordings/"><u>Getting Started with iPhone Speech Recordings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-discord-javascript-error-easily/"><u>How to Fix Discord JavaScript Error [Easily]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-image-potential-the-importance-of-luts/"><u>In 2024, Unlocking Image Potential The Importance of LUTs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-purchase-the-latest-macbook-pro-with-m3-pro-cpu-at-an-exclusive-discounted-price-on-presidents-day-save-200-now-detailed-guide/"><u>Limited Time Offer: Purchase the Latest MacBook Pro with M3 Pro CPU at an Exclusive Discounted Price on Presidents' Day - Save $200 Now! - Detailed Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/opening-compressed-archives-in-windows-operating-system-with-yl-software-solutions/"><u>Opening Compressed Archives in Windows Operating System with YL Software Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/optimizing-your-pcs-boot-process-a-comprehensive-guide-on-removing-winini-auto-start-programs-with-yl-computing-solutions/"><u>Optimizing Your PC's Boot Process: A Comprehensive Guide on Removing Win.INI Auto-Start Programs with YL Computing Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-cod-ww2-ea-update-glitch-fixing-error-code-4220/"><u>Resolving the COD WW2 EA Update Glitch: Fixing Error Code 4220</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-your-pcs-ram-issues-expert-tips-and-strategies-from-yl-computing/"><u>Solving Your PC's RAM Issues: Expert Tips and Strategies From YL Computing</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/stockholms-premier-seo-agencies-unveiling-the-best-including-seo-powersuite/"><u>Stockholm's Premier SEO Agencies - Unveiling the Best, Including SEO PowerSuite</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-guide-identifying-issues-with-non-functional-graphics-cards-expert-advice-from-yl-software/"><u>Troubleshooting Guide: Identifying Issues with Non-Functional Graphics Cards - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-your-computers-hardware-on-windows-expert-tips-from-yl-computing-and-software-services/"><u>Troubleshooting Your Computer's Hardware on Windows: Expert Tips From YL Computing & Software Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-hidden-energy-efficiency-tools-in-chromes-new-update-tips-from-zdnet/"><u>Uncover Hidden Energy Efficiency Tools in Chrome's New Update – Tips From ZDNet.</u></a></li>
 </ul></div>
 
