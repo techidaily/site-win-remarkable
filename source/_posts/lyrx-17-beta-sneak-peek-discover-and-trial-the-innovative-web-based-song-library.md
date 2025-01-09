@@ -1,7 +1,7 @@
 ---
 title: "LYRX 1.7 Beta Sneak Peek: Discover & Trial the Innovative Web-Based Song Library!"
-date: 2024-12-29T03:17:45.785Z
-updated: 2024-12-29T21:45:35.180Z
+date: 2025-01-06T21:19:26.828Z
+updated: 2025-01-08T18:21:45.824Z
 tags:
   - product
 categories:
@@ -47,10 +47,6 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX2.jpg?fit=1030%2C579&ssl=1 "LYRX2")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX2.jpg?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Click on the “Register / Sign Up” Option. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX3.jpg?fit=1030%2C579&ssl=1 "LYRX3")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX3.jpg?fit=1030%2C579&ssl=1)
@@ -59,12 +55,16 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX4.jpg?fit=1030%2C579&ssl=1 "LYRX4")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX4.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click on “Authorize”. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX5.jpg?fit=1030%2C579&ssl=1 "LYRX5")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX5.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Select the karaoke song lists you wish to share with your singers (Karaoke Catalog for your own music (we’ll explain more below) and Party Tyme Subscription content if you’re a subscriber). You will be prompted to restart after each selection, but wait until each box is checked first. 
@@ -75,25 +75,25 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX7.jpg?fit=1030%2C579&ssl=1 "LYRX7")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX7.jpg?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) Add your own karaoke music to the “Karaoke Catalog” special list (located under Special Lists). You can select all your karaoke songs and drag/drop to the list to populate it, or only the karaoke songs you wish to share with singers (currently capped at 100,000 total songs). 
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX8.jpg?fit=1030%2C579&ssl=1 "LYRX8")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX8.jpg?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8) Go into LYRX’s options and under the “Karaoke” tab click the “Update KSR Songbook” button to sync your list of karaoke music. You will be asked to add a venue/songbook name. Create a unique name and click “OK”. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX9.jpg?fit=1030%2C579&ssl=1 "LYRX9")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX9.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9) You will be assigned a unique venue ID. It’s this ID number you share with your singers. Singer will need to go to [ksr.pcdj.com](https://tools.techidaily.com/pcdj/products/) and create a free account. They will then be prompted for your venue ID. Once they apply the ID they can view, search, and make request from your online karaoke song book. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX10.jpg?fit=1030%2C579&ssl=1 "LYRX10")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX10.jpg?fit=1030%2C579&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10) When a singer submits a song request you will be notified in LYRX’s singer rotation list. Click “Accept” to accept the request and the singer/song will be submitted into rotation. That’s it! 
 
@@ -106,7 +106,7 @@ The screenshots displayed above are of the ‘KSR web app’ that your karaoke s
 Please feel free to test the new KSR system with LYRX 1.7\. If you have issues or suggestions, post them in the [Official PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/) on Facebook (you will find a pinned thread regarding the new LYRX 1.7 Release Candidate – please post reports in that specific thread).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -128,17 +128,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/ksr-coverimage-lyrx.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>[New] 2024 Approved Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1726026695461-and/"><u>「ネイティブキャンプの体験をクオリティー高映像&音声で記録するガイド」</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1732519107054-yl-software/"><u>探索法国大革命始源:找出首发岁月 | YL Software</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-xs-max-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone XS Max and iPad?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-captured-words-top-10-mobile-writing-tools-for-images/"><u>In 2024, Captured Words Top 10 Mobile Writing Tools for Images</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/struggling-with-pace-what-to-do-when-your-printer-runs-at-snail-speed-insights-by-yl-software/"><u>Struggling with Pace: What to Do When Your Printer Runs at Snail Speed - Insights by YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-techniques-for-common-driver-errors-according-to-yl-software-experts/"><u>Troubleshooting Techniques for Common Driver Errors, According to YL Software Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tuxedos-latest-marvel-sirius-16-gen2-all-amd-linux-game-pc-high-definition-165hz-screen-for-immersive-play-starting-at-1699/"><u>Tuxedo's Latest Marvel: Sirius 16 Gen2 All-AMD Linux Game PC - High-Definition 165Hz Screen for Immersive Play Starting at €1699</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/l-narrative-weaver/"><u>Visual Narrative Weaver</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/yl-software-tips-fixing-paper-jam-issues-in-your-printer-efficiently/"><u>YL Software Tips: Fixing 'Paper Jam' Issues in Your Printer Efficiently</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/roadmap-to-monetization-mastery-the-straightforward-strategy-for-analyzing-youtube-earnings/"><u>Your Roadmap to Monetization Mastery The Straightforward Strategy for Analyzing YouTube Earnings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-create-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app/"><u>[New] 2024 Approved Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-screenscapes-the-new-tech-frontier-for-2024/"><u>[New] Screenscapes The New Tech Frontier for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-walkthrough-mastering-adobe-cloud-services-for-2024/"><u>Complete Walkthrough Mastering Adobe Cloud Services for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/demand-for-repatriation-british-museum-challenged-over-stolen-chinese-relics-calls-from-chinese-press-for-full-restitution-insights-by-yl-computing-and-soft63/"><u>Demand for Repatriation: British Museum Challenged Over Stolen Chinese Relics; Calls From Chinese Press for Full Restitution - Insights by YL Computing & Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-igtv-visuals-cover-photos-update-for-2024/"><u>Elevating Your IGTV Visuals Cover Photos Update for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-youtube-tv-stacks-up-5-benefits-of-joining-today/"><u>How YouTube TV Stacks Up: 5 Benefits of Joining Today</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-enhance-your-online-presence-with-these-50-complimentary-banners/"><u>In 2024, Enhance Your Online Presence with These 50 Complimentary Banners</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-mouse-configuration-tips-and-tricks-from-yl-software-experts/"><u>Mastering Mouse Configuration: Tips and Tricks From YL Software Experts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/resolving-gpu-malfunction-alerts-expert-tips-from-yl-computing/"><u>Resolving GPU Malfunction Alerts: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smooth-snapshot-mastery-eliminate-shakes-for-2024/"><u>Smooth Snapshot Mastery - Eliminate Shakes for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-graphics-card-problems-expert-tips-from-yl-computings-tech-team/"><u>Solving Graphics Card Problems: Expert Tips From YL Computing's Tech Team</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-sound-issues-post-operating-system-upgrade-insights-from-yl-computing/"><u>Troubleshooting Sound Issues Post-Operating System Upgrade - Insights From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/understanding-the-causes-behind-your-pcs-sudden-crashes-insights-from-yl-computing/"><u>Understanding the Causes Behind Your PC's Sudden Crashes - Insights From YL Computing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-audio-video-alignment-made-easy-a-final-cut-pro-x-2024-guide/"><u>Updated Audio-Video Alignment Made Easy A Final Cut Pro X 2024 Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MAJOR WARNING: Preserve DEX Cu 3 & LYRX Performance, Skip macOS Catalina Update!"
-date: 2024-12-27T17:17:36.751Z
-updated: 2024-12-29T16:39:52.896Z
+date: 2025-01-03T10:48:52.386Z
+updated: 2025-01-09T10:23:53.007Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,21 +48,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-uncovering-8-affordable-platform-agnostic-virtual-communication-tools/"><u>[New] 2024 Approved Uncovering 8 Affordable, Platform-Agnostic Virtual Communication Tools</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-giggles-on-iphones/"><u>[New] Giggles on iPhones</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-insiders-guide-to-vids-on-the-big-blue-network/"><u>[New] In 2024, The Insider's Guide to Vids on the Big Blue Network</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-youtubes-full-rotation-streaming-potential/"><u>[New] Unveiling YouTube’s Full-Rotation Streaming Potential</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-loom-studio-sync-screen-record-features-explained/"><u>[Updated] 2024 Approved Loom Studio Sync Screen Record Features Explained</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-viewability-of-fb-videos-hv-debate-for-2024/"><u>[Updated] Enhancing Viewability of FB Videos – H/V Debate for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-strategies-to-thrive-on-snapchat-as-a-business-entity/"><u>[Updated] Strategies to Thrive on Snapchat as a Business Entity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/green-canvas-essential-templates-to-enhance-your-cinematographic-journey-for-2024/"><u>Green Canvas Essential Templates to Enhance Your Cinematographic Journey for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/iphone-lens-magic-the-ultimate-10-composition-techniques/"><u>IPhone Lens Magic The Ultimate 10 Composition Techniques</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/keep-your-device-cool-proven-methods-to-stop-laptops-from-overheating-insights-by-yl-computing-and-yl-software/"><u>Keep Your Device Cool: Proven Methods to Stop Laptops From Overheating - Insights by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/online-karaoke-revolutions-on-dex-3-a-how-to-for-real-time-music-purchasing-from-karaokenet-video/"><u>Online Karaoke Revolutions on Dex 3: A How-To for Real-Time Music Purchasing From karaoke.net (Video)</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/opening-compressed-archives-in-windows-operating-system-with-yl-software-solutions/"><u>Opening Compressed Archives in Windows Operating System with YL Software Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/optimizing-your-pcs-boot-process-a-comprehensive-guide-on-removing-winini-auto-start-programs-with-yl-computing-solutions/"><u>Optimizing Your PC's Boot Process: A Comprehensive Guide on Removing Win.INI Auto-Start Programs with YL Computing Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solving-your-pcs-ram-issues-expert-tips-and-strategies-from-yl-computing/"><u>Solving Your PC's RAM Issues: Expert Tips and Strategies From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-guide-identifying-issues-with-non-functional-graphics-cards-expert-advice-from-yl-software/"><u>Troubleshooting Guide: Identifying Issues with Non-Functional Graphics Cards - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-your-computers-hardware-on-windows-expert-tips-from-yl-computing-and-software-services/"><u>Troubleshooting Your Computer's Hardware on Windows: Expert Tips From YL Computing & Software Services</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-infinite-rotation-video-anchors/"><u>[Updated] 2024 Approved Infinite Rotation Video Anchors</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/boost-your-gpu-efficiency-expert-tips-from-yl-computings-latest-guide/"><u>Boost Your GPU Efficiency: Expert Tips From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-mov-movies-content-on-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Galaxy Z Fold 5</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/enabling-and-disabling-device-drivers-on-your-pc-a-comprehensive-guide-techmaster/"><u>Enabling & Disabling Device Drivers on Your PC: A Comprehensive Guide - TechMaster</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-get-reliable-troubleshooting-guides-for-your-scanner-tips-from-yl-computing/"><u>How to Get Reliable Troubleshooting Guides for Your Scanner - Tips From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-seamlessly-update-your-pcdj-with-new-virtualdj-skins-a-complete-guide/"><u>How to Seamlessly Update Your PCDJ with New VirtualDJ Skins - A Complete Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-smart-8-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Smart 8 Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210779870-9780876129777-innerlijke-vrede-inner-peacedutch/"><u>Innerlijke vrede (Inner Peace—Dutch) | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-ai-revolution-in-depth-understanding-of-openai-explained/"><u>Mastering the AI Revolution: In-Depth Understanding of OpenAI Explained</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/personalized-playlist-perks-join-the-premium-karaoke-cloud-pro-membership/"><u>Personalized Playlist Perks: Join the Premium Karaoke Cloud Pro Membership!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-a-loudly-buzzing-pc-cooling-fan-solutions-and-tips-yl-tech-support/"><u>Troubleshooting a Loudly Buzzing PC Cooling Fan: Solutions and Tips - YL Tech Support</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-ceasing-wired-pc-keyboard-on-windows/"><u>Tutorial: Ceasing Wired PC Keyboard on Windows</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unveiling-windows-11s-new-functionalities-an-insightful-analysis-from-yl-software-experts/"><u>Unveiling Windows 11'S New Functionalities - An Insightful Analysis From YL Software Experts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-solutions-for-fixing-unresponsive-scanners-after-connection-expert-advice-from-yl-computing/"><u>YL Solutions for Fixing Unresponsive Scanners After Connection - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

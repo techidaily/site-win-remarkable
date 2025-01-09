@@ -1,7 +1,7 @@
 ---
 title: Buy DEX 3 By Four (4-30-16) & Receive 200 FREE Music Video Downloads!
-date: 2024-12-23T04:25:11.724Z
-updated: 2024-12-29T21:07:01.064Z
+date: 2025-01-01T21:24:43.385Z
+updated: 2025-01-09T07:28:07.017Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ After your successful online [purchase and download of DEX 3](https://shop.pcdj.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## _WHY THE VIDEO POOL?_
@@ -52,7 +52,7 @@ After your successful online [purchase and download of DEX 3](https://shop.pcdj.
  _**\*NOTE:** Offer valid for online orders at PCDJ.com only through 4/30/16 (not applicable on upgrade purchases)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,20 +74,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/dex3plus200videos-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/do-manners-matter-for-ai-assistants-like-chatgpt-amazons-alexa-or-apples-siri/"><u>Do Manners Matter for AI Assistants Like ChatGPT, Amazon's Alexa or Apple's Siri?</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/hd-eagle-inspired-desktop-icons-and-wallpapers-for-pcs-and-macs-from-yl-software/"><u>HD Eagle-Inspired Desktop Icons & Wallpapers for PCs and Macs From YL Software</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-12-pro-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 12 Pro With or Without Password</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-reno-11f-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo Reno 11F 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/lyrx-celebrates-second-anniversary-final-call-on-discounted-rate/"><u>LYRX Celebrates Second Anniversary: Final Call on Discounted Rate!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-muted-fun-get-the-sound-back-in-roblox-while-gaming-on-windows-11-or-10/"><u>No More Muted Fun: Get the Sound Back in Roblox While Gaming on Windows 11 or 10</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-detection-of-razer-devices-by-synapse-software/"><u>Reinstating Detection of Razer Devices by Synapse Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/synthesizing-waterway-content-with-impact-for-2024/"><u>Synthesizing Waterway Content with Impact for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-essential-guide-to-populating-powerpoint-decks-with-youtube-videos-for-2024/"><u>The Essential Guide to Populating PowerPoint Decks With YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/the-role-of-crypto-currencies-in-modern-economics-understanding-their-functions-with-yl-software-insights/"><u>The Role of Crypto-Currencies in Modern Economics: Understanding Their Functions with YL Software Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-12-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi 12 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-guide-how-to-fix-an-improperly-functioning-pc-monitor-expert-advice-from-yl-software/"><u>Troubleshooting Guide: How to Fix an Improperly Functioning PC Monitor - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-your-gpu-malfunctions-expert-advice-by-yl-software/"><u>Troubleshooting Your GPU Malfunctions: Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/unveiling-the-distinctions-blockchain-vs-distributed-ledger-technology-explained-by-yl-computing/"><u>Unveiling the Distinctions: Blockchain Vs. Distributed Ledger Technology Explained by YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/unveiling-the-red-flags-for-damaged-graphics-cards-with-yl-software-tips/"><u>Unveiling the Red Flags for Damaged Graphics Cards with YL Software Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-building-a-broadcast-brand-with-youtube-twitch-and-obs-for-2024/"><u>[New] Building a Broadcast Brand with YouTube, Twitch and OBS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-integrated-iptv-accessibility/"><u>[New] Integrated IPTV Accessibility</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ealthiest-webcast-wonders/"><u>[New] Wealthiest Webcast Wonders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>[Updated] Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-live-undo-on-twitch-essential-tips-and-strategies/"><u>[Updated] Mastering Live Undo on Twitch Essential Tips and Strategies</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/effective-strategies-for-diagnosing-and-fixing-issues-in-windows-apps-insights-from-yl-computing/"><u>Effective Strategies for Diagnosing and Fixing Issues in Windows Apps - Insights From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-13-pro-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 13 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-solving-iphone-xs-identity-crisis-fixing-face-id-failures/"><u>In 2024, Solving iPhone X's Identity Crisis Fixing Face ID Failures</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/influential-revolutionary-events-in-chinese-history-igniting-political-change-and-social-disruption-a-comprehensive-study-by-yl-computing-and-software/"><u>Influential Revolutionary Events in Chinese History Igniting Political Change and Social Disruption: A Comprehensive Study by YL Computing & Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/inside-look-pcdj-dex-3-functionality-demonstrated-in-browser-overview-expert-tutorial-video-guide/"><u>Inside Look: PCDJ Dex 3 Functionality Demonstrated in Browser Overview - Expert Tutorial Video Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-networking-smaller-bizs-video-strategies/"><u>Niche Networking Smaller Biz's Video Strategies</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/setting-up-automatic-jobs-with-yl-software-a-comprehensive-guide/"><u>Setting Up Automatic Jobs with YL Software - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-instructions-for-replacing-your-computers-broken-optical-disk-reader-by-yl-software/"><u>Step-by-Step Instructions for Replacing Your Computer's Broken Optical Disk Reader by YL Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transform-your-presence-advanced-tricks-for-live-video-graphics-for-2024/"><u>Transform Your Presence Advanced Tricks for Live Video Graphics for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unraveling-persistent-system-collapses-when-starting-video-games-expert-advice-by-yl-software-experts/"><u>Unraveling Persistent System Collapses When Starting Video Games: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-software-insights-personalize-your-digital-experience-by-modifying-text-appearance-and-pointer-settings/"><u>YL Software Insights: Personalize Your Digital Experience by Modifying Text Appearance and Pointer Settings</u></a></li>
 </ul></div>
 

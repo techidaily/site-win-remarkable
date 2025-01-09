@@ -1,7 +1,7 @@
 ---
 title: Explore the New Horizons with PCDJ Dex Eb Version 3 - The Final Pre-Release Unveiled!
-date: 2024-12-26T01:20:12.087Z
-updated: 2024-12-30T04:42:50.842Z
+date: 2025-01-07T11:42:02.876Z
+updated: 2025-01-08T22:33:06.803Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/b74744220589b6a906ebb663c728844a6da00413e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Yes, the excitement is almost palpable here at PCDJ HQ…
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b74744220589b6a906ebb663c728844a6da00413e
 **DEX 3** release candidate 6 is now available for public download below, and the expectation is for it to be the last candidate version before the official public release. That means what’s currently included in **DEX 3** should[![dex3onmac](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/dex3onmac.png?resize=505%2C311&ssl=1)](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/07/dex3onmac.png?ssl=1) be bug-free, and gig-ready. Providing our public concurs, what’s next for **DEX 3** beyond the first public launch is 3.1 (_and a myriad of other planned free updates throughout this year_)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can find the previous release candidate version of **DEX 3** [HERE](https://tools.techidaily.com/pcdj/products/), and read up on much of what’s new-and-improved in **PCDJ DEX 3**, our [best DJ mixing software](https://tools.techidaily.com/pcdj/products/) solution allowing you to _#MixEverything_
@@ -43,13 +43,13 @@ You can find the previous release candidate version of **DEX 3** [HERE](https://
 [![os-windows-xxl](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/os-windows-xxl-e1407179321812.png?resize=65%2C65&ssl=1)](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/os-windows-xxl-e1407179321812.png?ssl=1)**[DOWNLOAD DEX 3 FOR WINDOWS](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![Operating-Sysytems-Mac-os-icon](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/08/Operating-Sysytems-Mac-os-icon-e1407179403102.png?resize=65%2C65&ssl=1)](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/08/Operating-Sysytems-Mac-os-icon-e1407179403102.png?ssl=1)**[DOWNLOAD DEX 3 FOR MAC](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### If you find any issues, feel free to join our user forums and post a report [HERE](https://tools.techidaily.com/pcdj/products/)
@@ -57,7 +57,7 @@ You can find the previous release candidate version of **DEX 3** [HERE](https://
 **INTRODUCTION TO DEX 3 TUTORIAL VIDEO:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -79,17 +79,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3pre-releasecoverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-prodigy-skyrocketing-with-content-innovation/"><u>[New] 2024 Approved Channel Prodigy Skyrocketing with Content Innovation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-attention-try-these-7-budget-friendly-tools/"><u>[Updated] Maximize Attention - Try These 7 Budget-Friendly Tools</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/diagnosing-a-snail-paced-computer-top-causes-and-solutions-by-yl-software-professionals/"><u>Diagnosing a Snail-Paced Computer: Top Causes and Solutions by YL Software Professionals</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/exploring-the-benefits-of-cloud-computing-an-in-depth-guide-by-yl-computing/"><u>Exploring the Benefits of Cloud Computing: An In-Depth Guide by YL Computing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-asus-realtek-sound-card-drivers-immediate-downloads/"><u>Free ASUS Realtek Sound Card Drivers - Immediate Downloads</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/macos-big-sur-update-exciting-compatibility-boost-for-dj-pros-using-dex-3-and-pcdj-tools/"><u>MacOS Big Sur Update - Exciting Compatibility Boost for DJ Pros Using DEX 3 & PCDJ Tools!</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>New In 2024, Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/optimizing-your-pc-top-strategies-to-minimize-memory-consumption-by-yl-computing/"><u>Optimizing Your PC: Top Strategies to Minimize Memory Consumption by YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/overcoming-scanning-challenges-enhance-image-clarity-using-yl-software-techniques/"><u>Overcoming Scanning Challenges: Enhance Image Clarity Using YL Software Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-iphone-xr-error-14-issue-a-step-by-step-guide/"><u>Solving the iPhone XR 'Error 14' Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211440706--thinking-about-thinking/"><u>Thinking About Thinking | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comprehensive-guide-to-ios-screenshotting/"><u>[New] 2024 Approved Comprehensive Guide to iOS Screenshotting</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-step-by-step-guide-uploading-imovie-videos-to-vimeo-platform/"><u>[New] In 2024, Step-by-Step Guide Uploading iMovie Videos to Vimeo Platform</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-prime-windows-rapid-photo-displayer/"><u>[Updated] Prime Window's Rapid Photo Displayer</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/cross-platform-file-management-system-efficient-and-reliable/"><u>Cross-Platform File Management System - Efficient and Reliable</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/enhancements-in-the-bitcoin-network-understanding-svnode-and-its-impact-on-blockchain-technology-insights-by-yl-computing/"><u>Enhancements in the Bitcoin Network: Understanding SVNode & Its Impact on Blockchain Technology - Insights by YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-integrate-dj-controller-plugins-into-your-dex-3-daw-for-enhanced-audio-production/"><u>How to Integrate DJ Controller Plugins Into Your DEX 3 DAW for Enhanced Audio Production</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-a15-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy A15 4G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/integrating-zoom-and-fb-live-effortlessly-for-2024/"><u>Integrating ZOOM and FB Live Effortlessly for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/master-your-mixes-with-pc-based-dj-programs-a-beginners-guide-to-crafting-perfect-playlists-on-pcdj-and-similar-platforms/"><u>Master Your Mixes with PC-Based DJ Programs: A Beginner's Guide to Crafting Perfect Playlists on PCDJ and Similar Platforms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/pro-tips-for-captivating-snapchat-stories-for-2024/"><u>Pro Tips for Captivating Snapchat Stories for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-graphics-card-issues-a-step-by-step-guide-tech-tips-by-yl/"><u>Solving Graphics Card Issues: A Step-by-Step Guide - Tech Tips by YL</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/spotting-crypto-frauds-expert-guide-by-yl-computing-protect-your-digital-assets/"><u>Spotting Crypto Frauds: Expert Guide by YL Computing - Protect Your Digital Assets</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transform-your-pcs-look-mastering-window-customization-via-control-panel-tips-from-yl-software/"><u>Transform Your PC's Look: Mastering Window Customization via Control Panel - Tips From YL Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unbiased-virtualdub-review-and-top-picks-for-alternative-video-editors/"><u>Unbiased Virtualdub Review and Top Picks for Alternative Video Editors</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/understanding-the-potential-hazards-of-investing-in-digital-assets-a-guide-by-yl-computing/"><u>Understanding the Potential Hazards of Investing in Digital Assets: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unlocking-windows-energy-settings-a-comprehensive-guide-by-yl-computing/"><u>Unlocking Window's Energy Settings: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-search.techidaily.com/wie-kann-ich-geloschte-dateien-ohne-sicherungsdatei-wiederherstellen/"><u>Wie Kann Ich Gelöschte Dateien Ohne Sicherungsdatei Wiederherstellen?</u></a></li>
 </ul></div>
 

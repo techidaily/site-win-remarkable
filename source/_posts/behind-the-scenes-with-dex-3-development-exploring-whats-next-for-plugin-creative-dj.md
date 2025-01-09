@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes with DEX 3 Development - Exploring What's Next for Plugin Creative DJ
-date: 2024-12-22T19:06:05.095Z
-updated: 2024-12-30T02:11:05.947Z
+date: 2025-01-01T17:16:05.706Z
+updated: 2025-01-08T23:29:28.466Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,19 +74,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ninja-legacy-continuation-game-roundup-like-the-japanese-samurai-epic-for-2024/"><u>[Updated] Ninja Legacy Continuation Game Roundup Like the Japanese Samurai Epic for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/from-novice-to-geometric-master-crafting-perfect-circular-and-spherical-objects-for-2024/"><u>From Novice to Geometric Master Crafting Perfect Circular & Spherical Objects for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/getting-started-with-iphone-speech-recordings/"><u>Getting Started with iPhone Speech Recordings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-discord-javascript-error-easily/"><u>How to Fix Discord JavaScript Error [Easily]</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-image-potential-the-importance-of-luts/"><u>In 2024, Unlocking Image Potential The Importance of LUTs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-time-offer-purchase-the-latest-macbook-pro-with-m3-pro-cpu-at-an-exclusive-discounted-price-on-presidents-day-save-200-now-detailed-guide/"><u>Limited Time Offer: Purchase the Latest MacBook Pro with M3 Pro CPU at an Exclusive Discounted Price on Presidents' Day - Save $200 Now! - Detailed Guide</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/opening-compressed-archives-in-windows-operating-system-with-yl-software-solutions/"><u>Opening Compressed Archives in Windows Operating System with YL Software Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/optimizing-your-pcs-boot-process-a-comprehensive-guide-on-removing-winini-auto-start-programs-with-yl-computing-solutions/"><u>Optimizing Your PC's Boot Process: A Comprehensive Guide on Removing Win.INI Auto-Start Programs with YL Computing Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-cod-ww2-ea-update-glitch-fixing-error-code-4220/"><u>Resolving the COD WW2 EA Update Glitch: Fixing Error Code 4220</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solving-your-pcs-ram-issues-expert-tips-and-strategies-from-yl-computing/"><u>Solving Your PC's RAM Issues: Expert Tips and Strategies From YL Computing</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/stockholms-premier-seo-agencies-unveiling-the-best-including-seo-powersuite/"><u>Stockholm's Premier SEO Agencies - Unveiling the Best, Including SEO PowerSuite</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-guide-identifying-issues-with-non-functional-graphics-cards-expert-advice-from-yl-software/"><u>Troubleshooting Guide: Identifying Issues with Non-Functional Graphics Cards - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-your-computers-hardware-on-windows-expert-tips-from-yl-computing-and-software-services/"><u>Troubleshooting Your Computer's Hardware on Windows: Expert Tips From YL Computing & Software Services</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-hidden-energy-efficiency-tools-in-chromes-new-update-tips-from-zdnet/"><u>Uncover Hidden Energy Efficiency Tools in Chrome's New Update – Tips From ZDNet.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-hash-monitors-for-facebook-twitter-instagram-for-2024/"><u>[New] Essential Hash Monitors for Facebook, Twitter, Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-access-high-res-fb-media-files/"><u>[Updated] In 2024, Access High Res FB Media Files</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-adjust-your-windows-pcs-language-configuration-via-control-panel-tips-by-yl-computing/"><u>1. Adjust Your Windows PC's Language Configuration via Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/beta-release-pioneer-ddj-sr-mapping-update-compatible-with-pioneer-cdj-dex3-for-enhanced-performance/"><u>Beta Release: Pioneer DDJ-SR Mapping Update Compatible with Pioneer CDJ DEX3 for Enhanced Performance</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/crypto-storage-solutions-protecting-your-bitcoin-and-altcoins-with-yl-softwares-innovative-approaches/"><u>Crypto Storage Solutions: Protecting Your Bitcoin and Altcoins with YL Software's Innovative Approaches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009141928-dealing-with-the-delayed-drop-heres-how-to-play-football-manager-2022-right-now/"><u>Dealing With the Delayed Drop? Here's How to Play Football Manager 2022 Right Now</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/effective-strategies-to-avoid-memory-issues-on-your-windows-pc-expert-advice-from-yl-computing/"><u>Effective Strategies to Avoid Memory Issues on Your Windows PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unleashing-youtube-profits-non-ad-revenue-techniques-for-growth/"><u>In 2024, Unleashing YouTube Profits Non-Ad Revenue Techniques for Growth</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphones-best-camera-combo-utilities/"><u>IPhone's Best Camera Combo Utilities</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/quick-fix-guide-overcoming-common-internet-connectivity-problems-with-help-from-yl-software/"><u>Quick Fix Guide: Overcoming Common Internet Connectivity Problems with Help From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/resolving-screen-clarity-issues-on-your-pc-expert-advice-by-yl-software-professionals/"><u>Resolving Screen Clarity Issues on Your PC: Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-rm-to-mp4-conversion-mastery-with-aiseesofts-top-tool/"><u>Step-by-Step Tutorial: RM to MP4 Conversion Mastery with Aiseesoft's Top Tool</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-master-amazon-live-features-pro-tips-and-future-trends/"><u>Updated Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/worldwides-finest-karaoke-experience-awaits-unlock-50-hits-for-your-sing-along-pleasure-with-our-premier-subscription-service-on-march-3rd-2together/"><u>Worldwide's Finest Karaoke Experience Awaits - Unlock 50 Hits for Your Sing-Along Pleasure with Our Premier Subscription Service on March 3Rd, 2Together</u></a></li>
 </ul></div>
 

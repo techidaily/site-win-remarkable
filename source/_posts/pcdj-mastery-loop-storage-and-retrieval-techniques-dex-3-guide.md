@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Mastery: Loop Storage & Retrieval Techniques - DEX 3 Guide"
-date: 2024-12-29T04:24:19.482Z
-updated: 2024-12-29T21:36:48.303Z
+date: 2025-01-07T20:31:24.674Z
+updated: 2025-01-09T11:09:48.240Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,24 +61,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-decode-your-youtube-preferences-with-these-6-fan-favorite-questionnaires/"><u>[New] 2024 Approved Decode Your YouTube Preferences with These 6 Fan-Favorite Questionnaires</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-explore-8-inexpensive-virtual-gatherings-mac-and-windows-compatibility-for-2024/"><u>[Updated] Explore 8 Inexpensive Virtual Gatherings Mac & Windows Compatibility for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-mastering-sound-balance-two-methods-for-equalizing-audio-levels/"><u>1. Mastering Sound Balance: Two Methods for Equalizing Audio Levels</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/boost-your-laptops-performance-essential-advice-by-yl-tech-experts-on-overcoming-slow-speed-issues/"><u>Boost Your Laptop's Performance: Essential Advice by YL Tech Experts on Overcoming Slow Speed Issues</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/cloudpros-june-2014-update-unveils-exclusive-eclectic-mix-in-your-dj-kit-feature-packed-enhancements/"><u>CloudPro's June 2014 Update Unveils Exclusive Eclectic Mix in Your DJ Kit - Feature-Packed Enhancements!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/detecting-failures-in-your-sound-hardware-tips-by-yl-software-professionals/"><u>Detecting Failures in Your Sound Hardware: Tips by YL Software Professionals</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/exciting-news-karaoke-cloud-pro-enhances-experience-with-additional-music-trivia-game/"><u>Exciting News - Karaoke Cloud Pro Enhances Experience with Additional Music Trivia Game!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/explore-the-new-horizons-with-pcdj-dex-eb-version-3-the-final-pre-release-unveiled/"><u>Explore the New Horizons with PCDJ Dex Eb Version 3 - The Final Pre-Release Unveiled!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/from-woodsman-to-wanderer-a-detailed-analysis-of-minecrafts-adventure-inspired-campfire-tales-skin-line/"><u>From Woodsman to Wanderer: A Detailed Analysis of Minecraft's Adventure-Inspired Campfire Tales Skin Line</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-installuninstall-software-using-windows-control-panel-tutorial-by-yl-software/"><u>How To Install/Uninstall Software Using Windows' Control Panel - Tutorial by YL Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/hp-victus-15-laptop-now-discounted-by-350-limited-time-offer-from-best-buy-for-labor-day-holiday-shopping/"><u>HP Victus 15 Laptop Now Discounted by $350 - Limited Time Offer From Best Buy for Labor Day Holiday Shopping</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/imessage-communication-simplified-a-step-by-step-tutorial-for-windows-operating-system/"><u>IMessage Communication Simplified: A Step-by-Step Tutorial for Windows Operating System</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-illusions-unveiled-discerning-genuine-supporters-in-digital-platforms/"><u>In 2024, Illusions Unveiled Discerning Genuine Supporters in Digital Platforms</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reimagining-the-role-of-titles-in-after-effects-media/"><u>In 2024, Reimagining the Role of Titles in After Effects Media</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/master-file-and-printer-sharing-in-windows-11-tips-and-tricks-from-experts-at-yl-software/"><u>Master File & Printer Sharing in Windows 11: Tips and Tricks From Experts at YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/maximizing-your-pcs-potential-key-tips-and-tricks-from-yl-computing-and-yl-software/"><u>Maximizing Your PC's Potential: Key Tips & Tricks From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solving-common-issues-a-comprehensive-guide-to-fixing-your-pcs-mouse-and-keyboard-expert-tips-from-yl-computing/"><u>Solving Common Issues: A Comprehensive Guide to Fixing Your PC's Mouse & Keyboard - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-to-address-missing-or-not-found-mapi3e-dll-errors/"><u>Troubleshooting Tips to Address 'Missing or Not Found' MAPI3e DLL Errors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/ultimate-ratio-breakdown-for-youtube-content-formats-for-2024/"><u>Ultimate Ratio Breakdown for YouTube Content Formats for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-camguard-elite-mesh-patch/"><u>[New] 2024 Approved CamGuard Elite Mesh Patch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-tips-for-maximizing-visual-impact-via-google-meet-filters-and-masks/"><u>[New] 2024 Approved Expert Tips for Maximizing Visual Impact via Google Meet Filters & Masks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-skype-audio-archive-mp3-techniques-free-edition/"><u>[New] 2024 Approved Skype Audio Archive MP3 Techniques, Free Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-capture-the-sparkle-insta-worthy-photos-to-inspire-your-audience/"><u>[New] Capture the Sparkle Insta-Worthy Photos to Inspire Your Audience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-new-horizons-in-graphic-design-post-acid/"><u>[New] New Horizons in Graphic Design Post-ACID</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/assessing-graphic-card-performance-a-guide-by-yl-software-professionals/"><u>Assessing Graphic Card Performance: A Guide by YL Software Professionals</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-can-i-enhance-my-computers-performance-expert-advice-from-yl-software/"><u>How Can I Enhance My Computer's Performance? Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/pick-your-song-daily-with-party-tyme-enjoy-our-newest-karaoke-selection-now/"><u>Pick Your Song Daily with Party Tyme - Enjoy Our Newest Karaoke Selection Now!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/preheating-aggregates-before-mixing-is-a-common-practice-in-cold-weather-concreting-but-must-be-done-carefully/"><u>Preheating Aggregates Before Mixing Is a Common Practice in Cold Weather Concreting but Must Be Done Carefully.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-s18-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo S18 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210349861-9782226287267-sauver-nos-vies/"><u>Sauver nos vies | Free Book</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/secure-your-digital-wealth-expert-tips-on-storing-cryptocurrencies-by-yl-computing/"><u>Secure Your Digital Wealth: Expert Tips on Storing Cryptocurrencies by YL Computing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-rated-mac-vpn-services-comprehensive-expert-reviews-and-comparisons/"><u>Top Rated Mac VPN Services: Comprehensive Expert Reviews & Comparisons</u></a></li>
 </ul></div>
 
