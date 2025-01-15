@@ -1,7 +1,7 @@
 ---
 title: Buy DEX 3 By Four (4-30-16) & Receive 200 FREE Music Video Downloads!
-date: 2025-01-01T21:24:43.385Z
-updated: 2025-01-09T07:28:07.017Z
+date: 2025-01-09T00:29:27.634Z
+updated: 2025-01-14T18:03:13.229Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ After your successful online [purchase and download of DEX 3](https://shop.pcdj.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## _WHY THE VIDEO POOL?_
@@ -52,7 +52,7 @@ After your successful online [purchase and download of DEX 3](https://shop.pcdj.
  _**\*NOTE:** Offer valid for online orders at PCDJ.com only through 4/30/16 (not applicable on upgrade purchases)._ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,21 +74,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/dex3plus200videos-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-building-a-broadcast-brand-with-youtube-twitch-and-obs-for-2024/"><u>[New] Building a Broadcast Brand with YouTube, Twitch and OBS for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-integrated-iptv-accessibility/"><u>[New] Integrated IPTV Accessibility</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ealthiest-webcast-wonders/"><u>[New] Wealthiest Webcast Wonders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>[Updated] Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-live-undo-on-twitch-essential-tips-and-strategies/"><u>[Updated] Mastering Live Undo on Twitch Essential Tips and Strategies</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/effective-strategies-for-diagnosing-and-fixing-issues-in-windows-apps-insights-from-yl-computing/"><u>Effective Strategies for Diagnosing and Fixing Issues in Windows Apps - Insights From YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-13-pro-max-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 13 Pro Max From Your Apple ID</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-solving-iphone-xs-identity-crisis-fixing-face-id-failures/"><u>In 2024, Solving iPhone X's Identity Crisis Fixing Face ID Failures</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/influential-revolutionary-events-in-chinese-history-igniting-political-change-and-social-disruption-a-comprehensive-study-by-yl-computing-and-software/"><u>Influential Revolutionary Events in Chinese History Igniting Political Change and Social Disruption: A Comprehensive Study by YL Computing & Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/inside-look-pcdj-dex-3-functionality-demonstrated-in-browser-overview-expert-tutorial-video-guide/"><u>Inside Look: PCDJ Dex 3 Functionality Demonstrated in Browser Overview - Expert Tutorial Video Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-networking-smaller-bizs-video-strategies/"><u>Niche Networking Smaller Biz's Video Strategies</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/setting-up-automatic-jobs-with-yl-software-a-comprehensive-guide/"><u>Setting Up Automatic Jobs with YL Software - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-instructions-for-replacing-your-computers-broken-optical-disk-reader-by-yl-software/"><u>Step-by-Step Instructions for Replacing Your Computer's Broken Optical Disk Reader by YL Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/transform-your-presence-advanced-tricks-for-live-video-graphics-for-2024/"><u>Transform Your Presence Advanced Tricks for Live Video Graphics for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/unraveling-persistent-system-collapses-when-starting-video-games-expert-advice-by-yl-software-experts/"><u>Unraveling Persistent System Collapses When Starting Video Games: Expert Advice by YL Software Experts</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/yl-software-insights-personalize-your-digital-experience-by-modifying-text-appearance-and-pointer-settings/"><u>YL Software Insights: Personalize Your Digital Experience by Modifying Text Appearance and Pointer Settings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-become-an-instagram-content-wizard-with-smart-cropping-practices/"><u>[New] In 2024, Become an Instagram Content Wizard with Smart Cropping Practices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-introduce-audio-files-to-premiere-pro-timeline/"><u>[New] Introduce Audio Files to Premiere Pro Timeline</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-avoid-unsolicited-podcast-selections-by-spotify/"><u>[Updated] Avoid Unsolicited Podcast Selections by Spotify</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-extensive-review-the-360-degree-capture-of-samsung/"><u>[Updated] Extensive Review The 360-Degree Capture of Samsung</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-step-by-step-guide-restoring-defaults-on-your-lan-setup-tips-from-yl-software/"><u>1. Step-by-Step Guide: Restoring Defaults on Your LAN Setup - Tips From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/check-your-hardwares-window-compatibility-insights-from-yl-software-experts/"><u>Check Your Hardware's Window-Compatibility: Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/diagnosing-a-snail-paced-computer-top-causes-and-solutions-by-yl-software-professionals/"><u>Diagnosing a Snail-Paced Computer: Top Causes and Solutions by YL Software Professionals</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhance-performance-updated-amd-6950-graphics-on-windows-10/"><u>Enhance Performance: Updated AMD 6950 Graphics on Windows 10</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/exploring-the-benefits-of-cloud-computing-an-in-depth-guide-by-yl-computing/"><u>Exploring the Benefits of Cloud Computing: An In-Depth Guide by YL Computing</u></a></li>
+<li><a href="https://solve-help.techidaily.com/gyao/"><u>Gyaoビデオクリップを安全に保管するための便利方法：基本的ガイド</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>In 2024, Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/macos-big-sur-update-exciting-compatibility-boost-for-dj-pros-using-dex-3-and-pcdj-tools/"><u>MacOS Big Sur Update - Exciting Compatibility Boost for DJ Pros Using DEX 3 & PCDJ Tools!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-the-matrimony-beat-proven-strategies-for-success-as-a-mobile-dj-at-nuptials-featuring-exclusive-tips-by-music-maestro-john-young-pcdj-visionary/"><u>Mastering the Matrimony Beat: Proven Strategies for Success as a Mobile DJ at Nuptials - Featuring Exclusive Tips by Music Maestro John Young, PCDJ Visionary</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/navigating-crypto-laws-comprehensive-insights-into-regulatory-requirements-for-digital-asset-transactions-powered-by-yl-computing-solutions/"><u>Navigating Crypto Laws: Comprehensive Insights Into Regulatory Requirements for Digital Asset Transactions – Powered by YL Computing Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/optimizing-your-pc-top-strategies-to-minimize-memory-consumption-by-yl-computing/"><u>Optimizing Your PC: Top Strategies to Minimize Memory Consumption by YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/pimaxs-clear-cut-vision-with-a-side-of-software-glitches/"><u>Pimax's Clear Cut Vision with a Side of Software Glitches</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/premium-full-hd-destructive-blade-of-darkness-graphics-set-images-pictures-and-backgrounds-powered-by-yl-software/"><u>Premium Full HD Destructive Blade of Darkness Graphics Set: Images, Pictures & Backgrounds – Powered by YL Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-z-fold-5-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy Z Fold 5 Phone Hassle-Free</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-itel-s23plus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Itel S23+ Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes with DEX 3 Development - Exploring What's Next for Plugin Creative DJ
-date: 2025-01-01T17:16:05.706Z
-updated: 2025-01-08T23:29:28.466Z
+date: 2025-01-08T17:31:40.389Z
+updated: 2025-01-15T03:55:23.903Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,20 +74,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-essential-hash-monitors-for-facebook-twitter-instagram-for-2024/"><u>[New] Essential Hash Monitors for Facebook, Twitter, Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-access-high-res-fb-media-files/"><u>[Updated] In 2024, Access High Res FB Media Files</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1-adjust-your-windows-pcs-language-configuration-via-control-panel-tips-by-yl-computing/"><u>1. Adjust Your Windows PC's Language Configuration via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/beta-release-pioneer-ddj-sr-mapping-update-compatible-with-pioneer-cdj-dex3-for-enhanced-performance/"><u>Beta Release: Pioneer DDJ-SR Mapping Update Compatible with Pioneer CDJ DEX3 for Enhanced Performance</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/crypto-storage-solutions-protecting-your-bitcoin-and-altcoins-with-yl-softwares-innovative-approaches/"><u>Crypto Storage Solutions: Protecting Your Bitcoin and Altcoins with YL Software's Innovative Approaches</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723009141928-dealing-with-the-delayed-drop-heres-how-to-play-football-manager-2022-right-now/"><u>Dealing With the Delayed Drop? Here's How to Play Football Manager 2022 Right Now</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/effective-strategies-to-avoid-memory-issues-on-your-windows-pc-expert-advice-from-yl-computing/"><u>Effective Strategies to Avoid Memory Issues on Your Windows PC - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-unleashing-youtube-profits-non-ad-revenue-techniques-for-growth/"><u>In 2024, Unleashing YouTube Profits Non-Ad Revenue Techniques for Growth</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iphones-best-camera-combo-utilities/"><u>IPhone's Best Camera Combo Utilities</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/quick-fix-guide-overcoming-common-internet-connectivity-problems-with-help-from-yl-software/"><u>Quick Fix Guide: Overcoming Common Internet Connectivity Problems with Help From YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/resolving-screen-clarity-issues-on-your-pc-expert-advice-by-yl-software-professionals/"><u>Resolving Screen Clarity Issues on Your PC: Expert Advice by YL Software Professionals</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-rm-to-mp4-conversion-mastery-with-aiseesofts-top-tool/"><u>Step-by-Step Tutorial: RM to MP4 Conversion Mastery with Aiseesoft's Top Tool</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-master-amazon-live-features-pro-tips-and-future-trends/"><u>Updated Master Amazon Live Features, Pro Tips and Future Trends</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/worldwides-finest-karaoke-experience-awaits-unlock-50-hits-for-your-sing-along-pleasure-with-our-premier-subscription-service-on-march-3rd-2together/"><u>Worldwide's Finest Karaoke Experience Awaits - Unlock 50 Hits for Your Sing-Along Pleasure with Our Premier Subscription Service on March 3Rd, 2Together</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-exclusive-access-download-your-own-tailored-tracks/"><u>[New] 2024 Approved Exclusive Access Download Your Own Tailored Tracks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-engagement-integrating-gs-and-yt-strategies-for-2024/"><u>[New] Effortless Engagement Integrating GS & YT Strategies for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ultimate-capture-app-windows-10-edition/"><u>[Updated] In 2024, Ultimate Capture App - Windows 10 Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-list-of-quick-pace-audio-apps-for-2024/"><u>[Updated] Ultimate List of Quick-Pace Audio Apps for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-visual-storytelling-scribing-text-over-image-realms-online-for-2024/"><u>[Updated] Visual Storytelling Scribing Text over Image Realms Online for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-techniques-to-frame-photos-with-leading-lines-iphone/"><u>2024 Approved Techniques to Frame Photos with Leading Lines (iPhone)</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/captivating-visual-designs-with-wataru-hibiki-imagery-and-backgrounds-curated-by-yl-software-for-enhanced-user-experience/"><u>Captivating Visual Designs with Wataru Hibiki Imagery and Backgrounds, Curated by YL Software for Enhanced User Experience</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/detecting-failure-in-your-hdd-techniques-and-tips-by-professionals-at-yl-software/"><u>Detecting Failure in Your HDD: Techniques & Tips by Professionals at YL Software</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-15-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/easy-steps-to-determine-windows-computer-memory-consumption-with-yl-software-insights/"><u>Easy Steps to Determine Windows Computer Memory Consumption with YL Software Insights</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/high-quality-audi-a5-hd-backgrounds-and-desktop-wallpapers-premium-image-collection/"><u>High-Quality Audi A5 HD Backgrounds & Desktop Wallpapers | Premium Image Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-challenges-with-robloxs-error-code-403/"><u>Overcoming Windows' Challenges with Roblox's Error Code 403</u></a></li>
 </ul></div>
 
