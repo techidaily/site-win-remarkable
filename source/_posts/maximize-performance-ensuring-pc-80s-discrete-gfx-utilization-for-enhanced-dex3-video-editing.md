@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Ensuring PC-80's DISCRETE GFX Utilization for Enhanced DEX3 Video Editing"
-date: 2025-01-13T07:02:20.797Z
-updated: 2025-01-15T03:50:24.647Z
+date: 2025-01-16T00:52:29.457Z
+updated: 2025-01-21T10:48:13.256Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How-To Make Sure DEX 3 Uses Your Dedicated Graphics Card (Windows 7, 8 and 10)
 
 **NOTE:** While these steps should work for the majority, sometimes they vary from computer manufacturer to computer manufacturer.
@@ -38,10 +34,14 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 
 [![Graphics Properties](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17181_article_big.png?fit=520%2C216&ssl=1 "Graphics Properties")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17181%5Farticle%5Fbig.png?fit=520%2C216&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Intel Graphics Media Control Panel](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17129_article_big.png?fit=520%2C389&ssl=1 "Intel Graphics Media Control Panel")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17129%5Farticle%5Fbig.png?fit=520%2C389&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2\. When the ‘Advanced Mode’ window opens click on the ‘3D tab’ and set your 3D preference to ‘Performance’.
@@ -51,10 +51,6 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 3\. Now click on the ‘Power’ tab and set the ‘Power Plans’ to ‘Maximum Performance’.
 
 [![Power Plan Maximize Performance](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17137_article_big.png?fit=428%2C398&ssl=1 "Power Plan Maximize Performance")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17137%5Farticle%5Fbig.png?fit=428%2C398&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Now close the ‘Intel Graphics Control Panel’. Once again right click on your desktop and select the control panel for your dedicated GPU. These will typically be NVIDIA or ATI/AMD Radeon – providing you are indeed using a computer equipped with a dedicated graphics card in addition to your build in card.
 
@@ -73,12 +69,16 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 [![Select DEX 3 Under 3D settings](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/dex3-manage3d.jpg?fit=520%2C383&ssl=1 "Select DEX 3 Under 3D settings")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/dex3-manage3d.jpg?fit=520%2C383&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8\. Finally, click on ‘Set PhysX configuration’, from the drop down menu select your NVIDIA card (NOTE: The name displayed on the drop down menu will be the name of your exact Nvidia graphics card model) as the PhysX processor. Click ‘Apply’ and you’re finished. Reboot your DJ computer and launch DEX 3 and test. If you can’t open DEX or experiance other graphics related issues you may need to go to [www.nvidia.com](http://www.nvidia.com) and download/install the latest drivers for your specific NVIDIA graphics card.
 
 [![set PhysX configuration for DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/17157_article_big.png?fit=520%2C406&ssl=1 "set PhysX configuration for DEX 3")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/17157%5Farticle%5Fbig.png?fit=520%2C406&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Configuring ATI or AMD Radeon Cards For DEX 3 (Note: NVIDIA is the preferred graphics card for DEX 3 video mixing)
 
@@ -89,7 +89,7 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 [![AMD Catalyst Control Center](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/AMD-powerplaysettings.jpg?fit=810%2C768&ssl=1 "AMD Catalyst Control Center")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/AMD-powerplaysettings.jpg?fit=810%2C768&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10\. Then, if applicable to your ATI/AMD graphics card, go to ‘Graphics’ > ‘3D’ and move the slider to ‘Performance’ which will set it to ‘Optimal Performance’ and then click ‘Apply’. Again, this function may not be displayed on all ATI/AMD graphics card Control Centers.
@@ -127,19 +127,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/dex3-dedicatedgraphics-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-epicenter-tech-gaming-on-youtube/"><u>[New] 2024 Approved Earnings Epicenter Tech Gaming on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-clean-cut-windows-10-screen-logger-for-2024/"><u>[New] Clean-Cut Windows 10 Screen Logger for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-sync-music-and-visuals-the-art-of-canva-editing/"><u>[New] Sync Music & Visuals The Art of Canva Editing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-3-straightforward-methods-to-fine-tune-shades/"><u>[Updated] 2024 Approved 3 Straightforward Methods to Fine-Tune Shades</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-boost-engagement-with-custom-images-for-your-videos/"><u>2024 Approved Boost Engagement with Custom Images for Your Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-f14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy F14 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cease-the-intrusive-windows-update-alerts/"><u>Cease the Intrusive Windows Update Alerts</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/choosing-the-top-crypto-exchange-essential-tips-from-yl-computing-and-yl-software/"><u>Choosing the Top Crypto Exchange: Essential Tips From YL Computing & YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/diy-graphics-card-assessment-for-enhanced-gaming-and-visuals-expert-advice-by-yl-software/"><u>DIY Graphics Card Assessment for Enhanced Gaming and Visuals - Expert Advice by YL Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-12-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme 12 5G online without jailbreak</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/identifying-required-device-drivers-a-comprehensive-guide-by-yl-computing/"><u>Identifying Required Device Drivers: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/identifying-the-root-of-sluggish-computer-systems-insights-from-yl-computings-expertise/"><u>Identifying the Root of Sluggish Computer Systems: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/introducing-karaoke-cloud-pro-v2-upgrade-from-sept-14-with-extra-tracks-the-ultimate-dj-experience/"><u>Introducing Karaoke Cloud Pro v2 Upgrade From Sept '14 with Extra Tracks: The Ultimate DJ Experience</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/is-extra-software-needed-for-windows-defender-functionality-exploring-with-yl-computing/"><u>Is Extra Software Needed for Windows Defender Functionality? - Exploring with YL Computing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-share-a-youtube-playlist/"><u>[New] How To Share A YouTube Playlist</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-buying-cutting-edge-360cams/"><u>[New] Mastering the Art of Buying Cutting-Edge 360Cams</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-strategies-in-nvidia-screen-capturing/"><u>[Updated] 2024 Approved Expert Strategies in NVIDIA Screen Capturing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-tier-aerial-vehicles-sold-here-for-2024/"><u>[Updated] Top-Tier Aerial Vehicles Sold Here for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/44cm55ww44gq44kl44oh44oi44oq5lik44gu44oh44oq44kk44k544gr5zci44kp44gb44gm55s75yop44ov44kh44kk44or44ks5yig44gr44kl44og44kv44ol44od44kv44cn/"><u>「異なるメモリ上のデバイスに合わせて画像ファイルを分けるテクニック」</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/decouvrez-3-techniques-rapides-pour-localiser-vos-fichiers-musicaux-sous-windows/"><u>Découvrez 3 Techniques Rapides Pour Localiser Vos Fichiers Musicaux Sous Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-free-bunny-and-egg-themed-wallpapers-for-pc-mobile-devices-and-smartphones/"><u>Download Free Bunny and Egg-Themed Wallpapers for PC, Mobile Devices, and Smartphones</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guide-to-resolving-windows-tntries-cannot-boot-from-cd-or-dvd-error-4-methods/"><u>Guide to Resolving Windows ˈtɛntriəs 'Cannot Boot From CD or DVD' Error (4 Methods)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-motorola-moto-g04-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Motorola Moto G04 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insight-into-ais-linguistic-giants-understanding-the-unique-characteristics-of-gpt-vs-bert/"><u>Insight Into AI's Linguistic Giants: Understanding The Unique Characteristics of GPT Vs. BERT</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-wmv-video-editing-on-a-budget-top-5-free-options/"><u>Updated 2024 Approved WMV Video Editing on a Budget Top 5 Free Options</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728493476157-windows-11/"><u>Windows 11でも簡単に! パーティションを回復するステップバイステップガイド</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/44gp44gu44op44o844oj44km44kn44ki44gn44kc5qmf6io944gz44kl44ki44gg44gr6kit6kii44gv44km44gf44cb44oh44o844k44go44k944ov44oi44km44kn44ki44ks56e76kgm44gz44kl5oqa6151/"><u>どのハードウェアでも機能するように設計された、データとソフトウェアを移行する技術 - ユニバーサル復元の説明</u></a></li>
 </ul></div>
 

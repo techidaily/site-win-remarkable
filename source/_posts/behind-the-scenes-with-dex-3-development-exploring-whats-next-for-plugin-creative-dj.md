@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes with DEX 3 Development - Exploring What's Next for Plugin Creative DJ
-date: 2025-01-08T17:31:40.389Z
-updated: 2025-01-15T03:55:23.903Z
+date: 2025-01-20T00:33:58.243Z
+updated: 2025-01-21T05:25:03.105Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,17 +74,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-exclusive-access-download-your-own-tailored-tracks/"><u>[New] 2024 Approved Exclusive Access Download Your Own Tailored Tracks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-engagement-integrating-gs-and-yt-strategies-for-2024/"><u>[New] Effortless Engagement Integrating GS & YT Strategies for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ultimate-capture-app-windows-10-edition/"><u>[Updated] In 2024, Ultimate Capture App - Windows 10 Edition</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-list-of-quick-pace-audio-apps-for-2024/"><u>[Updated] Ultimate List of Quick-Pace Audio Apps for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-visual-storytelling-scribing-text-over-image-realms-online-for-2024/"><u>[Updated] Visual Storytelling Scribing Text over Image Realms Online for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-techniques-to-frame-photos-with-leading-lines-iphone/"><u>2024 Approved Techniques to Frame Photos with Leading Lines (iPhone)</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/captivating-visual-designs-with-wataru-hibiki-imagery-and-backgrounds-curated-by-yl-software-for-enhanced-user-experience/"><u>Captivating Visual Designs with Wataru Hibiki Imagery and Backgrounds, Curated by YL Software for Enhanced User Experience</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/detecting-failure-in-your-hdd-techniques-and-tips-by-professionals-at-yl-software/"><u>Detecting Failure in Your HDD: Techniques & Tips by Professionals at YL Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-15-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 15 Pro Max</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/easy-steps-to-determine-windows-computer-memory-consumption-with-yl-software-insights/"><u>Easy Steps to Determine Windows Computer Memory Consumption with YL Software Insights</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/high-quality-audi-a5-hd-backgrounds-and-desktop-wallpapers-premium-image-collection/"><u>High-Quality Audi A5 HD Backgrounds & Desktop Wallpapers | Premium Image Collection</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-windows-challenges-with-robloxs-error-code-403/"><u>Overcoming Windows' Challenges with Roblox's Error Code 403</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-top-8-choices-mirrorless-cameras-for-excellent-vlogs/"><u>[New] The Top 8 Choices Mirrorless Cameras for Excellent Vlogs</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-comprehensive-crackdown-chinese-anti-corruption-commission-uncovers-over-36k-cases-of-misconduct-in-public-welfare-nearly-52k-individuals-held-accountable57/"><u>1. Comprehensive Crackdown: Chinese Anti-Corruption Commission Uncovers Over 36K Cases of Misconduct in Public Welfare; Nearly 52K Individuals Held Accountable - Insights From YL Computing | YL Software</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-5-innovative-youtube-thumbnail-designers-for-aspiring-filmmakers/"><u>2024 Approved 5 Innovative YouTube Thumbnail Designers for Aspiring Filmmakers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-success-the-best-tools-for-youtube-seo-and-keyword-research/"><u>2024 Approved Unveiling Success The Best Tools for YouTube SEO and Keyword Research</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ark-survival-ascended-freezes-discover-the-ultimate-fix-guide-for-a-smooth-experience-on-your-computer/"><u>ARK: Survival Ascended Freezes? Discover the Ultimate Fix Guide for a Smooth Experience on Your Computer!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdtsutaya/"><u>DVDコピーの簡単ツッコミ：TSUTAYAレンタル用品を使って自宅で作る方法</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-prevent-and-troubleshoot-pc-overheating-expert-advice-from-yl-software/"><u>How to Prevent and Troubleshoot PC Overheating: Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/identifying-required-device-drivers-a-comprehensive-guide-by-yl-computing/"><u>Identifying Required Device Drivers: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-simplified-guide-efficient-screen-recording-for-dell-users/"><u>In 2024, Simplified Guide Efficient Screen Recording for Dell Users</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-mouse-configuration-tips-and-tricks-from-yl-software-experts/"><u>Mastering Mouse Configuration: Tips and Tricks From YL Software Experts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-resolve-the-unable-to-perform-audio-check-message/"><u>Quick Solutions: How to Resolve the 'Unable to Perform Audio Check' Message</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/resolving-gpu-malfunction-alerts-expert-tips-from-yl-computing/"><u>Resolving GPU Malfunction Alerts: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-graphics-card-problems-expert-tips-from-yl-computings-tech-team/"><u>Solving Graphics Card Problems: Expert Tips From YL Computing's Tech Team</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-your-pcs-hardware-issues-under-windows-with-expert-tips-from-yl-software/"><u>Solving Your PC's Hardware Issues Under Windows with Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-sound-issues-post-operating-system-upgrade-insights-from-yl-computing/"><u>Troubleshooting Sound Issues Post-Operating System Upgrade - Insights From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-techniques-for-smooth-playback-of-mkv-videos-in-vlc-and-competing-applications/"><u>Troubleshooting Techniques for Smooth Playback of MKV Videos in VLC and Competing Applications</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/understanding-the-causes-behind-your-pcs-sudden-crashes-insights-from-yl-computing/"><u>Understanding the Causes Behind Your PC's Sudden Crashes - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-companion-power-ups-a-playmates-guide-to-conquering-pokemon-go/"><u>Unlocking Companion Power-Ups: A Playmate's Guide to Conquering 'Pokemon GO'</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vive-cosmos-examination-premium-vr-quality-amidst-robust-industry-contenders/"><u>Vive Cosmos Examination: Premium VR Quality Amidst Robust Industry Contenders</u></a></li>
 </ul></div>
 

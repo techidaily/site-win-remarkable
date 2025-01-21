@@ -1,7 +1,7 @@
 ---
 title: "MAJOR WARNING: Preserve DEX Cu 3 & LYRX Performance, Skip macOS Catalina Update!"
-date: 2025-01-03T10:48:52.386Z
-updated: 2025-01-09T10:23:53.007Z
+date: 2025-01-16T16:41:31.433Z
+updated: 2025-01-21T00:53:13.640Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,22 +48,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-infinite-rotation-video-anchors/"><u>[Updated] 2024 Approved Infinite Rotation Video Anchors</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/boost-your-gpu-efficiency-expert-tips-from-yl-computings-latest-guide/"><u>Boost Your GPU Efficiency: Expert Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-view-mov-movies-content-on-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Galaxy Z Fold 5</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/enabling-and-disabling-device-drivers-on-your-pc-a-comprehensive-guide-techmaster/"><u>Enabling & Disabling Device Drivers on Your PC: A Comprehensive Guide - TechMaster</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-get-reliable-troubleshooting-guides-for-your-scanner-tips-from-yl-computing/"><u>How to Get Reliable Troubleshooting Guides for Your Scanner - Tips From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-seamlessly-update-your-pcdj-with-new-virtualdj-skins-a-complete-guide/"><u>How to Seamlessly Update Your PCDJ with New VirtualDJ Skins - A Complete Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-smart-8-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Smart 8 Phone?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210779870-9780876129777-innerlijke-vrede-inner-peacedutch/"><u>Innerlijke vrede (Inner Peace—Dutch) | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-ai-revolution-in-depth-understanding-of-openai-explained/"><u>Mastering the AI Revolution: In-Depth Understanding of OpenAI Explained</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/personalized-playlist-perks-join-the-premium-karaoke-cloud-pro-membership/"><u>Personalized Playlist Perks: Join the Premium Karaoke Cloud Pro Membership!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-a-loudly-buzzing-pc-cooling-fan-solutions-and-tips-yl-tech-support/"><u>Troubleshooting a Loudly Buzzing PC Cooling Fan: Solutions and Tips - YL Tech Support</u></a></li>
-<li><a href="https://win11.techidaily.com/tutorial-ceasing-wired-pc-keyboard-on-windows/"><u>Tutorial: Ceasing Wired PC Keyboard on Windows</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/unveiling-windows-11s-new-functionalities-an-insightful-analysis-from-yl-software-experts/"><u>Unveiling Windows 11'S New Functionalities - An Insightful Analysis From YL Software Experts</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/yl-solutions-for-fixing-unresponsive-scanners-after-connection-expert-advice-from-yl-computing/"><u>YL Solutions for Fixing Unresponsive Scanners After Connection - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-choosing-a-font-for-impactful-youtube-credits/"><u>[New] In 2024, Choosing a Font for Impactful YouTube Credits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-decoding-facebooks-video-mutes-your-2023-remedy-guide/"><u>[New] In 2024, Decoding Facebook's Video Mutes – Your 2023 Remedy Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-score-selection-service-enhancing-media-pieces-for-2024/"><u>[New] Score Selection Service Enhancing Media Pieces for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-custom-youtube-video-speed-control-desktopmobile-for-2024/"><u>[Updated] Custom YouTube Video Speed Control (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unparalleled-window-watchers-top-video-player-picks/"><u>[Updated] Unparalleled Window Watchers Top Video Player Picks</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1732512363161-yl/"><u>理解五四革命:由YL计算与软件深入解析</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/add-fresh-beats-to-your-repertoire-discover-the-latest-20plus-karaoke-songs-enhanced-in-karaoke-cloud-pro-as-of-12-28-16/"><u>Add Fresh Beats to Your Repertoire! Discover the Latest 20+ Karaoke Songs Enhanced in Karaoke Cloud Pro as of 12-28-16</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/country-inspired-wallpaper-collections-prints-scenes-and-landscapes-discover-at-yl-computing/"><u>Country-Inspired Wallpaper Collections: Prints, Scenes & Landscapes - Discover at YL Computing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/dive-into-asmrs-nighttime-soothing-benefits/"><u>Dive Into ASMR's Nighttime Soothing Benefits</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/effective-methods-for-acquiring-digital-coins-insights-from-yl-computing-and-yl-software-experts/"><u>Effective Methods for Acquiring Digital Coins - Insights From YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/effortless-expression-unleash-language-skills-in-virtual-reality/"><u>Effortless Expression: Unleash Language Skills in Virtual Reality</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-nvidia-3d-vision-software-for-windows-step-by-step-guide-and-free-downloads/"><u>Get Your NVIDIA 3D Vision Software for Windows - Step-by-Step Guide & Free Downloads</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/harnessing-the-power-of-multiple-graphics-cards-a-comprehensive-guide/"><u>Harnessing the Power of Multiple Graphics Cards - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-safe-are-your-data-and-systems-with-yl-software-solutions/"><u>How Safe Are Your Data and Systems with YL Software Solutions?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-from-novice-to-pro-your-complete-reddit-post-blueprint/"><u>In 2024, From Novice to Pro Your Complete Reddit Post Blueprint</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/optimizing-your-computer-top-tips-from-yl-computing-and-yl-software-for-sustained-system-efficiency/"><u>Optimizing Your Computer: Top Tips From YL Computing and YL Software for Sustained System Efficiency</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/restoring-defaults-a-guide-to-reinitializing-your-nvidia-or-amd-gpu-on-windows-11-tutorial-by-yl-computing/"><u>Restoring Defaults: A Guide to Reinitializing Your NVIDIA or AMD GPU on Windows 11 - Tutorial by YL Computing</u></a></li>
 </ul></div>
 

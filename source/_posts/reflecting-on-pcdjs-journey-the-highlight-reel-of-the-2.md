@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on PCDJ's Journey: The Highlight Reel of the 2"
-date: 2025-01-06T08:49:07.403Z
-updated: 2025-01-09T12:34:58.826Z
+date: 2025-01-17T02:51:25.814Z
+updated: 2025-01-21T07:59:04.749Z
 tags:
   - product
 categories:
@@ -34,10 +34,6 @@ But let’s be clear: In our business **if you’re not constantly innovating an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **DJ Software: Launch of DEX 3.5 and RED Mobile 3.5**
 
 DEX 3 launched a little over a year ago. It was a total re-write of the previous DJ mixing software platforms and came equipped with a new user interface, custom sound and video mixing engines and support for many of the top DJ controllers on the market.
@@ -45,7 +41,7 @@ DEX 3 launched a little over a year ago. It was a total re-write of the previous
 [LEARN MORE ABOUT DEX 3 ![DEX 3 4-Deck Video Mixing Software](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/11/dex35withvideo-new-banner.jpg?fit=300%2C169&ssl=1 "DEX 3 Video Mixing Software")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.5 and RED Mobile 3.5 are significantly more polished now, and sport new versatile and modern skins (GUI) with various modes. Both upgrades come with Pulselocker streaming baked in, providing users online/offline access to a catalog of 44+ million tracks in all genres, from major and independent labels. Pulselocker integration is a worlds-first for DJ software, a commercially legal subscription built just for DJs.
@@ -53,7 +49,7 @@ DEX 3.5 and RED Mobile 3.5 are significantly more polished now, and sport new ve
 [LEARN MORE ABOUT PULSELOCKER ![pcdj plus pulselocker press release](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/12/pcdjpulslocker-pressrelease.jpg?fit=300%2C169&ssl=1 "pulselocker and pcdj press release")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Two weeks ago we [launched DEX 3.5.5 with automatic key detection](https://tools.techidaily.com/pcdj/products/), allowing users to mix tracks harmonically without key-clashing. The BPM engine has also been upgraded, so all beat-aware functions are more precise.
@@ -63,7 +59,7 @@ A few additional DJ controllers from top brands such as Numark, Pioneer DJ, Deno
 Keep our blog bookmarked, as we have upgrades and features on the way that we think DJs are going to love.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Karaoke Software: Karaoki Updates and KaraoQ360**
@@ -73,7 +69,7 @@ PCDJ created the first commercially sold [professional karaoke software](https:/
 [LEARN MORE ABOUT KARAOQ360 (Coming Soon) ![karaoQ360 with karaoke software](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/10/q360-bundle.png?fit=300%2C300&ssl=1 "q360-bundle")](http://www.karaoq360.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Karaoki just turned 8** and has users in over 56 countries around the globe. It’s a top-seller and for me the reason is clear. When you have a lead developer that he himself is as **committed to hosting karaoke professionally as he is to creating world-class karaoke software** what you end up with is a robust and truly thought-through product. Just as I take notes on a call with a customer, Alan interacts with Karaoki users on [our forums](https://tools.techidaily.com/pcdj/products/). Some of the features we added or tweaked this year came from users that posted requests that came in-line with our own development goals.
@@ -85,6 +81,10 @@ KaraoQ360 will be the first complete end-to-end karaoke platform for KJs and ven
 Again, stay tuned into our blog as more info on KaraoQ and KaraoQ360 will soon be published, including what it means for existing Karaoki customers.
 
 _We’d love to hear from you – what would you like to see from PCDJ in 2016? Leave your comments and suggestions below!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -105,22 +105,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/12/yearinreview2015-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-unleashing-potential-essential-upgrades-and-supplemental-gear-for-drones/"><u>[New] 2024 Approved Unleashing Potential Essential Upgrades & Supplemental Gear for Drones</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/op-11-economical-cameras-for-professional-vloggers/"><u>[New] Top 11 Economical Cameras for Professional Vloggers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-vdq-quickscreen-recorder-report-in-depth-analysis/"><u>[Updated] 2024 Approved VDQ QuickScreen Recorder Report In-Depth Analysis</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-combating-an-unresponsive-obs-camera-input-stream/"><u>[Updated] Combating an Unresponsive OBS Camera Input Stream</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-pixel-perfect-windows-recorder-free-in-2024/"><u>[Updated] Pixel Perfect Windows Recorder, Free, In 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/download-dex-dj-mixer-v31101-enhanced-audio-quality-with-new-shader-features/"><u>Download DEX DJ Mixer v3.11.0.1: Enhanced Audio Quality with New Shader Features</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvd-shrink-dvddvdcprmmp4/"><u>DVD-Shrinkが機能しない場合の解決法: レンタルDVD及び地上波DVD(CPRM)からMP4への転送方法</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/forgot-your-password-for-windows-11-simple-reset-steps-with-yl-computing-solutions/"><u>Forgot Your Password for Windows 11? Simple Reset Steps with YL Computing Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-safe-are-your-data-and-systems-with-yl-software-solutions/"><u>How Safe Are Your Data and Systems with YL Software Solutions?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-a78-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A78 Fingerprint Lock</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/restoring-defaults-a-guide-to-reinitializing-your-nvidia-or-amd-gpu-on-windows-11-tutorial-by-yl-computing/"><u>Restoring Defaults: A Guide to Reinitializing Your NVIDIA or AMD GPU on Windows 11 - Tutorial by YL Computing</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-lost-applications-a-guide-to-using-icloud-for-restoration/"><u>Reviving Lost Applications: A Guide to Using iCloud for Restoration</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solutions-when-your-scanning-device-fails-to-locate-printer-drivers-expert-advice-from-yl-computing/"><u>Solutions When Your Scanning Device Fails To Locate Printer Drivers - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-updating-your-desktop-background-via-windows-settings-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Desktop Background via Windows Settings - Tips From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/the-grand-construction-legacy-of-emperor-qianlong-in-the-qing-era-expert-analysis-from-yl-computing-and-yl-software/"><u>The Grand Construction Legacy of Emperor Qianlong in the Qing Era – Expert Analysis From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/unveiling-the-perks-of-embracing-digital-currencies-with-guidance-from-yl-software-experts/"><u>Unveiling the Perks of Embracing Digital Currencies with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-10-2d-animation-tools-free-and-paid-options/"><u>Updated Top 10 2D Animation Tools Free and Paid Options</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-premier-pro-essentials-accessible-for-all-editors/"><u>[Updated] In 2024, The Premier Pro Essentials - Accessible for All Editors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-screen-solidarities-picking-the-right-media-company/"><u>[Updated] Screen Solidarities Picking the Right Media Company</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-4-ways-of-instagram-video-promotion-for-2024/"><u>Best 4 Ways of Instagram Video Promotion for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/building-your-brand-creating-a-professional-podcast-feed/"><u>Building Your Brand Creating a Professional Podcast Feed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/decoding-the-secrets-of-youtubes-content-hub/"><u>Decoding the Secrets of YouTube's Content Hub</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-upgrade-your-system-with-windows-11-moving-directly-from-hdd-to-ssd-without-os-reinstallation/"><u>How to Upgrade Your System with Windows 11, Moving Directly From HDD to SSD without OS Reinstallation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-a14-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy A14 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-value-with-the-oneplus-nord-n100-a-thorough-smartphone-assessment/"><u>Maximizing Value with the OnePlus Nord N100: A Thorough Smartphone Assessment</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/re-create-the-boot-configuration-data-bcd-store/"><u>Re-Create the Boot Configuration Data (BCD) Store:</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/section-2a-explanation-of-sweep-frequency-generation/"><u>Section 2A: Explanation of Sweep Frequency Generation</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-restoring-lost-files-on-your-windows-7-hard-disk/"><u>Step-by-Step Guide: Restoring Lost Files on Your Windows 7 Hard Disk</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-safely-erasing-files-from-your-ssd-with-windows/"><u>Step-by-Step Guide: Safely Erasing Files From Your SSD with Windows</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-windows-easy-transfer-solutions-when-unable-to-connect-to-users-domain/"><u>Troubleshooting Windows Easy Transfer: Solutions When Unable to Connect to User's Domain</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/tutorial-comment-sauvegardez-vos-fichiers-de-cle-usb-sur-windows-11-10-8-ou-7/"><u>Tutorial : Comment Sauvegardez Vos Fichiers De Clé USB Sur Windows 11, 10, 8 Ou 7</u></a></li>
 </ul></div>
 

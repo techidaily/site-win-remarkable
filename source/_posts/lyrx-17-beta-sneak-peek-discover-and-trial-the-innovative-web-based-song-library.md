@@ -1,7 +1,7 @@
 ---
 title: "LYRX 1.7 Beta Sneak Peek: Discover & Trial the Innovative Web-Based Song Library!"
-date: 2025-01-12T17:51:28.442Z
-updated: 2025-01-14T23:48:21.182Z
+date: 2025-01-20T04:52:39.728Z
+updated: 2025-01-20T17:26:29.080Z
 tags:
   - product
 categories:
@@ -40,7 +40,7 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Overview of how to use the new KSR System in LYRX 1.7 RC:
@@ -50,6 +50,10 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 1) Open LYRX 1.7 and click the Options button. Under the “Karaoke” tab, click on the “Login to KSR” button. 
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX2.jpg?fit=1030%2C579&ssl=1 "LYRX2")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX2.jpg?fit=1030%2C579&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click on the “Register / Sign Up” Option. 
 
@@ -64,28 +68,28 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX5.jpg?fit=1030%2C579&ssl=1 "LYRX5")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX5.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Select the karaoke song lists you wish to share with your singers (Karaoke Catalog for your own music (we’ll explain more below) and Party Tyme Subscription content if you’re a subscriber). You will be prompted to restart after each selection, but wait until each box is checked first. 
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX6.jpg?fit=1030%2C579&ssl=1 "LYRX6")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX6.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Restart LYRX. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX7.jpg?fit=1030%2C579&ssl=1 "LYRX7")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX7.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Add your own karaoke music to the “Karaoke Catalog” special list (located under Special Lists). You can select all your karaoke songs and drag/drop to the list to populate it, or only the karaoke songs you wish to share with singers (currently capped at 100,000 total songs). 
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX8.jpg?fit=1030%2C579&ssl=1 "LYRX8")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX8.jpg?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8) Go into LYRX’s options and under the “Karaoke” tab click the “Update KSR Songbook” button to sync your list of karaoke music. You will be asked to add a venue/songbook name. Create a unique name and click “OK”. 
 
@@ -104,10 +108,6 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 The screenshots displayed above are of the ‘KSR web app’ that your karaoke singers will use to access your online karaoke songbook and submit song requests. They simply need to visit [ksr.pcdj.com](https://tools.techidaily.com/pcdj/products/) and create a free account, type in your songbook ID, and they’re ready to browse, search, and send in requests. They also add songs to their own personal ‘Favorites” folder within the web app. Why a web app? No need for your singers to install iOS or Android apps — any web enabled device will work!
 
 Please feel free to test the new KSR system with LYRX 1.7\. If you have issues or suggestions, post them in the [Official PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/) on Facebook (you will find a pinned thread regarding the new LYRX 1.7 Release Candidate – please post reports in that specific thread).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -128,18 +128,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/ksr-coverimage-lyrx.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-cutting-edge-techniques-for-audience-engagement-on-twitch/"><u>[New] 2024 Approved Cutting-Edge Techniques for Audience Engagement on Twitch</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-guide-to-whatsapp-audio-chat/"><u>[Updated] 2024 Approved The Ultimate Guide to WhatsApp Audio Chat</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>[Updated] Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-audience-engagement-on-demand-top-5-mac-streaming-tools/"><u>[Updated] In 2024, Audience Engagement On Demand Top 5 Mac Streaming Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premier-quality-4k-panels-for-expert-colour-correction/"><u>[Updated] Premier Quality 4K Panels for Expert Colour Correction</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-value-in-the-marketplace-for-quality-cost-effective-microphones-for-2024/"><u>Best Value in the Marketplace for Quality, Cost-Effective Microphones for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comment-resoudre-lerreur-de-mise-a-jour-de-windows-11-code-0x800f0922-trois-methodes-efficaces/"><u>Comment Résoudre L'erreur De Mise À Jour De Windows 11 (Code 0X800f0922) : Trois Méthodes Efficaces</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comment-resoudre-les-problemes-de-visibilite-des-fichiers-sous-windows/"><u>Comment Résoudre Les Problèmes De Visibilité Des Fichiers Sous Windows</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/fix-disk-errors-in-windows-10-cease-continuous-scans-and-repairs/"><u>Fix Disk Errors in Windows 10: Cease Continuous Scans & Repairs</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/rejuvenated-tunes-effortless-steps-for-reviving-your-apple-music-libraries-on-iphonepc-devices/"><u>Rejuvenated Tunes: Effortless Steps for Reviving Your Apple Music Libraries on iPhone/PC Devices</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/sharepoint-ne-se-met-pas-a-jour-voici-comment-le-reparer-efficacement-en-trois-etapes/"><u>SharePoint Ne Se Met Pas À Jour ? Voici Comment Le Réparer Efficacement en Trois Étapes!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-recovering-files-from-a-samsung-portable-ssd-models-t3-t5-x5-t7/"><u>Step-by-Step Guide: Recovering Files From a Samsung Portable SSD (Models T3, T5, X5, T7)</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-motorola-by-fonelab-android-recover-music/"><u>The way to get back lost music from Motorola</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eyond-borders-blurring-techniques-for-global-audienes/"><u>[New] Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-comprehensive-handbook-for-proficient-periscope-use/"><u>[New] Comprehensive Handbook for Proficient Periscope Use</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-enhancing-video-discoverability-with-effective-titles-and-tags/"><u>[New] In 2024, Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-hash-monitors-for-facebook-twitter-instagram-for-2024/"><u>[Updated] Essential Hash Monitors for Facebook, Twitter, Instagram for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>[Updated] Icy Acceleration Olympics' Best From 2022 Short Tracks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimal-viewing-experience-selecting-between-ultrawide-and-uhd-4k/"><u>2024 Approved Optimal Viewing Experience Selecting Between UltraWide and UHD 4K</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/5o6d6kiq44gu5yqp44gr44ks5ycf44kk44gm44cb5rai44gi44gm44ge44gp5ymn44gr44oh44o844k44ks5yplusw44kk5oi744gb44kl/"><u>掃訪の助けを借りて、消えていく前にデータを取り戻せる</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/esxi-usb/"><u>効率的にESXi オペレーティングシステム用のブート可能USB マルチパーティションを作成する方法</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-motorola-frp-bypass-by-drfone-android/"><u>About Motorola FRP Bypass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-m-audio-fast-track-driver-for-multiple-windows-versions-here/"><u>Get Your M-Audio Fast Track Driver for Multiple Windows Versions Here</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guide-detaille-pour-resoudre-les-difficultes-avec-la-localisation-des-images-systemes-sous-windows-resolu/"><u>Guide Détaillé Pour Résoudre Les Difficultés Avec La Localisation Des Images Systèmes Sous Windows : [Résolu]</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/methodes-rapides-pour-relocaliser-votre-boutique-dimages-avec-windows-11/"><u>Méthodes Rapides Pour Relocaliser Votre Boutique D'Images Avec Windows 11</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/recupere-datos-de-su-disco-solido-borrado-metodos-gratuitos-y-faciles-de-seguir/"><u>Recupere Datos De Su Disco Sólido Borrado: Métodos Gratuitos Y Fáciles De Seguir</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/rescue-tips-how-to-restore-lost-files-when-your-laptop-fails-to-start-up/"><u>Rescue Tips: How To Restore Lost Files When Your Laptop Fails to Start Up</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rt-of-concluding-your-videos-powerfully-for-2024/"><u>The Art of Concluding Your Videos Powerfully for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/top-5-methods-for-efficiently-copying-data-from-hard-drive-to-solid-state-drive/"><u>Top 5 Methods for Efficiently Copying Data From Hard Drive to Solid State Drive</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/44oj44op44kk44ow44ov44kh44kk44or44gu6kgo56s65zwp6agm44gr5aplusplus44gz44kl5yq55p6c55qe44gq44oi44op44ow44or44k344ol44o844og44kj44oz44kw5pa55rov/"><u>ドライブファイルの表示問題に対する効果的なトラブルシューティング方法</u></a></li>
 </ul></div>
 

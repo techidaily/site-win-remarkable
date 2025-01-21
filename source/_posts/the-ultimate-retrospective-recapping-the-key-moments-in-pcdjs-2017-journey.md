@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Retrospective: Recapping the Key Moments in PCDJ's 2017 Journey"
-date: 2025-01-03T20:07:38.547Z
-updated: 2025-01-09T06:19:30.166Z
+date: 2025-01-15T00:52:18.125Z
+updated: 2025-01-21T06:45:22.555Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2017 PCDJ Milestones
@@ -62,7 +62,7 @@ While it’s clear we haven’t exactly been resting on our laurels in 2017 we�
 As always visit the blog here often for the latest news and subscribe to the PCDJ newsletter below to stay in the loop!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,17 +84,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/pcdj2017-year-in-review.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-google-meet-username-transformation-guide/"><u>[New] Google Meet Username Transformation Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-preserving-the-past-in-motion-photo-to-video-transition/"><u>[New] Preserving the Past in Motion Photo to Video Transition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-turn-your-instagram-stories-into-music/"><u>[Updated] 2024 Approved How to Turn Your Instagram Stories Into Music</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-facebook-visibility-uploading-panoramic-content-on-mobile/"><u>[Updated] Enhance Facebook Visibility Uploading Panoramic Content on Mobile</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-understanding-and-utilizing-facebooks-live-feature-a-complete-overview/"><u>[Updated] In 2024, Understanding and Utilizing Facebook's Live Feature A Complete Overview</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/boost-your-computers-speed-with-simple-system-tweaks-advice-from-yl-software-experts/"><u>Boost Your Computer's Speed with Simple System Tweaks - Advice From YL Software Experts</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/enhance-your-system-security-how-to-perform-windows-defender-antivirus-updates-with-tips-from-yl-software-experts/"><u>Enhance Your System Security: How To Perform Windows Defender Antivirus Updates with Tips From YL Software Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-gpt-plug-ins-the-ultimate-list-to-explore/"><u>Essential GPT Plug-Ins: The Ultimate List to Explore</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/expert-solutions-finding-effective-scanner-support-with-yl-softwares-assistance/"><u>Expert Solutions: Finding Effective Scanner Support with YL Software's Assistance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-installing-hp-laserjet-pro-m4e-series-drivers-for-seamless-printing-on-windows-systems/"><u>Guide: Installing HP LaserJet Pro M4e Series Drivers for Seamless Printing on Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sonys-2024-game-plan-unveiled-breaking-down-the-latest-releases-updates-and-insights/"><u>Sony's 2024 Game Plan Unveiled: Breaking Down the Latest Releases, Updates & Insights</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-tutorial-on-how-to-compress-and-extract-files-using-yls-easy-to-use-tools/"><u>Step-by-Step Tutorial on How to Compress and Extract Files Using YL's Easy-to-Use Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-crafting-viral-videos-how-to-excel-in-youtubers-music-reactions/"><u>[New] In 2024, Crafting Viral Videos How to Excel in Youtubers' Music Reactions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-affordable-asmr-capturing-selecting-premium-gear-for-budget-conscious-users-for-2024/"><u>[Updated] Affordable ASMR Capturing Selecting Premium Gear for Budget-Conscious Users for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-captivating-crafting-writing-intriguing-youtube-descriptions-with-templates/"><u>[Updated] In 2024, Captivating Crafting Writing Intriguing Youtube Descriptions with Templates</u></a></li>
+<li><a href="https://win-popular.techidaily.com/amazon-kindle3/"><u>Amazon Kindleで削除した本の再取得手順3つ</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comprehensive-map-tutorial-for-the-latest-pioneer-ddj-sx-on-native-instruments-traktor-deck-syncing-with-pcdj-dex-3/"><u>Comprehensive Map Tutorial for the Latest Pioneer DDJ-SX on Native Instruments Traktor Deck: Syncing with PCDJ DEX ^3</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/craft-engaging-visual-narratives-with-soundtrack-integration-for-2024/"><u>Craft Engaging Visual Narratives with Soundtrack Integration for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-huawei-nova-y71-by-drfone-android-unlock-android-unlock/"><u>Device unlock Huawei Nova Y71</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-can-you-accelerate-your-computers-performance-with-specific-applications-insights-from-yl-computing/"><u>How Can You Accelerate Your Computer's Performance with Specific Applications - Insights From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/iron-man-stunning-4k-ultra-clear-wallpaper-desktop-slide-show-and-screen-protector-for-high-resolution-displays-download-by-yl-software-solutions/"><u>Iron Man (漫威的钢铁侠) - Stunning 4K Ultra Clear Wallpaper, Desktop Slide Show & Screen Protector for High-Resolution Displays – Download by YL Software Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-g430-gaming-headset-driver-download/"><u>Logitech G430 Gaming Headset Driver Download</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1682855-9780980885941-love-it-forward/"><u>Love it Forward | Free Book</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/premier-hashtags-monitoring-on-facebook-twitter-and-instagram-for-2024/"><u>Premier Hashtags Monitoring on Facebook, Twitter & Instagram for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/revive-your-windows-experience-comprehve-detailed-instructions-for-a-successful-system-restore-by-yl-software-professionals/"><u>Revive Your Windows Experience: Comprehve, Detailed Instructions for a Successful System Restore by YL Software Professionals</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/stunning-full-screen-automobile-designs-and-photos-for-desktop-and-mobile-professional-imagery-from-yl-software/"><u>Stunning Full-Screen Automobile Designs and Photos for Desktop & Mobile – Professional Imagery From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/tackling-sudden-system-failures-insights-into-computer-crashes-and-freezing-issues-from-yl-software-experts/"><u>Tackling Sudden System Failures: Insights Into Computer Crashes and Freezing Issues From YL Software Experts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshooting-boot-issues-step-by-step-guide-by-yl-software/"><u>Troubleshooting Boot Issues: Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-software-guide-navigating-the-world-of-crypto-assets-for-portfolio-success/"><u>YL Software Guide: Navigating the World of Crypto Assets for Portfolio Success</u></a></li>
 </ul></div>
 

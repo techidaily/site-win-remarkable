@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Mastery: Loop Storage & Retrieval Techniques - DEX 3 Guide"
-date: 2025-01-07T20:31:24.674Z
-updated: 2025-01-09T11:09:48.240Z
+date: 2025-01-14T16:32:59.312Z
+updated: 2025-01-21T01:58:50.360Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,18 +61,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-camguard-elite-mesh-patch/"><u>[New] 2024 Approved CamGuard Elite Mesh Patch</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-tips-for-maximizing-visual-impact-via-google-meet-filters-and-masks/"><u>[New] 2024 Approved Expert Tips for Maximizing Visual Impact via Google Meet Filters & Masks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-skype-audio-archive-mp3-techniques-free-edition/"><u>[New] 2024 Approved Skype Audio Archive MP3 Techniques, Free Edition</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-capture-the-sparkle-insta-worthy-photos-to-inspire-your-audience/"><u>[New] Capture the Sparkle Insta-Worthy Photos to Inspire Your Audience</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-new-horizons-in-graphic-design-post-acid/"><u>[New] New Horizons in Graphic Design Post-ACID</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/assessing-graphic-card-performance-a-guide-by-yl-software-professionals/"><u>Assessing Graphic Card Performance: A Guide by YL Software Professionals</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-can-i-enhance-my-computers-performance-expert-advice-from-yl-software/"><u>How Can I Enhance My Computer's Performance? Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/pick-your-song-daily-with-party-tyme-enjoy-our-newest-karaoke-selection-now/"><u>Pick Your Song Daily with Party Tyme - Enjoy Our Newest Karaoke Selection Now!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/preheating-aggregates-before-mixing-is-a-common-practice-in-cold-weather-concreting-but-must-be-done-carefully/"><u>Preheating Aggregates Before Mixing Is a Common Practice in Cold Weather Concreting but Must Be Done Carefully.</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-s18-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo S18 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210349861-9782226287267-sauver-nos-vies/"><u>Sauver nos vies | Free Book</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/secure-your-digital-wealth-expert-tips-on-storing-cryptocurrencies-by-yl-computing/"><u>Secure Your Digital Wealth: Expert Tips on Storing Cryptocurrencies by YL Computing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-rated-mac-vpn-services-comprehensive-expert-reviews-and-comparisons/"><u>Top Rated Mac VPN Services: Comprehensive Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-proven-strategies-to-capture-and-archive-ps3-games/"><u>[New] 2024 Approved Proven Strategies to Capture and Archive PS3 Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlock-smooth-communication-best-10-secured-fee-free-apps-for-ios-and-android-users/"><u>[Updated] In 2024, Unlock Smooth Communication Best 10 Secured, Fee-Free Apps for iOS and Android Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-and-exploring-every-aspect-of-macs-preview-app/"><u>2024 Approved Navigating and Exploring Every Aspect of Mac's Preview App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024s-elite-selection-of-gas-grills-find-the-perfect-match-for-your-bbq-needs-consumergear/"><u>2024'S Elite Selection of Gas Grills - Find the Perfect Match for Your BBQ Needs | ConsumerGear</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1732516265419-yl/"><u>追溯元朝创建之地—YL软件深度解析</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/diagnosing-the-causes-of-your-erratic-network-speed-tips-from-yl-computing-solutions/"><u>Diagnosing the Causes of Your Erratic Network Speed - Tips From YL Computing Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/enhance-your-scans-with-yls-guide-to-fixing-blurry-outputs-yl-software-solutions/"><u>Enhance Your Scans with YL's Guide to Fixing Blurry Outputs - YL Software Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/galactic-grower-top-custom-pc-brand-reports/"><u>Galactic Grower: Top Custom PC Brand Reports</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-creative-geniuses-in-naming-top-10-ai-powerhouse-generators/"><u>In 2024, Creative Geniuses in Naming Top 10 AI Powerhouse Generators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-skyrocketing-views-simple-strategies-without-cost/"><u>In 2024, Skyrocketing Views Simple Strategies Without Cost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-emoji-a-step-by-step-guide/"><u>Mastering iPhone Emoji: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-105-classic-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia 105 Classic support - Forgotten screen lock.</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/reflecting-on-pcdjs-journey-the-highlight-reel-of-the-2/"><u>Reflecting on PCDJ's Journey: The Highlight Reel of the 2</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/resolving-colour-issues-with-your-scanner-expert-advice-by-yl-software/"><u>Resolving Colour Issues with Your Scanner - Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transform-your-word-docs-into-professional-pdfs-using-yl-software-solutions/"><u>Transform Your Word Docs Into Professional PDFs Using YL Software Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ultra-hd-audi-rs7-visuals-and-wallsavers-for-desktops-exclusive-images-from-yl-software-solutions/"><u>Ultra HD Audi RS7 Visuals & Wallsavers for Desktops - Exclusive Images From YL Software Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/user-management-via-windows-control-panel-tips-and-tricks-from-yl-computing/"><u>User Management via Windows Control Panel: Tips & Tricks From YL Computing</u></a></li>
 </ul></div>
 
