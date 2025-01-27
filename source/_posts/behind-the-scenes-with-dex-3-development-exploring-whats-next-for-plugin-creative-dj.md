@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes with DEX 3 Development - Exploring What's Next for Plugin Creative DJ
-date: 2025-01-20T00:33:58.243Z
-updated: 2025-01-21T05:25:03.105Z
+date: 2025-01-26T03:51:58.326Z
+updated: 2025-01-26T20:54:20.977Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,24 +74,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-top-8-choices-mirrorless-cameras-for-excellent-vlogs/"><u>[New] The Top 8 Choices Mirrorless Cameras for Excellent Vlogs</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1-comprehensive-crackdown-chinese-anti-corruption-commission-uncovers-over-36k-cases-of-misconduct-in-public-welfare-nearly-52k-individuals-held-accountable57/"><u>1. Comprehensive Crackdown: Chinese Anti-Corruption Commission Uncovers Over 36K Cases of Misconduct in Public Welfare; Nearly 52K Individuals Held Accountable - Insights From YL Computing | YL Software</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-5-innovative-youtube-thumbnail-designers-for-aspiring-filmmakers/"><u>2024 Approved 5 Innovative YouTube Thumbnail Designers for Aspiring Filmmakers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-success-the-best-tools-for-youtube-seo-and-keyword-research/"><u>2024 Approved Unveiling Success The Best Tools for YouTube SEO and Keyword Research</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ark-survival-ascended-freezes-discover-the-ultimate-fix-guide-for-a-smooth-experience-on-your-computer/"><u>ARK: Survival Ascended Freezes? Discover the Ultimate Fix Guide for a Smooth Experience on Your Computer!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dvdtsutaya/"><u>DVDコピーの簡単ツッコミ：TSUTAYAレンタル用品を使って自宅で作る方法</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-prevent-and-troubleshoot-pc-overheating-expert-advice-from-yl-software/"><u>How to Prevent and Troubleshoot PC Overheating: Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/identifying-required-device-drivers-a-comprehensive-guide-by-yl-computing/"><u>Identifying Required Device Drivers: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-simplified-guide-efficient-screen-recording-for-dell-users/"><u>In 2024, Simplified Guide Efficient Screen Recording for Dell Users</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/mastering-mouse-configuration-tips-and-tricks-from-yl-software-experts/"><u>Mastering Mouse Configuration: Tips and Tricks From YL Software Experts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-how-to-resolve-the-unable-to-perform-audio-check-message/"><u>Quick Solutions: How to Resolve the 'Unable to Perform Audio Check' Message</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/resolving-gpu-malfunction-alerts-expert-tips-from-yl-computing/"><u>Resolving GPU Malfunction Alerts: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solving-graphics-card-problems-expert-tips-from-yl-computings-tech-team/"><u>Solving Graphics Card Problems: Expert Tips From YL Computing's Tech Team</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solving-your-pcs-hardware-issues-under-windows-with-expert-tips-from-yl-software/"><u>Solving Your PC's Hardware Issues Under Windows with Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-sound-issues-post-operating-system-upgrade-insights-from-yl-computing/"><u>Troubleshooting Sound Issues Post-Operating System Upgrade - Insights From YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-techniques-for-smooth-playback-of-mkv-videos-in-vlc-and-competing-applications/"><u>Troubleshooting Techniques for Smooth Playback of MKV Videos in VLC and Competing Applications</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/understanding-the-causes-behind-your-pcs-sudden-crashes-insights-from-yl-computing/"><u>Understanding the Causes Behind Your PC's Sudden Crashes - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-companion-power-ups-a-playmates-guide-to-conquering-pokemon-go/"><u>Unlocking Companion Power-Ups: A Playmate's Guide to Conquering 'Pokemon GO'</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/vive-cosmos-examination-premium-vr-quality-amidst-robust-industry-contenders/"><u>Vive Cosmos Examination: Premium VR Quality Amidst Robust Industry Contenders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-live-stream-recorder-companies/"><u>[New] 2024 Approved Live Stream Recorder Companies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-tech-for-instant-time-lapse-videos/"><u>[New] Essential Tech for Instant Time-Lapse Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-transform-your-videography-youtubes-secret-to-stunning-greenscreens/"><u>[Updated] In 2024, Transform Your Videography YouTube's Secret to Stunning Greenscreens</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders/"><u>[Updated] The Ultimate Screen Capture Showdown Free vs Paid Cam Recorders</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728477305400-windows-10/"><u>创建Windows 10可恢复系统：两种有效方法</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/cant-find-your-genshin-captures-uncover-these-6-tricks-to-retrieve-them/"><u>Can't Find Your Genshin Captures? Uncover These 6 Tricks to Retrieve Them!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/come-trasferire-contea-di-ios-utilizzo-di-aomei-fonebackup-per-il-cambio-tra-due-dispositivi-ios/"><u>Come Trasferire Contea Di IOS: Utilizzo Di AOMEI FoneBackup per Il Cambio Tra Due Dispositivi iOS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-m185-drivers/"><u>Download Logitech M185 Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M54 5G Phone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-a-closer-look-at-youtubes-unlisted-content-category/"><u>In 2024, A Closer Look at YouTube’s ‘Unlisted’ Content Category</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/optimierte-schnellversion-zum-austauschen-von-speicherkarten-effizientes-verfahren-fur-den-gebrauch-der-sd-karte/"><u>Optimierte Schnellversion Zum Austauschen Von Speicherkarten - Effizientes Verfahren Für Den Gebrauch Der SD-Karte</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-how-to-retrieve-unsaved-excel-documents-on-windows-11/"><u>Step-by-Step Guide: How to Retrieve Unsaved Excel Documents on Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-to-secure-your-pc-windows-edition/"><u>Top 5 Methods to Secure Your PC: Windows Edition</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/top-5-solutions-for-restoring-the-partition-table-on-windows-10-11-8-and-7/"><u>Top 5 Solutions for Restoring the Partition Table on Windows (10, 11, 8, and 7)</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/windows-10-2024/"><u>Windows 10 系統恢復技術手冊及無限量下載：2024全新方式</u></a></li>
 </ul></div>
 

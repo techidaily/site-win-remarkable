@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Mastery: Loop Storage & Retrieval Techniques - DEX 3 Guide"
-date: 2025-01-14T16:32:59.312Z
-updated: 2025-01-21T01:58:50.360Z
+date: 2025-01-24T21:22:40.263Z
+updated: 2025-01-27T05:53:55.646Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,22 +61,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-proven-strategies-to-capture-and-archive-ps3-games/"><u>[New] 2024 Approved Proven Strategies to Capture and Archive PS3 Games</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unlock-smooth-communication-best-10-secured-fee-free-apps-for-ios-and-android-users/"><u>[Updated] In 2024, Unlock Smooth Communication Best 10 Secured, Fee-Free Apps for iOS and Android Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-and-exploring-every-aspect-of-macs-preview-app/"><u>2024 Approved Navigating and Exploring Every Aspect of Mac's Preview App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024s-elite-selection-of-gas-grills-find-the-perfect-match-for-your-bbq-needs-consumergear/"><u>2024'S Elite Selection of Gas Grills - Find the Perfect Match for Your BBQ Needs | ConsumerGear</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1732516265419-yl/"><u>追溯元朝创建之地—YL软件深度解析</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/diagnosing-the-causes-of-your-erratic-network-speed-tips-from-yl-computing-solutions/"><u>Diagnosing the Causes of Your Erratic Network Speed - Tips From YL Computing Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/enhance-your-scans-with-yls-guide-to-fixing-blurry-outputs-yl-software-solutions/"><u>Enhance Your Scans with YL's Guide to Fixing Blurry Outputs - YL Software Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/galactic-grower-top-custom-pc-brand-reports/"><u>Galactic Grower: Top Custom PC Brand Reports</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-creative-geniuses-in-naming-top-10-ai-powerhouse-generators/"><u>In 2024, Creative Geniuses in Naming Top 10 AI Powerhouse Generators</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-skyrocketing-views-simple-strategies-without-cost/"><u>In 2024, Skyrocketing Views Simple Strategies Without Cost</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-emoji-a-step-by-step-guide/"><u>Mastering iPhone Emoji: A Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-105-classic-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia 105 Classic support - Forgotten screen lock.</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/reflecting-on-pcdjs-journey-the-highlight-reel-of-the-2/"><u>Reflecting on PCDJ's Journey: The Highlight Reel of the 2</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/resolving-colour-issues-with-your-scanner-expert-advice-by-yl-software/"><u>Resolving Colour Issues with Your Scanner - Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/transform-your-word-docs-into-professional-pdfs-using-yl-software-solutions/"><u>Transform Your Word Docs Into Professional PDFs Using YL Software Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ultra-hd-audi-rs7-visuals-and-wallsavers-for-desktops-exclusive-images-from-yl-software-solutions/"><u>Ultra HD Audi RS7 Visuals & Wallsavers for Desktops - Exclusive Images From YL Software Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/user-management-via-windows-control-panel-tips-and-tricks-from-yl-computing/"><u>User Management via Windows Control Panel: Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[New] 2024 Approved [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-solution-to-deal-with-dciman32dll-not-detected-problems/"><u>A Step-by-Step Solution to Deal with 'dciman32.dll Not Detected' Problems</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effiziente-migration-wenn-sie-ihre-windows-server-20122008-sicherungen-schnell-ubertragen/"><u>Effiziente Migration: Wenn Sie Ihre Windows Server 2012/2008 Sicherungen Schnell Übertragen</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guide-etape-par-etape-configurer-un-support-demarrage-alternatif-pour-un-pc-endommage/"><u>Guide Étape Par Étape: Configurer Un Support Démarrage Alternatif Pour Un PC Endommagé</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-essential-examination-adobe-lightroom-for-mobile-users/"><u>In 2024, Essential Examination Adobe Lightroom for Mobile Users</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/restaurar-archivos-desaparecidos-de-amazon-photos-en-tablets-telefonos-y-computadoras/"><u>Restaurar Archivos Desaparecidos De Amazon Photos en Tablets, Teléfonos Y Computadoras</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/shiftplusdelete5/"><u>Shift+Deleteキーによるファイル削除からの簡易回復手順5選</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-top-ebook-and-literature-apps-for-voracious-readers/"><u>The Complete Guide to Top eBook and Literature Apps for Voracious Readers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/toshiba-copier-drivers-downloads-for-windows-users-fast-and-easy-setup/"><u>Toshiba Copier Drivers Downloads for Windows Users - Fast and Easy Setup</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transfer-and-automate-file-sharing-across-pcs-on-your-home-lan-for-free/"><u>Transfer & Automate File Sharing Across PCs on Your Home LAN for FREE</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-nspr4dll-error-effective-solutions-for-windows-users/"><u>Troubleshooting the Missing nspr4.dll Error: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ultimate-tutorial-on-configuring-dual-booting-with-a-secondary-ssd-or-hdd-as-primary-boot-device/"><u>Ultimate Tutorial on Configuring Dual Booting with a Secondary SSD or HDD as Primary Boot Device</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-distort-disrupt-delight-the-top-10-glitch-video-editing-apps-for-mobile/"><u>Updated Distort, Disrupt, Delight The Top 10 Glitch Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-freestyle2-blue-is-a-must-have-app-for-apple-users-in-depth-review-and-insights/"><u>Why Freestyle2 Blue Is a Must-Have App for Apple Users – In-Depth Review and Insights</u></a></li>
 </ul></div>
 

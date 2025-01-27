@@ -1,7 +1,7 @@
 ---
 title: "Beta Release: Pioneer DDJ-SR Mapping Update Compatible with Pioneer CDJ DEX3 for Enhanced Performance"
-date: 2025-01-17T08:21:35.722Z
-updated: 2025-01-20T18:58:35.110Z
+date: 2025-01-21T07:24:53.932Z
+updated: 2025-01-26T19:29:40.026Z
 tags:
   - product
 categories:
@@ -90,7 +90,7 @@ Every time “KEY LOCK” button is pressed, the setting is changed cyclically.
 **Off :** LED is turned off
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -112,18 +112,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/ddjsr-coverimage.jpg?fit=5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-discovering-future-proof-hexadrones-for-2024/"><u>[New] Discovering Future-Proof HexaDrones for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-frosted-feats-beijings-ice-showdown-highlights/"><u>[New] Frosted Feats Beijing's Ice Showdown Highlights</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1728491246102-windows-11/"><u>如何在Windows 11上逆向操作：回到以前日期的两种技巧</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/craft-a-win10-restore-drive-for-peer-computers-3-effective-methods/"><u>Craft a Win10 Restore Drive for Peer Computers: 3 Effective Methods</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y27 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/iphone-windows/"><u>IPhone 使用者的解答：五項方法來改善Windows 照片應用程式的驗證問題</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/macs-best-gif-capture-tools-ranked-and-reviewed-for-2024/"><u>Mac's Best GIF Capture Tools Ranked and Reviewed for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/optimizing-your-crypto-investments-strategies-from-yl-computings-expertise/"><u>Optimizing Your Crypto Investments: Strategies From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/pemutusan-pakaian-resepsi-server-tiga-terbaik-untuk-menjalankan-migrasi-dan-penerpaan/"><u>Pemutusan Pakaian: Resepsi Server Tiga Terbaik Untuk Menjalankan Migrasi Dan Penerpaan.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsungs-newest-smartphone-struggles-in-benchmarking-the-elite-chip-vs-apples-powerhouse/"><u>Samsung's Newest Smartphone Struggles in Benchmarking: The Elite Chip Vs. Apple's Powerhouse</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solucion-integral-e-innovadora-utilizar-clonador-de-discos-de-la-api-win32-en-tarjetas-sd/"><u>Solución Integral E Innovadora: Utilizar Clonador De Discos De La API Win32 en Tarjetas SD</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ashmya-alnskh-alahtyatya-bshkl-faaal-mn-krs-slb-il-ssd-fy-thlatha-khtoat/"><u>أسهمية النسخ الاحتياطية بشكل فعال من قرص صلب إلى SSD في ثلاثة خطوات</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-chronicles-of-youtube-the-ultimate-viral-list/"><u>[New] In 2024, Chronicles of YouTube The Ultimate Viral List</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-sharing-tweets-via-vids-on-whatsapp-now/"><u>[New] Sharing Tweets via Vids on WhatsApp Now</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-delay-explained-unveiling-the-reasons-behind-the-postponed-launch/"><u>Elden Ring Delay Explained - Unveiling the Reasons Behind the Postponed Launch</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ensuring-optimal-performance-from-your-fans-tips-and-tricks-from-yl-software-experts/"><u>Ensuring Optimal Performance From Your Fans - Tips and Tricks From YL Software Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-infinix-hot-30i-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Infinix Hot 30i to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-windows-11-and-hp-laserjet-with-updated-drivers/"><u>Maximize Windows 11 & HP Laserjet with Updated Drivers</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/monitoring-your-pcs-ram-a-guide-on-assessing-windows-memory-status-with-yl-computing-tools/"><u>Monitoring Your PC's RAM: A Guide on Assessing Windows Memory Status with YL Computing Tools</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-scanner-connection-issues-a-step-by-step-guide-tips-from-yl-computing/"><u>Solving Scanner Connection Issues: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unveiling-crypto-currency-classes-a-deep-dive-with-yl-software-experts/"><u>Unveiling Crypto-Currency Classes: A Deep Dive with YL Software Experts</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-software-presents-exclusive-bugatti-veyron-super-sport-desktop-backgrounds-free-downloads-available-now/"><u>YL Software Presents: Exclusive Bugatti Veyron Super Sport Desktop Backgrounds – Free Downloads Available Now!</u></a></li>
 </ul></div>
 

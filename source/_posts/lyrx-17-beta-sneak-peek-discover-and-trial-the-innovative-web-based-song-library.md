@@ -1,7 +1,7 @@
 ---
 title: "LYRX 1.7 Beta Sneak Peek: Discover & Trial the Innovative Web-Based Song Library!"
-date: 2025-01-20T04:52:39.728Z
-updated: 2025-01-20T17:26:29.080Z
+date: 2025-01-22T16:13:34.981Z
+updated: 2025-01-27T04:39:01.974Z
 tags:
   - product
 categories:
@@ -40,7 +40,7 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Overview of how to use the new KSR System in LYRX 1.7 RC:
@@ -50,10 +50,6 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 1) Open LYRX 1.7 and click the Options button. Under the “Karaoke” tab, click on the “Login to KSR” button. 
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX2.jpg?fit=1030%2C579&ssl=1 "LYRX2")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX2.jpg?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Click on the “Register / Sign Up” Option. 
 
@@ -67,16 +63,12 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX5.jpg?fit=1030%2C579&ssl=1 "LYRX5")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX5.jpg?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Select the karaoke song lists you wish to share with your singers (Karaoke Catalog for your own music (we’ll explain more below) and Party Tyme Subscription content if you’re a subscriber). You will be prompted to restart after each selection, but wait until each box is checked first. 
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX6.jpg?fit=1030%2C579&ssl=1 "LYRX6")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX6.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Restart LYRX. 
@@ -84,7 +76,7 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX7.jpg?fit=1030%2C579&ssl=1 "LYRX7")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX7.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Add your own karaoke music to the “Karaoke Catalog” special list (located under Special Lists). You can select all your karaoke songs and drag/drop to the list to populate it, or only the karaoke songs you wish to share with singers (currently capped at 100,000 total songs). 
@@ -105,9 +97,17 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-5.jpg?fit=326%2C705&ssl=1 "image_123986672 (5)")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-5.jpg?fit=476%2C1030&ssl=1 "image_123986672 (5)")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-4.jpg?fit=326%2C705&ssl=1 "image_123986672 (4)")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-4.jpg?fit=476%2C1030&ssl=1 "image_123986672 (4)")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-3.jpg?fit=326%2C705&ssl=1 "image_123986672 (3)")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-3.jpg?fit=476%2C1030&ssl=1 "image_123986672 (3)")[![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-2.jpg?fit=326%2C705&ssl=1 "image_123986672 (2)")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-2.jpg?fit=476%2C1030&ssl=1 "image_123986672 (2)")[![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-1.jpg?fit=326%2C705&ssl=1 "image_123986672 (1)")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-1.jpg?fit=476%2C1030&ssl=1 "image_123986672 (1)")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672.jpg?fit=326%2C705&ssl=1 "image_123986672")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672.jpg?fit=476%2C1030&ssl=1 "image_123986672")[![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image_123986672-6.jpg?fit=326%2C705&ssl=1 "image_123986672 (6)")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/image%5F123986672-6.jpg?fit=476%2C1030&ssl=1 "image_123986672 (6)")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The screenshots displayed above are of the ‘KSR web app’ that your karaoke singers will use to access your online karaoke songbook and submit song requests. They simply need to visit [ksr.pcdj.com](https://tools.techidaily.com/pcdj/products/) and create a free account, type in your songbook ID, and they’re ready to browse, search, and send in requests. They also add songs to their own personal ‘Favorites” folder within the web app. Why a web app? No need for your singers to install iOS or Android apps — any web enabled device will work!
 
 Please feel free to test the new KSR system with LYRX 1.7\. If you have issues or suggestions, post them in the [Official PCDJ User Group](http://www.facebook.com/groups/pcdjusergroup/) on Facebook (you will find a pinned thread regarding the new LYRX 1.7 Release Candidate – please post reports in that specific thread).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -128,22 +128,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/ksr-coverimage-lyrx.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/eyond-borders-blurring-techniques-for-global-audienes/"><u>[New] Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-comprehensive-handbook-for-proficient-periscope-use/"><u>[New] Comprehensive Handbook for Proficient Periscope Use</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-enhancing-video-discoverability-with-effective-titles-and-tags/"><u>[New] In 2024, Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-hash-monitors-for-facebook-twitter-instagram-for-2024/"><u>[Updated] Essential Hash Monitors for Facebook, Twitter, Instagram for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>[Updated] Icy Acceleration Olympics' Best From 2022 Short Tracks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimal-viewing-experience-selecting-between-ultrawide-and-uhd-4k/"><u>2024 Approved Optimal Viewing Experience Selecting Between UltraWide and UHD 4K</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/5o6d6kiq44gu5yqp44gr44ks5ycf44kk44gm44cb5rai44gi44gm44ge44gp5ymn44gr44oh44o844k44ks5yplusw44kk5oi744gb44kl/"><u>掃訪の助けを借りて、消えていく前にデータを取り戻せる</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/esxi-usb/"><u>効率的にESXi オペレーティングシステム用のブート可能USB マルチパーティションを作成する方法</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-motorola-frp-bypass-by-drfone-android/"><u>About Motorola FRP Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-m-audio-fast-track-driver-for-multiple-windows-versions-here/"><u>Get Your M-Audio Fast Track Driver for Multiple Windows Versions Here</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guide-detaille-pour-resoudre-les-difficultes-avec-la-localisation-des-images-systemes-sous-windows-resolu/"><u>Guide Détaillé Pour Résoudre Les Difficultés Avec La Localisation Des Images Systèmes Sous Windows : [Résolu]</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/methodes-rapides-pour-relocaliser-votre-boutique-dimages-avec-windows-11/"><u>Méthodes Rapides Pour Relocaliser Votre Boutique D'Images Avec Windows 11</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/recupere-datos-de-su-disco-solido-borrado-metodos-gratuitos-y-faciles-de-seguir/"><u>Recupere Datos De Su Disco Sólido Borrado: Métodos Gratuitos Y Fáciles De Seguir</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/rescue-tips-how-to-restore-lost-files-when-your-laptop-fails-to-start-up/"><u>Rescue Tips: How To Restore Lost Files When Your Laptop Fails to Start Up</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rt-of-concluding-your-videos-powerfully-for-2024/"><u>The Art of Concluding Your Videos Powerfully for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/top-5-methods-for-efficiently-copying-data-from-hard-drive-to-solid-state-drive/"><u>Top 5 Methods for Efficiently Copying Data From Hard Drive to Solid State Drive</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/44oj44op44kk44ow44ov44kh44kk44or44gu6kgo56s65zwp6agm44gr5aplusplus44gz44kl5yq55p6c55qe44gq44oi44op44ow44or44k344ol44o844og44kj44oz44kw5pa55rov/"><u>ドライブファイルの表示問題に対する効果的なトラブルシューティング方法</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-revolutionary-ideas-to-empower-your-webcam-for-2024/"><u>[Updated] Revolutionary Ideas to Empower Your Webcam for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-strategies-for-enhancing-youtube-videos-perfecting-your-thumbnails-for-2024/"><u>[Updated] Strategies for Enhancing YouTube Videos Perfecting Your Thumbnails for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211364498-9798330205752-5/"><u>天国、地獄 , 闇の王国を訪れた5つの人生を変える真実の物語 | Free Book</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-bluetooth-whispers-best-sound-companion/"><u>Budget Bluetooth Whispers: Best Sound Companion</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/choosing-the-top-crypto-exchange-essential-tips-from-yl-computing-and-yl-software/"><u>Choosing the Top Crypto Exchange: Essential Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/diy-graphics-card-assessment-for-enhanced-gaming-and-visuals-expert-advice-by-yl-software/"><u>DIY Graphics Card Assessment for Enhanced Gaming and Visuals - Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-prevent-and-troubleshoot-pc-overheating-expert-advice-from-yl-software/"><u>How to Prevent and Troubleshoot PC Overheating: Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/identifying-required-device-drivers-a-comprehensive-guide-by-yl-computing/"><u>Identifying Required Device Drivers: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/identifying-the-root-of-sluggish-computer-systems-insights-from-yl-computings-expertise/"><u>Identifying the Root of Sluggish Computer Systems: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chromatic-excellence-learning-to-leverage-colors/"><u>In 2024, Chromatic Excellence Learning to Leverage Colors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pricing-outline-the-cost-to-film-melodies-visually/"><u>In 2024, Pricing Outline The Cost to Film Melodies Visually</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/introducing-karaoke-cloud-pro-v2-upgrade-from-sept-14-with-extra-tracks-the-ultimate-dj-experience/"><u>Introducing Karaoke Cloud Pro v2 Upgrade From Sept '14 with Extra Tracks: The Ultimate DJ Experience</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/is-extra-software-needed-for-windows-defender-functionality-exploring-with-yl-computing/"><u>Is Extra Software Needed for Windows Defender Functionality? - Exploring with YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/maximizing-performance-a-guide-to-achieving-optimal-outcomes-from-your-installed-applications-tips-by-yl-computing/"><u>Maximizing Performance: A Guide to Achieving Optimal Outcomes From Your Installed Applications - Tips by YL Computing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-webm-to-mp4-conversion-made-simple-top-10-software/"><u>New WebM to MP4 Conversion Made Simple Top 10 Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-strategies-to-find-your-ideal-selfie-extension/"><u>Top 6 Strategies to Find Your Ideal Selfie Extension</u></a></li>
 </ul></div>
 
