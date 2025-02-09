@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Mastery: Loop Storage & Retrieval Techniques - DEX 3 Guide"
-date: 2025-01-24T21:22:40.263Z
-updated: 2025-01-27T05:53:55.646Z
+date: 2025-02-02T04:03:14.927Z
+updated: 2025-02-08T20:33:52.053Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,19 +61,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[New] 2024 Approved [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-step-by-step-solution-to-deal-with-dciman32dll-not-detected-problems/"><u>A Step-by-Step Solution to Deal with 'dciman32.dll Not Detected' Problems</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effiziente-migration-wenn-sie-ihre-windows-server-20122008-sicherungen-schnell-ubertragen/"><u>Effiziente Migration: Wenn Sie Ihre Windows Server 2012/2008 Sicherungen Schnell Übertragen</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guide-etape-par-etape-configurer-un-support-demarrage-alternatif-pour-un-pc-endommage/"><u>Guide Étape Par Étape: Configurer Un Support Démarrage Alternatif Pour Un PC Endommagé</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-essential-examination-adobe-lightroom-for-mobile-users/"><u>In 2024, Essential Examination Adobe Lightroom for Mobile Users</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/restaurar-archivos-desaparecidos-de-amazon-photos-en-tablets-telefonos-y-computadoras/"><u>Restaurar Archivos Desaparecidos De Amazon Photos en Tablets, Teléfonos Y Computadoras</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/shiftplusdelete5/"><u>Shift+Deleteキーによるファイル削除からの簡易回復手順5選</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-top-ebook-and-literature-apps-for-voracious-readers/"><u>The Complete Guide to Top eBook and Literature Apps for Voracious Readers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/toshiba-copier-drivers-downloads-for-windows-users-fast-and-easy-setup/"><u>Toshiba Copier Drivers Downloads for Windows Users - Fast and Easy Setup</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/transfer-and-automate-file-sharing-across-pcs-on-your-home-lan-for-free/"><u>Transfer & Automate File Sharing Across PCs on Your Home LAN for FREE</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-missing-nspr4dll-error-effective-solutions-for-windows-users/"><u>Troubleshooting the Missing nspr4.dll Error: Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ultimate-tutorial-on-configuring-dual-booting-with-a-secondary-ssd-or-hdd-as-primary-boot-device/"><u>Ultimate Tutorial on Configuring Dual Booting with a Secondary SSD or HDD as Primary Boot Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-distort-disrupt-delight-the-top-10-glitch-video-editing-apps-for-mobile/"><u>Updated Distort, Disrupt, Delight The Top 10 Glitch Video Editing Apps for Mobile</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/why-freestyle2-blue-is-a-must-have-app-for-apple-users-in-depth-review-and-insights/"><u>Why Freestyle2 Blue Is a Must-Have App for Apple Users – In-Depth Review and Insights</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728500207601-y-x2-plus-6x-9-5/"><u> [Y = -X^2 + 6X - 9 - 5 </u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovations-in-crafting-engaging-vlogging-scripts/"><u>[Updated] Innovations in Crafting Engaging Vlogging Scripts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/d-the-scenes-iphone-video-loops-unveiled-for-2024/"><u>Behind the Scenes IPhone Video Loops Unveiled for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comment-diagnostiquer-et-corriger-lerreur-c5-avec-crystaldiskinfo-pour-un-stockage-ssd-stable/"><u>Comment Diagnostiquer Et Corriger L'Erreur C:5 Avec CrystalDiskInfo Pour Un Stockage SSD Stable</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-worlds-most-innovative-ai-prompt-exchanges/"><u>Discover the Ultimate List: World’s Most Innovative AI Prompt Exchanges</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/effekthieve-schut-maak-de-icloud-het-uw-mail-geautomatiseerd-nicht-oplagebaar/"><u>Effekthieve Schut Maak De iCloud-Het Uw Mail Geautomatiseerd Nicht Oplagebaar</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/este-articulo-muestra-5-metodos-sencillos-y-efectivos-para-crear-copias-de-seguridad-de-carpetas-especificas-en-la-ultima-version-de-windows-empieza-a-prote65/"><u>Este Artículo Muestra 5 Métodos Sencillos Y Efectivos Para Crear Copias De Seguridad De Carpetas Específicas en La Última Versión De Windows, ¡Empieza a Proteger Tus Archivos Hoy!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guide-complet-comment-graver-un-clone-de-votre-ssd-nvme-sur-un-autre-disque-nvme-sous-windows-avec-2-facons/"><u>Guide Complet : Comment Graver Un Clone De Votre SSD NVME Sur Un Autre Disque NVME Sous Windows Avec 2 Façons</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-fix-failed-windows-11-installation-attempts/"><u>How to Address and Fix Failed Windows 11 Installation Attempts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mise-en-place-simple-de-la-reprise-apres-sinistre-sur-windows-server-2016/"><u>Mise en Place Simple De La Reprise Après Sinistre Sur Windows Server 2016</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-csgo-crash-issues-in-minutes-with-these-easy-techniques/"><u>Troubleshoot CSGO Crash Issues in Minutes with These Easy Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unleash-creativity-with-free-excellent-facebook-picture-makers/"><u>Unleash Creativity with Free, Excellent Facebook Picture Makers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-cut-and-edit-3gp-files-with-ease-updated-2023/"><u>Updated 2024 Approved Cut and Edit 3GP Files with Ease Updated 2023</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-video-repair-tool-mac-and-windows-stellar-repair-for-video-best-video-repair-software/"><u>Video - Video Repair Tool Mac & Windows - Stellar Repair for Video - Best Video Repair Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728504212739-windows-10-5/"><u>Windows 10 失去系统还原点 - 探索5种修复手段</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ultra-3d-ssdtop/"><u>サンディスクUltra 3D SSDクローニング専用TOPツー：最適な手法と方策</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MAJOR WARNING: Preserve DEX Cu 3 & LYRX Performance, Skip macOS Catalina Update!"
-date: 2025-01-23T03:15:29.095Z
-updated: 2025-01-27T09:21:23.111Z
+date: 2025-02-05T18:27:09.800Z
+updated: 2025-02-08T19:38:58.154Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-scan-and-select-from-these-premium-10-sources-of-vectors/"><u>[New] Scan and Select From These Premium 10 Sources of Vectors</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-eagle-essentials-best-laptop-options-for-video-editors-in-4k-for-2024/"><u>[Updated] Eagle Essentials Best Laptop Options for Video Editors in 4K for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-audience-enhancement-with-audition-fades/"><u>2024 Approved Audience Enhancement with Audition Fades</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1728480252801-windows-114/"><u>隠されたデータを見つけ出せ! ～Windows 11で使用するべき4つのテクニック</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-networks-grasping-the-essence-of-facebooks-virtual-world/"><u>Beyond Networks: Grasping the Essence of Facebook’s Virtual World</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/expert-strategies-for-rapidly-identifying-waste-materials-in-your-google-document-files/"><u>Expert Strategies for Rapidly Identifying Waste Materials in Your Google Document Files</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/exporting-iphone-address-book-entries-converting-to-csv-vcf-format-and-compatibility-with-excel-2024/"><u>Exporting iPhone Address Book Entries: Converting to CSV, VCF Format & Compatibility with Excel 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-virtual-experiences-a-report/"><u>In 2024, Pioneering Virtual Experiences A Report</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-selective-alarm-tones-optimal-websites-list/"><u>In 2024, Selective Alarm Tones Optimal Websites List</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/quickly-resolve-roblox-error-524-step-by-step-guide/"><u>Quickly Resolve Roblox Error 524 - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/revive-your-lost-files-5-effective-methods-to-recover-data-on-windows-wuntezn-11/"><u>Revive Your Lost Files: 5 Effective Methods to Recover Data on Windows ˈwuntəzɛn 11</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/securing-your-windows-11-hard-drive-a-step-by-step-guide-free/"><u>Securing Your Windows 11 Hard Drive - A Step-by-Step Guide (FREE)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/staying-connected-effortless-contact-via-apple-watch-tips/"><u>Staying Connected: Effortless Contact via Apple Watch - Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-focusrite-scarlett-18i20-drivers-for-windows/"><u>[Download] Focusrite Scarlett 18I20 Drivers for Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-innovative-approaches-to-elevate-your-obs-studio-workflow/"><u>[New] In 2024, Innovative Approaches to Elevate Your OBS Studio Workflow</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-proven-techniques-for-capturing-dynamic-and-engaging-ppts-for-2024/"><u>[Updated] Proven Techniques for Capturing Dynamic and Engaging PPTs for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/boost-your-computers-initial-load-time-with-our-proven-strategies-at-yl-systems-inc/"><u>Boost Your Computer's Initial Load Time with Our Proven Strategies at YL Systems Inc.</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/boost-your-systems-velocity-expert-tips-for-enhancing-computer-efficiency-by-yl-software/"><u>Boost Your System's Velocity: Expert Tips for Enhancing Computer Efficiency by YL Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-media-files-effortlessly-3gp-to-mp4-online-with-movavis-gratis-tool/"><u>Convert Media Files Effortlessly: 3GP to MP4 Online with Movavi's Gratis Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-ensure-smooth-paramountplus-viewing-experience-on-amazon-fire-tv-stick/"><u>How to Ensure Smooth Paramount+ Viewing Experience on Amazon Fire TV Stick</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-meizu-21-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Meizu 21 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/master-file-and-printer-sharing-in-windows-11-tips-and-tricks-from-experts-at-yl-software/"><u>Master File & Printer Sharing in Windows 11: Tips and Tricks From Experts at YL Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maximize-screen-light-on-your-lenovo-device/"><u>Maximize Screen Light on Your Lenovo Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-verdict-on-vn-video-editor-apk-a-comprehensive-review/"><u>New 2024 Approved The Verdict on VN Video Editor APK A Comprehensive Review</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/optimize-hard-drive-speed-and-reliability-with-expert-tips-by-yl-software/"><u>Optimize Hard Drive Speed & Reliability with Expert Tips by YL Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/party-time-karaoke-collection-exclusive-access-to-28-latest-hits-from-october-10-2021/"><u>Party Time Karaoke Collection: Exclusive Access to 28 Latest Hits From October 10, 2021</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-adjusting-your-computers-storage-segments/"><u>Step-by-Step Guide: Adjusting Your Computer's Storage Segments</u></a></li>
 </ul></div>
 

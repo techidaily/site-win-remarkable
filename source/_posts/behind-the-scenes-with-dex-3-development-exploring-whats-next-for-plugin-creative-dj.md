@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes with DEX 3 Development - Exploring What's Next for Plugin Creative DJ
-date: 2025-01-26T03:51:58.326Z
-updated: 2025-01-26T20:54:20.977Z
+date: 2025-02-07T01:17:33.777Z
+updated: 2025-02-09T04:46:59.170Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,20 +74,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-live-stream-recorder-companies/"><u>[New] 2024 Approved Live Stream Recorder Companies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-tech-for-instant-time-lapse-videos/"><u>[New] Essential Tech for Instant Time-Lapse Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-transform-your-videography-youtubes-secret-to-stunning-greenscreens/"><u>[Updated] In 2024, Transform Your Videography YouTube's Secret to Stunning Greenscreens</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders/"><u>[Updated] The Ultimate Screen Capture Showdown Free vs Paid Cam Recorders</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1728477305400-windows-10/"><u>创建Windows 10可恢复系统：两种有效方法</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/cant-find-your-genshin-captures-uncover-these-6-tricks-to-retrieve-them/"><u>Can't Find Your Genshin Captures? Uncover These 6 Tricks to Retrieve Them!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/come-trasferire-contea-di-ios-utilizzo-di-aomei-fonebackup-per-il-cambio-tra-due-dispositivi-ios/"><u>Come Trasferire Contea Di IOS: Utilizzo Di AOMEI FoneBackup per Il Cambio Tra Due Dispositivi iOS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-logitech-m185-drivers/"><u>Download Logitech M185 Drivers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M54 5G Phone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-a-closer-look-at-youtubes-unlisted-content-category/"><u>In 2024, A Closer Look at YouTube’s ‘Unlisted’ Content Category</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/optimierte-schnellversion-zum-austauschen-von-speicherkarten-effizientes-verfahren-fur-den-gebrauch-der-sd-karte/"><u>Optimierte Schnellversion Zum Austauschen Von Speicherkarten - Effizientes Verfahren Für Den Gebrauch Der SD-Karte</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-how-to-retrieve-unsaved-excel-documents-on-windows-11/"><u>Step-by-Step Guide: How to Retrieve Unsaved Excel Documents on Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-5-methods-to-secure-your-pc-windows-edition/"><u>Top 5 Methods to Secure Your PC: Windows Edition</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/top-5-solutions-for-restoring-the-partition-table-on-windows-10-11-8-and-7/"><u>Top 5 Solutions for Restoring the Partition Table on Windows (10, 11, 8, and 7)</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/windows-10-2024/"><u>Windows 10 系統恢復技術手冊及無限量下載：2024全新方式</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-total-motion-systems-scrutiny-report/"><u>[New] Total Motion Systems Scrutiny Report</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-comprehensive-guide-to-recording-hulu-across-platforms/"><u>[Updated] In 2024, Comprehensive Guide to Recording Hulu Across Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-has-your-back-shorts-now-showing-up/"><u>[Updated] YouTube Has Your Back - Shorts Now Showing Up</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dell-advancements-updating-and-tuning-the-smart-media-bus-controller-software/"><u>Dell Advancements: Updating and Tuning the Smart Media Bus Controller Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/futures-top-pick-worlds-best-self-driving-cars-makers/"><u>Future's Top Pick: World’s Best Self-Driving Cars Makers</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-can-i-optimize-system-configurations-to-boost-efficiency-expert-tips-from-yl-computing/"><u>How Can I Optimize System Configurations to Boost Efficiency? Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-get-reliable-troubleshooting-guides-for-your-scanner-tips-from-yl-computing/"><u>How to Get Reliable Troubleshooting Guides for Your Scanner - Tips From YL Computing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6s-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6s Lock Screen</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-seamlessly-update-your-pcdj-with-new-virtualdj-skins-a-complete-guide/"><u>How to Seamlessly Update Your PCDJ with New VirtualDJ Skins - A Complete Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-mandatory-requirements-issue-in-windows-1111/"><u>Quick Fix for Mandatory Requirements Issue in Windows 11/11</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/resolving-scanner-malfunctions-and-error-messages-with-yl-software-expertise/"><u>Resolving Scanner Malfunctions and Error Messages with YL Software Expertise</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-reinstalling-the-original-windows-operating-system-using-system-image-recovery/"><u>Step-by-Step Guide: Reinstalling the Original Windows Operating System Using System Image Recovery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478016793-struggling-with-audio-issues-on-ios-restore-sound-now/"><u>Struggling with Audio Issues on iOS? Restore Sound Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-launch-the-latest-game-finals-of-2n24/"><u>Troubleshooting Tips to Launch the Latest Game Finals of 2N24</u></a></li>
 </ul></div>
 
