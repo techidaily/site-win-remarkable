@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Mastery: Loop Storage & Retrieval Techniques - DEX 3 Guide"
-date: 2025-02-02T04:03:14.927Z
-updated: 2025-02-08T20:33:52.053Z
+date: 2025-02-13T02:15:54.795Z
+updated: 2025-02-18T18:24:42.587Z
 tags:
   - product
 categories:
@@ -33,13 +33,13 @@ You will also see “_white flags_” along the track timeline that represent th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch How To Store And Recall Loops In DEX 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,22 +61,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/storingandrecallingloops-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-remarkable.techidaily.com/1728500207601-y-x2-plus-6x-9-5/"><u> [Y = -X^2 + 6X - 9 - 5 </u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovations-in-crafting-engaging-vlogging-scripts/"><u>[Updated] Innovations in Crafting Engaging Vlogging Scripts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/d-the-scenes-iphone-video-loops-unveiled-for-2024/"><u>Behind the Scenes IPhone Video Loops Unveiled for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comment-diagnostiquer-et-corriger-lerreur-c5-avec-crystaldiskinfo-pour-un-stockage-ssd-stable/"><u>Comment Diagnostiquer Et Corriger L'Erreur C:5 Avec CrystalDiskInfo Pour Un Stockage SSD Stable</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-worlds-most-innovative-ai-prompt-exchanges/"><u>Discover the Ultimate List: World’s Most Innovative AI Prompt Exchanges</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/effekthieve-schut-maak-de-icloud-het-uw-mail-geautomatiseerd-nicht-oplagebaar/"><u>Effekthieve Schut Maak De iCloud-Het Uw Mail Geautomatiseerd Nicht Oplagebaar</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/este-articulo-muestra-5-metodos-sencillos-y-efectivos-para-crear-copias-de-seguridad-de-carpetas-especificas-en-la-ultima-version-de-windows-empieza-a-prote65/"><u>Este Artículo Muestra 5 Métodos Sencillos Y Efectivos Para Crear Copias De Seguridad De Carpetas Específicas en La Última Versión De Windows, ¡Empieza a Proteger Tus Archivos Hoy!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guide-complet-comment-graver-un-clone-de-votre-ssd-nvme-sur-un-autre-disque-nvme-sous-windows-avec-2-facons/"><u>Guide Complet : Comment Graver Un Clone De Votre SSD NVME Sur Un Autre Disque NVME Sous Windows Avec 2 Façons</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-address-and-fix-failed-windows-11-installation-attempts/"><u>How to Address and Fix Failed Windows 11 Installation Attempts</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/mise-en-place-simple-de-la-reprise-apres-sinistre-sur-windows-server-2016/"><u>Mise en Place Simple De La Reprise Après Sinistre Sur Windows Server 2016</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-csgo-crash-issues-in-minutes-with-these-easy-techniques/"><u>Troubleshoot CSGO Crash Issues in Minutes with These Easy Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unleash-creativity-with-free-excellent-facebook-picture-makers/"><u>Unleash Creativity with Free, Excellent Facebook Picture Makers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-cut-and-edit-3gp-files-with-ease-updated-2023/"><u>Updated 2024 Approved Cut and Edit 3GP Files with Ease Updated 2023</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-video-repair-tool-mac-and-windows-stellar-repair-for-video-best-video-repair-software/"><u>Video - Video Repair Tool Mac & Windows - Stellar Repair for Video - Best Video Repair Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1728504212739-windows-10-5/"><u>Windows 10 失去系统还原点 - 探索5种修复手段</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ultra-3d-ssdtop/"><u>サンディスクUltra 3D SSDクローニング専用TOPツー：最適な手法と方策</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-integrating-podcast-into-your-instagram-content-strategy/"><u>[New] 2024 Approved Integrating Podcast Into Your Instagram Content Strategy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-comprehensible-guide-to-chromebooks-best-digital-pencils/"><u>2024 Approved A Comprehensible Guide to Chromebook's Best Digital Pencils</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728477265960-usb/"><u>最適な手順：USBドライブに画像データを瞬時に保存・転送！</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazons-post-prime-day-blowout-get-a-whopping-36-discount-on-the-high-capacity-8tb-samsung-t5-ssd-exclusive-insights/"><u>Amazon's Post-Prime Day Blowout: Get a Whopping 36% Discount on the High-Capacity 8TB Samsung T5 SSD - Exclusive Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/comprehensive-2023-guide-to-lg-360-cam-tech/"><u>Comprehensive 2023 Guide to LG 360 Cam Tech</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comprehensive-guide-on-integratingdisintegrating-esxi-hosts-with-vcenter-manager-version-7/"><u>Comprehensive Guide on Integrating/Disintegrating ESXi Hosts with vCenter Manager Version 7</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/die-beste-5-strategien-fur-die-anerkennung-ihrer-ssd-beim-einrichten-von-windows-11/"><u>Die Beste 5 Strategien Für Die Anerkennung Ihrer SSD Beim Einrichten Von Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/economical-action-cams-for-everyone/"><u>Economical Action Cams for Everyone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exclusive-scoop-on-the-most-reliable-and-stylish-apple-watch-bands-professional-evaluations/"><u>Exclusive Scoop on the Most Reliable & Stylish Apple Watch Bands : Professional Evaluations</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-12plus-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme 12+ 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ful-techniques-including-yt-videos-in-slides-for-2024/"><u>Powerful Techniques Including YT Videos in Slides for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/schritt-fur-schritt-anleitung-zum-dekodieren-und-wiederherstellen-verschlusselter-daten-auf-einer-sd-festplatte/"><u>Schritt-Für-Schritt Anleitung Zum Dekodieren Und Wiederherstellen Verschlüsselter Daten Auf Einer SD-Festplatte</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transfer-your-files-3-cost-free-methods-moving-from-a-16gb-to-a-32gb-memory-card/"><u>Transfer Your Files: 3 Cost-Free Methods Moving From a 16GB to a 32GB Memory Card</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transfert-facile-et-gratuit-des-fichiers-de-votre-pc-a-onedrive-guide-complet-pour-windows-etailor/"><u>Transfert Facile Et Gratuit Des Fichiers De Votre PC À OneDrive : Guide Complet Pour Windows eTailor</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/vss-yses-and/"><u>VSS 儲存夥伴體析​​yses & 如何建立？ - 教程視頻</u></a></li>
 </ul></div>
 

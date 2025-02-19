@@ -1,7 +1,7 @@
 ---
 title: "MAJOR WARNING: Preserve DEX Cu 3 & LYRX Performance, Skip macOS Catalina Update!"
-date: 2025-02-05T18:27:09.800Z
-updated: 2025-02-08T19:38:58.154Z
+date: 2025-02-12T06:01:31.531Z
+updated: 2025-02-19T01:39:05.569Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,19 +48,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-help.techidaily.com/download-focusrite-scarlett-18i20-drivers-for-windows/"><u>[Download] Focusrite Scarlett 18I20 Drivers for Windows</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-innovative-approaches-to-elevate-your-obs-studio-workflow/"><u>[New] In 2024, Innovative Approaches to Elevate Your OBS Studio Workflow</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-proven-techniques-for-capturing-dynamic-and-engaging-ppts-for-2024/"><u>[Updated] Proven Techniques for Capturing Dynamic and Engaging PPTs for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/boost-your-computers-initial-load-time-with-our-proven-strategies-at-yl-systems-inc/"><u>Boost Your Computer's Initial Load Time with Our Proven Strategies at YL Systems Inc.</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/boost-your-systems-velocity-expert-tips-for-enhancing-computer-efficiency-by-yl-software/"><u>Boost Your System's Velocity: Expert Tips for Enhancing Computer Efficiency by YL Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-media-files-effortlessly-3gp-to-mp4-online-with-movavis-gratis-tool/"><u>Convert Media Files Effortlessly: 3GP to MP4 Online with Movavi's Gratis Tool</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-ensure-smooth-paramountplus-viewing-experience-on-amazon-fire-tv-stick/"><u>How to Ensure Smooth Paramount+ Viewing Experience on Amazon Fire TV Stick</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-meizu-21-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Meizu 21 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/master-file-and-printer-sharing-in-windows-11-tips-and-tricks-from-experts-at-yl-software/"><u>Master File & Printer Sharing in Windows 11: Tips and Tricks From Experts at YL Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/maximize-screen-light-on-your-lenovo-device/"><u>Maximize Screen Light on Your Lenovo Device</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-verdict-on-vn-video-editor-apk-a-comprehensive-review/"><u>New 2024 Approved The Verdict on VN Video Editor APK A Comprehensive Review</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/optimize-hard-drive-speed-and-reliability-with-expert-tips-by-yl-software/"><u>Optimize Hard Drive Speed & Reliability with Expert Tips by YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/party-time-karaoke-collection-exclusive-access-to-28-latest-hits-from-october-10-2021/"><u>Party Time Karaoke Collection: Exclusive Access to 28 Latest Hits From October 10, 2021</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-guide-adjusting-your-computers-storage-segments/"><u>Step-by-Step Guide: Adjusting Your Computer's Storage Segments</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-comedy-canvas-painting-laughter-with-top-10-video-concepts/"><u>[New] Comedy Canvas Painting Laughter with Top 10 Video Concepts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-humor-in-video-tips-for-facebook-and-instagram-memes/"><u>[Updated] The Art of Humor in Video Tips for Facebook and Instagram Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-zoom-into-online-engagements-intelligently/"><u>2024 Approved Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/amv-mp3-movavi/"><u>免費線上 AMV到 MP3 改版工具 - 以 Movavi 為例演示操作</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-closer-look-at-antroachs-at-1-27-the-perfect-blend-of-elegance-and-excellent-reception-for-your-home-entertainment/"><u>A Closer Look at Antroach's AT-1 27: The Perfect Blend of Elegance & Excellent Reception for Your Home Entertainment</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/efficient-sd-kaartcode-verzameling-ontcijferen-en-herstel-een-gedetailleerd-begrip/"><u>Efficiënt SD-Kaartcode Verzameling, Ontcijferen en Herstel: Een Gedetailleerd Begrip</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/estrategias-para-la-restauracion-exitosa-de-archivos-individuos-tecnicas-practicas/"><u>Estrategias Para La Restauración Exitosa De Archivos Individuos: Técnicas Prácticas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/google-drive-dateien-wiederherstellen-die-als-endgultig-geloscht-markiert-sind-lernen-sie-hier-8-strategien-kennen/"><u>Google Drive-Dateien Wiederherstellen, Die Als Endgültig Gelöscht Markiert Sind - Lernen Sie Hier 8 Strategien Kennen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-checklist-for-professional-macro-videographers-for-2024/"><u>The Ultimate Checklist for Professional Macro Videographers for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ultimate-fixes-for-critical-failure-message-0xc1900205-in-windows/"><u>Ultimate Fixes for Critical Failure Message: 0XC1900205 in Windows</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/upgrading-from-windows-10-to-windows-11-unveiling-the-significant-shifts-and-advantages/"><u>Upgrading From Windows 10 to Windows 11? Unveiling the Significant Shifts and Advantages</u></a></li>
 </ul></div>
 

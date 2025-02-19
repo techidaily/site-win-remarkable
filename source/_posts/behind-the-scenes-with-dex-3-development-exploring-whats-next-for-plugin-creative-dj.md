@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes with DEX 3 Development - Exploring What's Next for Plugin Creative DJ
-date: 2025-02-07T01:17:33.777Z
-updated: 2025-02-09T04:46:59.170Z
+date: 2025-02-14T19:50:24.792Z
+updated: 2025-02-19T02:58:37.646Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,19 +74,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-total-motion-systems-scrutiny-report/"><u>[New] Total Motion Systems Scrutiny Report</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-comprehensive-guide-to-recording-hulu-across-platforms/"><u>[Updated] In 2024, Comprehensive Guide to Recording Hulu Across Platforms</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-has-your-back-shorts-now-showing-up/"><u>[Updated] YouTube Has Your Back - Shorts Now Showing Up</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dell-advancements-updating-and-tuning-the-smart-media-bus-controller-software/"><u>Dell Advancements: Updating and Tuning the Smart Media Bus Controller Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/futures-top-pick-worlds-best-self-driving-cars-makers/"><u>Future's Top Pick: World’s Best Self-Driving Cars Makers</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-can-i-optimize-system-configurations-to-boost-efficiency-expert-tips-from-yl-computing/"><u>How Can I Optimize System Configurations to Boost Efficiency? Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-get-reliable-troubleshooting-guides-for-your-scanner-tips-from-yl-computing/"><u>How to Get Reliable Troubleshooting Guides for Your Scanner - Tips From YL Computing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6s-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6s Lock Screen</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-seamlessly-update-your-pcdj-with-new-virtualdj-skins-a-complete-guide/"><u>How to Seamlessly Update Your PCDJ with New VirtualDJ Skins - A Complete Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-fix-for-mandatory-requirements-issue-in-windows-1111/"><u>Quick Fix for Mandatory Requirements Issue in Windows 11/11</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/resolving-scanner-malfunctions-and-error-messages-with-yl-software-expertise/"><u>Resolving Scanner Malfunctions and Error Messages with YL Software Expertise</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-reinstalling-the-original-windows-operating-system-using-system-image-recovery/"><u>Step-by-Step Guide: Reinstalling the Original Windows Operating System Using System Image Recovery</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478016793-struggling-with-audio-issues-on-ios-restore-sound-now/"><u>Struggling with Audio Issues on iOS? Restore Sound Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-launch-the-latest-game-finals-of-2n24/"><u>Troubleshooting Tips to Launch the Latest Game Finals of 2N24</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-recording-your-youtube-livestreams/"><u>[Updated] In 2024, Ultimate Guide Recording Your YouTube Livestreams</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-video-malfunction-your-guide-to-recovery/"><u>Advanced Video Malfunction: Your Guide to Recovery?</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comprendre-et-resoudre-lopen-random-de-powershell-windows-foires-et-remedes/"><u>Comprendre Et Résoudre L'Open Random De PowerShell Windows: Foires Et Remèdes</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ensename-como-habilitar-windows-11-23h2-con-optimizacion-seo-tutorial-completo-sobre-instalacion-e-informes-de-respaldo/"><u>Enséñame Cómo Habilitar Windows 11 23H2 Con Optimización SEO: Tutorial Completo Sobre Instalación E Informes De Respaldo</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guia-paso-a-paso-para-transferir-informacion-entre-dos-tabletas-microsoft-surface/"><u>Guía Paso a Paso Para Transferir Información Entre Dos Tabletas Microsoft Surface</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-13-mini-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 13 mini to Computer? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-safaris-picture-in-picture-settings-simplified/"><u>In 2024, Safari’s Picture In Picture Settings Simplified</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-seamless-tiktok-video-downloads-clear-skies-ahead/"><u>In 2024, Seamless TikTok Video Downloads - Clear Skies Ahead</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-switching-between-screens-with-chromes-pip-for-2024/"><u>Seamless Switching Between Screens with Chrome's PIP for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/strategie-efficaci-per-lautomazione-backup-centralizzato-sui-servidori-windows-da-server-2008-a-server-2016/"><u>Strategie Efficaci per L'Automazione Backup Centralizzato Sui Servidori Windows: Da Server 2008 a Server 2016</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/tecnicas-optimas-para-restaurar-particiones-en-ssd-una-guia-definitiva/"><u>Técnicas Óptimas Para Restaurar Particiones en SSD: Una Guía Definitiva</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-charging-pads-comprehensive-review-by-tech-experts-pcmag/"><u>Top-Rated Wireless Charging Pads : Comprehensive Review by Tech Experts | PCMag</u></a></li>
+<li><a href="https://solve-help.techidaily.com/windows-control-panel-troubleshooting-restoring-programs-with-ease-yl-computing-tutorials/"><u>Windows Control Panel Troubleshooting: Restoring Programs with Ease - YL Computing Tutorials</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/44oh44kj44k544kv56m644gn44ks56k65lplusd44gz44kl44gf44kb44gr44k744kk44ky44o844oi44oa44od44k344ol44oc44o844oj5lik44gn44oq44od44kv44ki44od44ox44ov44kh44kk44or516/"><u>ディスク空きを確保するためにセイゲートダッシュボード上でバックアップファイル削除方法</u></a></li>
 </ul></div>
 
