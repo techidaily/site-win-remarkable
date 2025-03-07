@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on PCDJ's Journey: The Highlight Reel of the 2"
-date: 2025-02-16T01:46:46.986Z
-updated: 2025-02-18T16:13:22.190Z
+date: 2025-03-02T20:01:38.333Z
+updated: 2025-03-07T20:06:42.631Z
 tags:
   - product
 categories:
@@ -40,17 +40,9 @@ DEX 3 launched a little over a year ago. It was a total re-write of the previous
 
 [LEARN MORE ABOUT DEX 3 ![DEX 3 4-Deck Video Mixing Software](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/11/dex35withvideo-new-banner.jpg?fit=300%2C169&ssl=1 "DEX 3 Video Mixing Software")](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 DEX 3.5 and RED Mobile 3.5 are significantly more polished now, and sport new versatile and modern skins (GUI) with various modes. Both upgrades come with Pulselocker streaming baked in, providing users online/offline access to a catalog of 44+ million tracks in all genres, from major and independent labels. Pulselocker integration is a worlds-first for DJ software, a commercially legal subscription built just for DJs.
 
 [LEARN MORE ABOUT PULSELOCKER ![pcdj plus pulselocker press release](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/12/pcdjpulslocker-pressrelease.jpg?fit=300%2C169&ssl=1 "pulselocker and pcdj press release")](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Two weeks ago we [launched DEX 3.5.5 with automatic key detection](https://tools.techidaily.com/pcdj/products/), allowing users to mix tracks harmonically without key-clashing. The BPM engine has also been upgraded, so all beat-aware functions are more precise.
 
@@ -58,19 +50,11 @@ A few additional DJ controllers from top brands such as Numark, Pioneer DJ, Deno
 
 Keep our blog bookmarked, as we have upgrades and features on the way that we think DJs are going to love.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Karaoke Software: Karaoki Updates and KaraoQ360**
 
 PCDJ created the first commercially sold [professional karaoke software](https://tools.techidaily.com/pcdj/products/) in 2003\. It had a relatively humble beginning; a basic karaoke plugin for our DJ software at the time (BLUE, RED and FX VRM).
 
 [LEARN MORE ABOUT KARAOQ360 (Coming Soon) ![karaoQ360 with karaoke software](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/10/q360-bundle.png?fit=300%2C300&ssl=1 "q360-bundle")](http://www.karaoq360.com)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Karaoki just turned 8** and has users in over 56 countries around the globe. It’s a top-seller and for me the reason is clear. When you have a lead developer that he himself is as **committed to hosting karaoke professionally as he is to creating world-class karaoke software** what you end up with is a robust and truly thought-through product. Just as I take notes on a call with a customer, Alan interacts with Karaoki users on [our forums](https://tools.techidaily.com/pcdj/products/). Some of the features we added or tweaked this year came from users that posted requests that came in-line with our own development goals.
 
@@ -81,10 +65,6 @@ KaraoQ360 will be the first complete end-to-end karaoke platform for KJs and ven
 Again, stay tuned into our blog as more info on KaraoQ and KaraoQ360 will soon be published, including what it means for existing Karaoki customers.
 
 _We’d love to hear from you – what would you like to see from PCDJ in 2016? Leave your comments and suggestions below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -105,22 +85,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/12/yearinreview2015-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-quick-guide-to-concisely-editing-youtube-videos/"><u>[New] 2024 Approved Quick Guide to Concisely Editing YouTube Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earnings-empire-constructing-a-profitable-youtube-channel/"><u>[Updated] 2024 Approved Earnings Empire Constructing a Profitable YouTube Channel</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-examining-the-financial-success-strategies-of-t-series-on-youtube-for-2024/"><u>[Updated] Examining the Financial Success Strategies of T-Series on YouTube for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-inside-look-analyzing-androids-photoshop-substitute-lightroom/"><u>[Updated] In 2024, Inside Look Analyzing Android's Photoshop Substitute, Lightroom</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-channels-for-filmmakers-to-learn-filmmaking-tips-for-2024/"><u>[Updated] YouTube Channels for Filmmakers to Learn Filmmaking Tips for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ensuring-a-stable-connection-is-every-peripheral-device-properly-linked-with-the-right-cable-expert-insights-by-yl-computing/"><u>Ensuring a Stable Connection: Is Every Peripheral Device Properly Linked with the Right Cable - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-whatsapps-vocal-messaging-system/"><u>In 2024, Navigating WhatsApp's Vocal Messaging System</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/keep-your-device-cool-proven-methods-to-stop-laptops-from-overheating-insights-by-yl-computing-and-yl-software/"><u>Keep Your Device Cool: Proven Methods to Stop Laptops From Overheating - Insights by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/online-karaoke-revolutions-on-dex-3-a-how-to-for-real-time-music-purchasing-from-karaokenet-video/"><u>Online Karaoke Revolutions on Dex 3: A How-To for Real-Time Music Purchasing From karaoke.net (Video)</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/opening-compressed-archives-in-windows-operating-system-with-yl-software-solutions/"><u>Opening Compressed Archives in Windows Operating System with YL Software Solutions</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/optimizing-your-pcs-boot-process-a-comprehensive-guide-on-removing-winini-auto-start-programs-with-yl-computing-solutions/"><u>Optimizing Your PC's Boot Process: A Comprehensive Guide on Removing Win.INI Auto-Start Programs with YL Computing Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-troubleshooting-tips-for-common-window-setup-problems/"><u>Quick Troubleshooting Tips for Common Window Setup Problems</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/solving-your-pcs-ram-issues-expert-tips-and-strategies-from-yl-computing/"><u>Solving Your PC's RAM Issues: Expert Tips and Strategies From YL Computing</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-guide-identifying-issues-with-non-functional-graphics-cards-expert-advice-from-yl-software/"><u>Troubleshooting Guide: Identifying Issues with Non-Functional Graphics Cards - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-your-computers-hardware-on-windows-expert-tips-from-yl-computing-and-software-services/"><u>Troubleshooting Your Computer's Hardware on Windows: Expert Tips From YL Computing & Software Services</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweet-titans-social-networks-10-most-shared-posts-for-2024/"><u>Tweet Titans Social Network’s 10 Most Shared Posts for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725289226601-dvd/"><u>すぐにできる市販DVDバッキングマスター法！フリーチュートリアル</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-professional-camera-choices-complete-360-guide-2023/"><u>[Updated] 2024 Approved Top Professional Camera Choices - Complete 360 Guide 2023</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-step-by-step-guide-restoring-defaults-on-your-lan-setup-tips-from-yl-software/"><u>1. Step-by-Step Guide: Restoring Defaults on Your LAN Setup - Tips From YL Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-perfect-your-tiktok-bio-how-to-add-an-effective-link/"><u>2024 Approved Perfect Your TikTok Bio How to Add an Effective Link</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerated-viewer-of-best-images-in-os-for-2024/"><u>Accelerated Viewer of Best Images in OS for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/boost-your-laptops-performance-essential-advice-by-yl-tech-experts-on-overcoming-slow-speed-issues/"><u>Boost Your Laptop's Performance: Essential Advice by YL Tech Experts on Overcoming Slow Speed Issues</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/cloudpros-june-2014-update-unveils-exclusive-eclectic-mix-in-your-dj-kit-feature-packed-enhancements/"><u>CloudPro's June 2014 Update Unveils Exclusive Eclectic Mix in Your DJ Kit - Feature-Packed Enhancements!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-8-artificial-intelligence-extensions-for-chrome-users-seeking-improved-output/"><u>Discover the Leading 8 Artificial Intelligence Extensions for Chrome Users Seeking Improved Output</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-installuninstall-software-using-windows-control-panel-tutorial-by-yl-software/"><u>How To Install/Uninstall Software Using Windows' Control Panel - Tutorial by YL Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-the-matrimony-beat-proven-strategies-for-success-as-a-mobile-dj-at-nuptials-featuring-exclusive-tips-by-music-maestro-john-young-pcdj-visionary/"><u>Mastering the Matrimony Beat: Proven Strategies for Success as a Mobile DJ at Nuptials - Featuring Exclusive Tips by Music Maestro John Young, PCDJ Visionary</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ate-to-noteworthy-youtube-commentaries/"><u>Navigate to Noteworthy YouTube Commentaries</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/navigating-crypto-laws-comprehensive-insights-into-regulatory-requirements-for-digital-asset-transactions-powered-by-yl-computing-solutions/"><u>Navigating Crypto Laws: Comprehensive Insights Into Regulatory Requirements for Digital Asset Transactions – Powered by YL Computing Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972998881-nvidia-geforce-optimized-drivers-for-windows-download-now/"><u>NVIDIA GeForce Optimized Drivers for Windows - Download Now</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solving-common-issues-a-comprehensive-guide-to-fixing-your-pcs-mouse-and-keyboard-expert-tips-from-yl-computing/"><u>Solving Common Issues: A Comprehensive Guide to Fixing Your PC's Mouse & Keyboard - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-limitations-5-issues-with-ios-gift-sharing/"><u>Understanding the Limitations: 5 Issues with iOS Gift Sharing</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-the-mechanics-of-an-mt4-forex-copy-trading-tool/"><u>Understanding the Mechanics of an MT4 Forex Copy Trading Tool</u></a></li>
 </ul></div>
 

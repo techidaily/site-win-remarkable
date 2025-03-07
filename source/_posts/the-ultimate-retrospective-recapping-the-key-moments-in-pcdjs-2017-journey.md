@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Retrospective: Recapping the Key Moments in PCDJ's 2017 Journey"
-date: 2025-02-16T05:13:19.419Z
-updated: 2025-02-18T21:07:51.784Z
+date: 2025-02-28T20:36:58.215Z
+updated: 2025-03-07T20:54:53.999Z
 tags:
   - product
 categories:
@@ -30,10 +30,6 @@ At the conclusion of each year we take a look back at he milestones and accompli
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2017 PCDJ Milestones
 
 * Upgraded and released versions 3.7.5.1 through 3.9.0.10 of [DEX 3](https://tools.techidaily.com/pcdj/products/) (and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/))
@@ -61,10 +57,6 @@ While it’s clear we haven’t exactly been resting on our laurels in 2017 we�
 
 As always visit the blog here often for the latest news and subscribe to the PCDJ newsletter below to stay in the loop!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/pcdj2017-year-in-review.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2017-12-18 16:55:292018-10-02 12:57:28PCDJ 2017 | Year In Review}
@@ -84,18 +76,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/12/pcdj2017-year-in-review.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-top-5-apps-combining-photography-and-soundscape/"><u>[New] Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-greatest-7-web-based-recording-tools-2023/"><u>[Updated] 2024 Approved Greatest 7 Web-Based Recording Tools 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-eyemosaic-the-essential-photo-patcher/"><u>[Updated] EyeMosaic The Essential Photo Patcher</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comment-localiser-et-recuperer-votre-contenu-video-perdu-sur-ring-strategies-avant-garde-2024/"><u>Comment Localiser Et Récupérer Votre Contenu Video Perdu Sur Ring - Stratégies Avant-Garde 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-huion-inspiroy-g10t-touchpad-art-tablet-assessment-exceptional-craftsmanship-and-features/"><u>Comprehensive Huion Inspiroy G10T Touchpad Art Tablet Assessment - Exceptional Craftsmanship & Features</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/design-option-a/"><u>Design Option A</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-getting-back-to-basics-in-windows/"><u>Essential Tips: Getting Back to Basics in Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y36i-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y36i Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/resolved-access-issue-on-windows-11s-device-security-dashboard-now-solved/"><u>Resolved - Access Issue on Windows 11'S Device Security Dashboard Now Solved</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/service-clientele-daide-et-assistance-a-linstallation-daomei-backupper/"><u>Service Clientèle D'aide Et Assistance À L'installation D'AOMEI Backupper</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/techniques-for-preserving-work-related-correspondence-in-popular-email-clients-like-outlook-and-gmail/"><u>Techniques for Preserving Work-Related Correspondence in Popular Email Clients Like Outlook & Gmail.</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-10-free-football-streaming-websites-for-live-matches/"><u>Updated In 2024, Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-subtitled-uninterrupted-access-to-9-festive-holiday-movies-free/"><u>[New] 2024 Approved Subtitled, Uninterrupted Access to 9 Festive Holiday Movies - Free</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-speed-capture-faceoff-gopro-hero-4-challenges-ghost-s/"><u>[Updated] In 2024, Speed Capture Faceoff GoPro Hero 4 Challenges Ghost-S</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-zoom-chats-a-guide-to-effective-online-interactions/"><u>[Updated] Navigating Zoom Chats A Guide to Effective Online Interactions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/complete-step-by-step-tutorial-sharing-your-ios-archive-with-windowsmacos/"><u>Complete Step-by-Step Tutorial: Sharing Your iOS Archive with Windows/MacOS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A05 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/laptop-datenrettungskennzahlen-and-kostengunstige-losungen-professionelle-erleichterungsratschlage/"><u>Laptop-Datenrettungskennzahlen & Kostengünstige Lösungen: Professionelle Erleichterungsratschläge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-unfreezing-deathloop-essential-tips-for-a-seamless-experience-on-pc-and-ps5/"><u>Master the Art of Unfreezing Deathloop: Essential Tips for a Seamless Experience on PC and PS5</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-to-moving-your-applications-from-an-old-phone-to-the-latest-iphone-15/"><u>Step-by-Step Guide to Moving Your Applications From an Old Phone to the Latest iPhone 15</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-retrieving-unintentionally-removed-microsoft-excel-data-on-windows-10-systems/"><u>Step-by-Step Guide: Retrieving Unintentionally Removed Microsoft Excel Data on Windows 10 Systems</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/top-2-dependable-zero-fill-tools-for-windows-111087-free-trial-available/"><u>Top 2 Dependable Zero-Fill Tools for Windows 11/10/8/7: Free Trial Available!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxdvd-suite-the-ultimate-software-for-dvd-ripping-smart-video-editing-and-seamless-iphone-transfer-functionality/"><u>WinXDVD Suite - The Ultimate Software for DVD Ripping, Smart Video Editing, and Seamless iPhone Transfer Functionality</u></a></li>
 </ul></div>
 

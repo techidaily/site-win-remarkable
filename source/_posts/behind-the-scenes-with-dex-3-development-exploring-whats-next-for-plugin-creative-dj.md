@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes with DEX 3 Development - Exploring What's Next for Plugin Creative DJ
-date: 2025-02-14T19:50:24.792Z
-updated: 2025-02-19T02:58:37.646Z
+date: 2025-03-04T22:42:08.728Z
+updated: 2025-03-07T19:44:42.706Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
 
 * **New BPM engine:** The new BPM engine is 3X more accurate, especially for songs with drifting or otherwise varied tempos. Users will want to re-BPM their library with the new engine as it also improves beat-grid mapping and beat SYNC (As well as beat aware FX)
@@ -51,10 +47,6 @@ Email \*
 
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-07-15 11:03:192018-10-03 15:34:40What We Are Working On Now | DEX 3 Edition}
@@ -74,20 +66,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-recording-your-youtube-livestreams/"><u>[Updated] In 2024, Ultimate Guide Recording Your YouTube Livestreams</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/advanced-video-malfunction-your-guide-to-recovery/"><u>Advanced Video Malfunction: Your Guide to Recovery?</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/comprendre-et-resoudre-lopen-random-de-powershell-windows-foires-et-remedes/"><u>Comprendre Et Résoudre L'Open Random De PowerShell Windows: Foires Et Remèdes</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ensename-como-habilitar-windows-11-23h2-con-optimizacion-seo-tutorial-completo-sobre-instalacion-e-informes-de-respaldo/"><u>Enséñame Cómo Habilitar Windows 11 23H2 Con Optimización SEO: Tutorial Completo Sobre Instalación E Informes De Respaldo</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/guia-paso-a-paso-para-transferir-informacion-entre-dos-tabletas-microsoft-surface/"><u>Guía Paso a Paso Para Transferir Información Entre Dos Tabletas Microsoft Surface</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-13-mini-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 13 mini to Computer? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-safaris-picture-in-picture-settings-simplified/"><u>In 2024, Safari’s Picture In Picture Settings Simplified</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-seamless-tiktok-video-downloads-clear-skies-ahead/"><u>In 2024, Seamless TikTok Video Downloads - Clear Skies Ahead</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seamless-switching-between-screens-with-chromes-pip-for-2024/"><u>Seamless Switching Between Screens with Chrome's PIP for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/strategie-efficaci-per-lautomazione-backup-centralizzato-sui-servidori-windows-da-server-2008-a-server-2016/"><u>Strategie Efficaci per L'Automazione Backup Centralizzato Sui Servidori Windows: Da Server 2008 a Server 2016</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/tecnicas-optimas-para-restaurar-particiones-en-ssd-una-guia-definitiva/"><u>Técnicas Óptimas Para Restaurar Particiones en SSD: Una Guía Definitiva</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-wireless-charging-pads-comprehensive-review-by-tech-experts-pcmag/"><u>Top-Rated Wireless Charging Pads : Comprehensive Review by Tech Experts | PCMag</u></a></li>
-<li><a href="https://solve-help.techidaily.com/windows-control-panel-troubleshooting-restoring-programs-with-ease-yl-computing-tutorials/"><u>Windows Control Panel Troubleshooting: Restoring Programs with Ease - YL Computing Tutorials</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/44oh44kj44k544kv56m644gn44ks56k65lplusd44gz44kl44gf44kb44gr44k744kk44ky44o844oi44oa44od44k344ol44oc44o844oj5lik44gn44oq44od44kv44ki44od44ox44ov44kh44kk44or516/"><u>ディスク空きを確保するためにセイゲートダッシュボード上でバックアップファイル削除方法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-choosing-your-first-camera-the-2024-bestseller-list/"><u>[New] Choosing Your First Camera The 2024 Bestseller List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-effortlessly-spread-youtube-videos-on-fb/"><u>[New] In 2024, Effortlessly Spread YouTube Videos on FB</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unlock-speed-the-complete-handbook-on-srt-to-txt-transformation-for-2024/"><u>[Updated] Unlock Speed The Complete Handbook on SRT to TXT Transformation for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-nikons-1j5-a-4k-video-masterpiece/"><u>[Updated] Unveiling Nikon's 1J5 A 4K Video Masterpiece</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-understanding-online-security-is-downloading-files-from-the-web-risk-free/"><u>1. Understanding Online Security: Is Downloading Files From the Web Risk-Free?</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/can-you-rely-on-windows-defender-to-spot-and-block-harmful-software-insights-by-yl-computing/"><u>Can You Rely on Windows Defender to Spot and Block Harmful Software? - Insights by YL Computing</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/diagnosing-and-fixing-non-detected-network-adapters-at-windows-startup-with-help-from-microsoft-certified-expert-yl-software/"><u>Diagnosing and Fixing Non-Detected Network Adapters at Windows Startup with Help From Microsoft Certified Expert YL Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-free-methods-to-enhance-alter-and-amplify-your-vocal-expression/"><u>Discover FREE Methods To Enhance, Alter & Amplify Your Vocal Expression</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/major-warning-preserve-dex-cu-3-and-lyrx-performance-skip-macos-catalina-update/"><u>MAJOR WARNING: Preserve DEX Cu 3 & LYRX Performance, Skip macOS Catalina Update!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/speeding-up-system-initialization-expert-advice-by-yl-computing-and-yl-software/"><u>Speeding Up System Initialization: Expert Advice by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/transfert-de-photos-sd-a-votre-ordinateur-les-trois-methodes-simples/"><u>Transfert De Photos SD À Votre Ordinateur : Les Trois Méthodes Simples</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-video-game-malfunctions-and-crashes/"><u>Ultimate Guide: Resolving Video Game Malfunctions and Crashes</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ultra-hd-aurora-visuals-high-res-desktop-wallpapers-backdrops-and-graphics-by-yl-computing/"><u>Ultra HD Aurora Visuals - High-Res Desktop Wallpapers, Backdrops & Graphics by YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Securing Your Windows 11 Hard Drive - A Step-by-Step Guide (FREE)
-date: 2025-02-16T16:31:59.962Z
-updated: 2025-02-19T04:19:34.233Z
+date: 2025-03-06T20:21:22.085Z
+updated: 2025-03-07T17:40:55.072Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd249dd83c4ff219886bfce5bc1.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost in Windows 11, 10, 8, 7
 
@@ -60,17 +56,9 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -87,10 +75,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
 
 ### Restore Image with Norton Ghost
@@ -104,10 +88,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 2\. Whichever you choose, you can type the file name you need in the box under **Find files to recover** and click **Search** to find it.
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
 
@@ -162,17 +142,9 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:**
 
@@ -185,20 +157,12 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
 * If you don't create a file backup but you want to perform [hard disk image file restore](https://tools.techidaily.com/ubackup/products/) or from other backup types, try the **Explore image** feature. It requires a professional version as well.
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Hard Drive
 
@@ -210,10 +174,6 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -298,24 +258,14 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ocial-media-match-up-youtube-shorts-or-tiktok-for-2024/"><u>[New] Social Media Match-Up Youtube Shorts or TikTok for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-the-secrets-to-perfect-thumbnails-for-2024/"><u>[New] Unlocking the Secrets to Perfect Thumbnails for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-tailored-transmission-terminal-podcasters-hub/"><u>[Updated] 2024 Approved Tailored Transmission Terminal Podcaster's Hub</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-androids-photography-hub-is-pickup-at-the-top-of-its-class-in-2024/"><u>[Updated] Android's Photography Hub Is PickUp at the Top of Its Class, In 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-voice-over-strategies-for-powerpoint-success-stories/"><u>[Updated] Voice-Over Strategies for PowerPoint Success Stories</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/oma/"><u>線上無限OMA自由發送 - 動感威</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/acceso-total-a-las-funciones-de-editing-en-video-con-la-suite-movavi/"><u>Acceso Total a Las Funciones De Editing en Video Con La Suite Movavi</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/converti-senza-costi-mkv-a-flac-online-veloce-e-facile-mediaconversionpro/"><u>Converti Senza Costi MKV a FLAC Online Veloce E Facile - MediaConversionPro</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/convierte-tus-videos-mp4-al-popular-avi-sin-coste-alguno-usando-el-servicio-en-la-web-de-movavi/"><u>Convierte Tus Videos MP4 Al Popular AVI Sin Coste Alguno, Usando El Servicio en La Web De Movavi</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enlightening-education-artificial-intelligences-role-unveiled/"><u>Enlightening Education: Artificial Intelligence's Role Unveiled</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/facile-a-utiliser-logiciel-de-correction-dimages-pour-amateurs/"><u>Facile À Utiliser: Logiciel De Correction D'Images Pour Amateurs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-winx-dvd-converter-hd-dvd-ripping-to-mp4avi-compatible-with-iphone-and-android-devices/"><u>Free WinX DVD Converter - HD DVD Ripping to MP4/AVI Compatible with iPhone and Android Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-gt-neo-5-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme GT Neo 5 Phone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-exploring-televised-facebook-live-4-strategies/"><u>In 2024, Exploring Televised Facebook Live 4 Strategies</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/las-4-formas-mas-eficaces-de-capturar-la-pantalla-del-iphone/"><u>Las 4 Formas Más Eficaces De Capturar La Pantalla Del iPhone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/samsung-galaxy-z-flip-5-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy Z Flip 5 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/scambia-ogv-con-wmv-online-gratuitamente-convertitore-video-di-movavi/"><u>Scambia OGV Con WMV Online Gratuitamente - Convertitore Video Di Movavi</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/top-10-tecnicas-para-transformar-videos-em-gifs-com-a-ferramenta-do-movavi/"><u>Top 10 Técnicas Para Transformar Vídeos Em GIFs Com a Ferramenta Do Movavi</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/vintage-aesthetic-mastering-the-art-of-converting-videos-to-monochrome/"><u>Vintage Aesthetic: Mastering the Art of Converting Videos to Monochrome</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/4-time-saving-ways-to-perfect-loops-in-your-instagram-videos-for-2024/"><u>4 Time-Saving Ways to Perfect Loops in Your Instagram Videos for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/5yaz55yf/"><u>写真</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-capabilities-gpts-excluded-commands/"><u>Beyond Capabilities: GPT's Excluded Commands</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-illusions-of-artificial-intelligence-8-scenarios-where-it-obscures-reality-and-dreams/"><u>Decoding the Illusions of Artificial Intelligence: 8 Scenarios Where It Obscures Reality and Dreams</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/effective-strategies-for-safely-saving-your-data-prior-to-a-system-format-on-windows-operating-systems/"><u>Effective Strategies for Safely Saving Your Data Prior to a System Format on Windows Operating Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tools-for-adding-framing-to-digital-pictures-2023-edition/"><u>Essential Tools for Adding Framing to Digital Pictures - 2023 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-zoom-microphone-working-again-tips-and-solutions-for-windows-1110-problem-solving/"><u>Get Your Zoom Microphone Working Again! Tips & Solutions for Windows 11/10 Problem-Solving</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/solucion-integral-e-innovadora-utilizar-clonador-de-discos-de-la-api-win32-en-tarjetas-sd/"><u>Solución Integral E Innovadora: Utilizar Clonador De Discos De La API Win32 en Tarjetas SD</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ashmya-alnskh-alahtyatya-bshkl-faaal-mn-krs-slb-il-ssd-fy-thlatha-khtoat/"><u>أسهمية النسخ الاحتياطية بشكل فعال من قرص صلب إلى SSD في ثلاثة خطوات</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mover Instalación Del Fabricante (OEM) De Windows 11 a Un Disco Duro Actualizado
-date: 2025-02-16T18:32:43.770Z
-updated: 2025-02-18T16:02:50.937Z
+date: 2025-03-02T16:12:48.722Z
+updated: 2025-03-07T19:01:31.785Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5068f8f5a3061146a72cbc3e.png
@@ -28,10 +28,6 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -49,10 +45,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -68,10 +60,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -93,17 +81,9 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -116,10 +96,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -169,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -198,17 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/fficient-techniques-sharing-video-content-from-youtube-fb-for-2024/"><u>[New] Efficient Techniques Sharing Video Content From YouTube FB for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-film-to-mp3-conversion-tactics/"><u>[Updated] Instagram Film to MP3 Conversion Tactics</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-staying-legal-in-the-digital-space-youtubes-copyright-guide/"><u>2024 Approved Staying Legal in the Digital Space YouTube's Copyright Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-transform-your-recording-experience-moving-past-fbx-methods/"><u>2024 Approved Transform Your Recording Experience Moving Past FBX Methods</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-zoom-mastery-for-top-tier-tiktok-live-events/"><u>2024 Approved Zoom Mastery for Top-Tier TikTok Live Events</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/conversione-libera-di-file-m4a-in-vob-su-internet-usando-movavi-passaggi-fai-da-te/"><u>Conversione Libera Di File M4A in VOB Su Internet Usando Movavi - Passaggi Fai Da Te</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/conversores-mais-populares-e-gratuitos-de-video-do-youtube-para-avi-top-7-recomendados-online/"><u>Conversores Mais Populares E Gratuitos De Vídeo Do Youtube Para Avi, Top 7 Recomendados Online</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-x50iplus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X50i+ Without Password | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/movavis-free-tool-convert-your-flac-audiovideo-to-mp4-on-the-web/"><u>Movavi's Free Tool - Convert Your FLAC Audio/Video to MP4 on the Web!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/movavimp33gp/"><u>Movaviのサービスで簡単にオンラインからMP3へ3GPファイルを変換 - 完全無料</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/troubleshooting-and-repairing-sticky-keys-expert-advice-by-yl-software/"><u>Troubleshooting and Repairing Sticky Keys - Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/veevoederconverteren-gratis-ogm-in-mp4-vervangen-door-movavi-online/"><u>Veevoederconverteren Gratis: OGM in MP4 Vervangen Door Movavi Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ideal-tactic-fusing-gopro-footage-into-a-unified-360-video-experience-for-2024/"><u>[Updated] Ideal Tactic Fusing GoPro Footage Into a Unified 360 Video Experience for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-mac-integration-for-top-tier-mixer-streams/"><u>2024 Approved Leveraging Mac Integration for Top-Tier Mixer Streams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-windows-photo-inspector-fast-edition/"><u>2024 Approved Top Windows Photo Inspector, Fast Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-your-iphones-phone-speaker-level-a-step-by-step-guide/"><u>Boosting Your iPhone's Phone Speaker Level: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/fichier-mp4-a-gif-par-conversion-video-gratuite-movavi/"><u>Fichier MP4 À GIF Par Conversion Vidéo Gratuite - Movavi</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/gratuit-m4v-to-mpg-conversion-en-ligne-avec-movavi-un-guide-complet-et-facile-a-utiliser/"><u>Gratuit M4V-to-MPG Conversion en Ligne Avec Movavi: Un Guide Complet Et Facile À Utiliser</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y36-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo Y36?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-honor-magic-6-lite-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Honor Magic 6 Lite Phone?</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1726224110277-mov-mov/"><u>MOV 媒體介面操作手冊：MOV 檔案的完全指南</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-to-a-safer-online-experience-without-facebook-history/"><u>Navigating to a Safer Online Experience Without Facebook History</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transform-amvs-into-high-quality-avis-without-cost-quick-and-simple-editing-by-movavi/"><u>Transform AMVs Into High-Quality AVIs Without Cost - Quick & Simple Editing by Movavi</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-unlocking-audio-fidelity-top-advice-for-playing-m4a-on-android-devices-for-2024/"><u>Updated Unlocking Audio Fidelity Top Advice for Playing M4A on Android Devices for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo V27 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

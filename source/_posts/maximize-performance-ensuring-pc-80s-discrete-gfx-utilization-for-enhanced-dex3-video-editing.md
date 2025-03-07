@@ -1,7 +1,7 @@
 ---
 title: "Maximize Performance: Ensuring PC-80's DISCRETE GFX Utilization for Enhanced DEX3 Video Editing"
-date: 2025-02-15T02:51:21.982Z
-updated: 2025-02-19T03:18:27.308Z
+date: 2025-03-01T16:24:24.189Z
+updated: 2025-03-07T22:20:05.434Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How-To Make Sure DEX 3 Uses Your Dedicated Graphics Card (Windows 7, 8 and 10)
 
 **NOTE:** While these steps should work for the majority, sometimes they vary from computer manufacturer to computer manufacturer.
@@ -38,27 +34,15 @@ While DEX 3 _can_ mix music videos sufficiently with an Intel HD 3000 series int
 
 [![Graphics Properties](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17181_article_big.png?fit=520%2C216&ssl=1 "Graphics Properties")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17181%5Farticle%5Fbig.png?fit=520%2C216&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![Intel Graphics Media Control Panel](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17129_article_big.png?fit=520%2C389&ssl=1 "Intel Graphics Media Control Panel")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17129%5Farticle%5Fbig.png?fit=520%2C389&ssl=1)
 
 2\. When the ‘Advanced Mode’ window opens click on the ‘3D tab’ and set your 3D preference to ‘Performance’.
 
 [![Intel Graphics 3D preferences](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17133_article_big.png?fit=426%2C394&ssl=1 "Intel Graphics 3D preferences")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17133%5Farticle%5Fbig.png?fit=426%2C394&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Now click on the ‘Power’ tab and set the ‘Power Plans’ to ‘Maximum Performance’.
 
 [![Power Plan Maximize Performance](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17137_article_big.png?fit=428%2C398&ssl=1 "Power Plan Maximize Performance")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/01/17137%5Farticle%5Fbig.png?fit=428%2C398&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Now close the ‘Intel Graphics Control Panel’. Once again right click on your desktop and select the control panel for your dedicated GPU. These will typically be NVIDIA or ATI/AMD Radeon – providing you are indeed using a computer equipped with a dedicated graphics card in addition to your build in card.
 
@@ -98,10 +82,6 @@ The location of the ‘dex3.exe’ is C:/Program Files(x86) / PCDJ / DEX3 /dex3.
 
 [![Switchable Graphics Application Settings for DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/Screen-Shot-2015-01-22-at-4.07.52-pm.png?fit=1030%2C924&ssl=1 "Switchable Graphics Application Settings for DEX 3")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/Screen-Shot-2015-01-22-at-4.07.52-pm.png?fit=1030%2C924&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 12\. Re-boot your DJ computer launch DEX 3 and mix music videos. If you experiance issues or other graphics related problems please visit www.amd.com and download the latest drivers for your specific ATI/AMD Graphics Card.
 
 Now you are optimized for mixing music videos with your discrete (dedicated) graphics card and DEX 3!
@@ -127,20 +107,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/dex3-dedicatedgraphics-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dissecting-youtubes-features-and-mechanisms-after-uploading-content/"><u>[New] In 2024, Dissecting YouTube’s Features and Mechanisms After Uploading Content</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-enhance-your-asmr-experience-with-top-tier-mics-for-2024/"><u>[Updated] Enhance Your ASMR Experience with Top-Tier Mics for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/boosting-your-presence-on-fb-with-virality-techniques/"><u>Boosting Your Presence on FB with Virality Techniques</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/come-copiare-con-successo-il-tuo-hard-disk-su-un-disco-piu-capiente-nelle-versioni-di-windows-11-8-o-7/"><u>Come Copiare Con Successo Il Tuo Hard Disk Su Un Disco Più Capiente Nelle Versioni Di Windows: 11, 8 O 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enabling-real-time-game-audio-in-your-discord-calls-easily/"><u>Enabling Real-Time Game Audio in Your Discord Calls Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-palworld-issues-instant-solutions-for-app-crash-on-startup/"><u>Fix PalWorld Issues: Instant Solutions for App Crash on Startup</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/identifying-overheating-in-your-gpu-a-guide-by-yl-computing/"><u>Identifying Overheating in Your GPU: A Guide by YL Computing</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-best-video-editor-for-vimeo/"><u>In 2024, Best Video Editor for Vimeo</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/re-create-the-boot-configuration-data-bcd-store/"><u>Re-Create the Boot Configuration Data (BCD) Store:</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/section-2a-explanation-of-sweep-frequency-generation/"><u>Section 2A: Explanation of Sweep Frequency Generation</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/simplifizieren-sie-ihr-leben-sofortige-losung-zur-wiederherstellung-von-verschutteten-gmail-nachrichten/"><u>Simplifizieren Sie Ihr Leben: Sofortige Lösung Zur Wiederherstellung Von Verschütteten Gmail Nachrichten</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-restoring-lost-files-on-your-windows-7-hard-disk/"><u>Step-by-Step Guide: Restoring Lost Files on Your Windows 7 Hard Disk</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-safely-erasing-files-from-your-ssd-with-windows/"><u>Step-by-Step Guide: Safely Erasing Files From Your SSD with Windows</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshooting-windows-easy-transfer-solutions-when-unable-to-connect-to-users-domain/"><u>Troubleshooting Windows Easy Transfer: Solutions When Unable to Connect to User's Domain</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-buy-subscribers-wisely-watch-your-numbers-soar/"><u>[Updated] 2024 Approved Buy Subscribers Wisely, Watch Your Numbers Soar</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-srt-to-sub-mastery-unveiling-3-key-strategies/"><u>[Updated] 2024 Approved SRT-to-SUB Mastery Unveiling 3 Key Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-push-more-viewers-to-your-channel-with-easy-tricks-2/"><u>[Updated] Push More Viewers to Your Channel with Easy Tricks (2)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-untangling-box-mystery-ideas-to-boost-joy-for-2024/"><u>[Updated] Untangling Box Mystery Ideas to Boost Joy for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-pixels-a-detailed-analysis-of-8k-tvs/"><u>2024 Approved Pioneering Pixels A Detailed Analysis of 8K TVs</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comment-gerer-linaccessibilite-du-disque-dur-and-la-definition-erronee-du-parametre/"><u>Comment Gérer L’Inaccessibilité Du Disque Dur & La Définition Erronée Du Paramètre</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guide-pratique-pour-faire-face-a-linaccessibilite-des-fichiersdossiers-dans-windows-nouvelle-version-windows-11/"><u>Guide Pratique Pour Faire Face À L’Inaccessibilité Des Fichiers/Dossiers Dans Windows Nouvelle Version, Windows 11 !</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-banish-spotifys-recommended-podcasts-for-2024/"><u>How to Banish Spotify's Recommended Podcasts for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/human-sensibility-in-creative-writing-overlooked-by-bots/"><u>Human Sensibility in Creative Writing Overlooked by Bots</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/le-varie-forme-di-sincronizzazione-unanalisi-comparata-per-una-migliore-ottimizzazione-seo/"><u>Le Varie Forme Di Sincronizzazione: Un'Analisi Comparata per Una Migliore Ottimizzazione SEO</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/page-missing-error-retrieve-content-unavailable/"><u>Page Missing Error - Retrieve Content Unavailable</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-setting-up-your-laptop-with-esxi-for-an-at-home-virtualization-lab/"><u>Step-by-Step Guide: Setting Up Your Laptop with ESXi for an At-Home Virtualization Lab</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728510433462-usb/"><u>USB硬碟斷線？深入了解專業緊急數據搶救技術，如何保全不可或缺的文件</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MAJOR WARNING: Preserve DEX Cu 3 & LYRX Performance, Skip macOS Catalina Update!"
-date: 2025-02-12T06:01:31.531Z
-updated: 2025-02-19T01:39:05.569Z
+date: 2025-02-28T18:59:28.509Z
+updated: 2025-03-07T16:06:29.163Z
 tags:
   - product
 categories:
@@ -25,10 +25,6 @@ When an update is ready for DEX 3 and/or LYRX that supports macOS Catalina you w
 
 If you have a support inquiry regarding any of the above information you can submit a [ticket for PCDJ support](https://tools.techidaily.com/pcdj/products/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2019-10-08 15:54:042019-10-08 15:55:38Important Notice for DEX 3 Users | Do Not Update to macOS Catalina}
@@ -48,17 +44,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/10/no-to-catalina.jpg?fit=706
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-comedy-canvas-painting-laughter-with-top-10-video-concepts/"><u>[New] Comedy Canvas Painting Laughter with Top 10 Video Concepts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-humor-in-video-tips-for-facebook-and-instagram-memes/"><u>[Updated] The Art of Humor in Video Tips for Facebook and Instagram Memes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-techniques-to-zoom-into-online-engagements-intelligently/"><u>2024 Approved Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/amv-mp3-movavi/"><u>免費線上 AMV到 MP3 改版工具 - 以 Movavi 為例演示操作</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-closer-look-at-antroachs-at-1-27-the-perfect-blend-of-elegance-and-excellent-reception-for-your-home-entertainment/"><u>A Closer Look at Antroach's AT-1 27: The Perfect Blend of Elegance & Excellent Reception for Your Home Entertainment</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/efficient-sd-kaartcode-verzameling-ontcijferen-en-herstel-een-gedetailleerd-begrip/"><u>Efficiënt SD-Kaartcode Verzameling, Ontcijferen en Herstel: Een Gedetailleerd Begrip</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/estrategias-para-la-restauracion-exitosa-de-archivos-individuos-tecnicas-practicas/"><u>Estrategias Para La Restauración Exitosa De Archivos Individuos: Técnicas Prácticas</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/google-drive-dateien-wiederherstellen-die-als-endgultig-geloscht-markiert-sind-lernen-sie-hier-8-strategien-kennen/"><u>Google Drive-Dateien Wiederherstellen, Die Als Endgültig Gelöscht Markiert Sind - Lernen Sie Hier 8 Strategien Kennen</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-checklist-for-professional-macro-videographers-for-2024/"><u>The Ultimate Checklist for Professional Macro Videographers for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ultimate-fixes-for-critical-failure-message-0xc1900205-in-windows/"><u>Ultimate Fixes for Critical Failure Message: 0XC1900205 in Windows</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/upgrading-from-windows-10-to-windows-11-unveiling-the-significant-shifts-and-advantages/"><u>Upgrading From Windows 10 to Windows 11? Unveiling the Significant Shifts and Advantages</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-best-10-free-image-transformers-jpg-to-gif-edition-for-2024/"><u>[New] Best 10 FREE Image Transformers JPG to GIF Edition for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-simplify-live-streaming-and-archiving-with-vlc-webcam-integration/"><u>[Updated] Simplify Live Streaming and Archiving with VLC Webcam Integration</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/efficient-auto-backup-solutions-for-windows-server-environments/"><u>Efficient Auto-Backup Solutions for Windows Server Environments</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728508769442-ext4/"><u>Ext4分区安全複製或克隆技巧：将其转换至不同硬盘介面</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/guide-dutilisation-de-la-fonction-de-sauvegarde-dans-le-logiciel-aomei-backupper/"><u>Guide D'utilisation De La Fonction De Sauvegarde Dans Le Logiciel AOMEI Backupper</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oneplus-nord-n30-se-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from OnePlus Nord N30 SE Devices</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/karaoke-software-update-released-new-features-and-seamless-songbookdb-syncing/"><u>Karaoke Software Update Released: New Features and Seamless SongBookDB Syncing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-defy-2-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Defy 2 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/rescue-your-lost-pictures-a-comprehensive-tutorial-on-restoring-deleted-images-in-google-hangouts-chats/"><u>Rescue Your Lost Pictures: A Comprehensive Tutorial on Restoring Deleted Images in Google Hangouts Chats</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-launch-issues-with-tekken-8-on-your-pc/"><u>Troubleshooting Steps: Resolving Launch Issues with Tekken 8 on Your PC</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ultimate-guide-to-recovering-your-active-directory-from-a-windows-server-snapshot/"><u>Ultimate Guide to Recovering Your Active Directory From a Windows Server Snapshot</u></a></li>
 </ul></div>
 
